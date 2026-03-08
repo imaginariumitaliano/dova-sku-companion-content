@@ -24,13 +24,13 @@
         },
         {
           "number": 2,
-        "title": "Family",
-        "images": [
-          {
-            "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content/images/transync/ch02/chris-josh-at-table.png",
-            "title": "Chapter 2 - Family",
-            "description": "Chris and his brother Josh sharing a quiet moment after returning from a long deployment."
-          }
+          "title": "Chapter 2",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch02/chris-josh-at-table.png",
+              "title": "Chris and Josh at the Table",
+              "description": "Chris and his brother Josh discussing the mission before departure."
+            }
           ]
         },
         {
