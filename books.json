@@ -8,12 +8,12 @@
       "chapters": [
         {
           "number": 1,
-          "title": "Arrival on Catora",
+          "title": "Training Camp",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/transync/ch01/image1.jpg",
-              "title": "Arrival on Catora",
-              "description": "The Light Skipper descends toward the forest world."
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content/images/transync/ch01/chris-in-training-camp.png",
+              "title": "Chapter 1 - Blitz",
+              "description": "Chris engaged insimulated battle scenarios during the military training for the Light Skipper's crew."
             }
           ]
         }
