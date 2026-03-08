@@ -4,14 +4,14 @@
       "id": "transync",
       "title": "Transync",
       "subtitle": "The Dova Sku Series · Book 1",
-      "coverImage": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/transync/cover.jpg",
+      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content/images/transync/cover.jpg",
       "chapters": [
         {
           "number": 1,
           "title": "Arrival on Catora",
           "images": [
             {
-              "url": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/transync/ch01/image1.jpg",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content/images/transync/ch01/image1.jpg",
               "title": "Arrival on Catora",
               "description": "The Light Skipper descends toward the forest world."
             }
