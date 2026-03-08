@@ -8,7 +8,7 @@
       "chapters": [
         {
           "number": 1,
-          "title": "Training Camp",
+          "title": "Blitz",
           "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content/images/transync/ch01/chris-in-training-camp.png",
@@ -20,12 +20,12 @@
       ]
         {
           "number": 2,
-        "title": "Chapter 2 Title",
+        "title": "Family",
         "images": [
           {
             "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content/images/transync/ch02/chris-josh-at-table.png",
-            "title": "Chris and Josh at the Table",
-            "description": "Chris and his brother Josh sharing a quiet moment before the mission begins."
+            "title": "Chapter 2 - Family",
+            "description": "Chris and his brother Josh sharing a quiet moment after returning from a long deployment."
           }
         ]
       }
