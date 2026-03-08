@@ -4,10 +4,15 @@
       "id": "transync",
       "title": "Transync",
       "subtitle": "The Dova Sku Series · Book 1",
-      "coverImage": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/transync/cover.jpg",
+      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content/images/transync/cover.jpg",
       "chapters": [
         {
-          "number": 1,
+          "number": 0,
+          "title": "Prologue",
+          "images": []
+        },
+        {
+           "number": 1,
           "title": "Blitz",
           "images": [
             {
@@ -16,8 +21,7 @@
               "description": "Chris engaged in simulated battle scenarios during the military training for the Light Skipper's crew."
             }
           ]
-        }
-      ]
+        },
         {
           "number": 2,
         "title": "Family",
@@ -27,8 +31,139 @@
             "title": "Chapter 2 - Family",
             "description": "Chris and his brother Josh sharing a quiet moment after returning from a long deployment."
           }
-        ]
-      }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Discovery",
+          "images": []
+        },
+        {
+          "number": 4,
+          "title": "The Long Sleep",
+          "images": []
+        },
+        {
+          "number": 5,
+          "title": "Chapter 5",
+          "images": []
+        },
+        {
+          "number": 6,
+          "title": "Chapter 6",
+          "images": []
+        },
+        {
+          "number": 7,
+          "title": "Chapter 7",
+          "images": []
+        },
+        {
+          "number": 8,
+          "title": "Chapter 8",
+          "images": []
+        },
+        {
+          "number": 9,
+          "title": "Chapter 9",
+          "images": []
+        },
+        {
+          "number": 10,
+          "title": "Chapter 10",
+          "images": []
+        },
+        {
+          "number": 11,
+          "title": "Research Base Alpha",
+          "images": []
+        },
+        {
+          "number": 12,
+          "title": "Chapter 12",
+          "images": []
+        },
+        {
+          "number": 13,
+          "title": "Chapter 13",
+          "images": []
+        },
+        {
+          "number": 14,
+          "title": "Back at It",
+          "images": []
+        },
+        {
+          "number": 15,
+          "title": "Liam’s Knowledge",
+          "images": []
+        },
+        {
+          "number": 16,
+          "title": "The Millennium War",
+          "images": []
+        },
+        {
+          "number": 17,
+          "title": "Ruins",
+          "images": []
+        },
+        {
+          "number": 18,
+          "title": "Conspiracy Theory",
+          "images": []
+        },
+        {
+          "number": 19,
+          "title": "Captured Energy",
+          "images": []
+        },
+        {
+          "number": 20,
+          "title": "Unwanted Surprise",
+          "images": []
+        },
+        {
+          "number": 21,
+          "title": "Unexpected Friendship",
+          "images": []
+        },
+        {
+          "number": 22,
+          "title": "Timing Is Everything",
+          "images": []
+        },
+        {
+          "number": 23,
+          "title": "Redirected",
+          "images": []
+        },
+        {
+          "number": 24,
+          "title": "Retreat",
+          "images": []
+        },
+        {
+          "number": 25,
+          "title": "Skrema",
+          "images": []
+        },
+        {
+          "number": 26,
+          "title": "To the Death",
+          "images": []
+        },
+        {
+          "number": 27,
+          "title": "Survivors",
+          "images": []
+        },
+        {
+          "number": 28,
+          "title": "Epilogue",
+          "images": []
+        }
+      ]
     }
   ]
 }
