@@ -18,6 +18,17 @@
           ]
         }
       ]
+        {
+          "number": 2,
+        "title": "Chapter 2 Title",
+        "images": [
+          {
+            "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content/images/transync/ch02/chris-josh-at-table.png",
+            "title": "Chris and Josh at the Table",
+            "description": "Chris and his brother Josh sharing a quiet moment before the mission begins."
+          }
+        ]
+      }
     }
   ]
 }
