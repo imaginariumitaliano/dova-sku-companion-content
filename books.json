@@ -9,8 +9,12 @@
         {
           "number": 0,
           "title": "Prologue",
-          "images": []
-        },
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch00/prologue_destroyed_fob.png",
+              "title": "Prologue",
+              "description": "Remnants of wat remains. How did this happen?"
+            },
         {
           "number": 1,
           "title": "Blitz",
