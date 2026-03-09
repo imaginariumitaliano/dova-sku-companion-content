@@ -53,17 +53,55 @@
         {
           "number": 4,
           "title": "The Long Sleep",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch04/light_skipper_deployment.png",
+              "title": "Chapter 4 - The Long Sleep",
+              "description": "The Light Skipper being prepared for deployment."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch04/cryo_pods.png",
+              "title": "Chapter 4 - The Long Sleep",
+              "description": "The trip would be spent in cryogenic sleep pods for 2 years."
+            }
+          ]
         },
         {
           "number": 5,
-          "title": "Chapter 5",
-          "images": []
+          "title": "Arrival",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch05/chris_in_hall.png",
+              "title": "Chapter 5 - Arrival",
+              "description": "It would take a while for Chris to get used to these new uniforms."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch05/catora_from_bridge.png",
+              "title": "Chapter 5 - Arrival",
+              "description": "The view reminded Chris of Earth, but not quite."
+            }
+          ]
         },
         {
           "number": 6,
-          "title": "Chapter 6",
-          "images": []
+          "title": "Planetfall",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/lola_planetfall.png",
+              "title": "Chapter 6 - Planetfall",
+              "description": "Weightless for the first time."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/pllanetfall.png",
+              "title": "Chapter 6 - Planetfall",
+              "description": "First steps onto an alien world."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/mud_frog.png",
+              "title": "Chapter 6 - Planetfall",
+              "description": "Your first alien creature, a Mud Frog!"
+            }
+          ]
         },
         {
           "number": 7,
