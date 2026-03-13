@@ -180,13 +180,35 @@
         },
         {
           "number": 12,
-          "title": "Chapter 12",
-          "images": []
+          "title": "Even Bigger",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch12/forest_obelisk.png",
+              "title": "Chapter 12 - Even Bigger",
+              "description": "The second anomaly turns out to be more than they imagined."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch12/first_garello.png",
+              "title": "Chapter 12 - Even Bigger",
+              "description": "The monstrosity was more akin to the great dinosaurs of Earth than to anything else he had ever seen."
+            }
+          ]
         },
         {
           "number": 13,
-          "title": "Chapter 13",
-          "images": []
+          "title": "Recovery",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch13/injured_chris.png",
+              "title": "Chapter 13 - Recovery",
+              "description": "Chris's subconscious mind flashed to an image of the broken soldier bleeding out inside the obelisk."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch13/chris_medbay.png",
+              "title": "Chapter 13 - Recovery",
+              "description": "Walking up in the medbay."
+            }
+          ]
         },
         {
           "number": 14,
