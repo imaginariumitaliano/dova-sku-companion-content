@@ -105,28 +105,78 @@
         },
         {
           "number": 7,
-          "title": "Chapter 7",
-          "images": []
+          "title": "New Frontier",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch07/debriefing.png",
+              "title": "Chapter 7 - New Frontier",
+              "description": "Mission debriefing after first planetfall."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch07/utv_fun.png",
+              "title": "Chapter 7 - New Frontier",
+              "description": "Nunez gets a little too familiar with the UTV."
+            }
+          ]
         },
         {
           "number": 8,
-          "title": "Chapter 8",
-          "images": []
+          "title": "Forward Operating Base",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch08/surprise_attack.png",
+              "title": "Chapter 8 - Forward Operating Base",
+              "description": "Chung is surprised by one of the native animals."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch08/landed_lightskipper.png",
+              "title": "Chapter 8 - Forward Operating Base",
+              "description": "The Light Skipper transitions to the surface."
+            }
+          ]
         },
         {
           "number": 9,
-          "title": "Chapter 9",
-          "images": []
+          "title": "First Month Down",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch09/lunch_conversation.png",
+              "title": "Chapter 9 - First Month Down",
+              "description": "Kat interrupts Chris and Josh's lunch."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch09/lakeside_defense.png",
+              "title": "Chapter 9 - First Month Down",
+              "description": "A small pack of Laredo Dragons corner the Falcon Team."
+            }
+          ]
         },
         {
           "number": 10,
-          "title": "Chapter 10",
-          "images": []
+          "title": "Not The First",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch10/rock_pile.png",
+              "title": "Chapter 10 - Not The First",
+              "description": "The source of the anomaly."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch10/cuneiform.png",
+              "title": "Chapter 10 - Not The First",
+              "description": "Analysing the familiar script etched into the obelisk."
+            }
+          ]
         },
         {
           "number": 11,
           "title": "Research Base Alpha",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch11/cave_obelisk.png",
+              "title": "Chapter 11 - Research Base Alpha",
+              "description": "Everything looks more incredible in the light."
+            }
+          ]
         },
         {
           "number": 12,
