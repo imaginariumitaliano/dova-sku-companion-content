@@ -229,12 +229,34 @@
         {
           "number": 15,
           "title": "Liam's Knowledge",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/alpha_base.png",
+              "title": "Chapter 15 - Liam's Knowledge",
+              "description": "Overlooking the changes to Research Base Alpha."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/bravo_base.png",
+              "title": "Chapter 15 - Liam's Knowledge",
+              "description": "Checking in on the changes to Research Base Bravo."
+            }
+          ]
         },
         {
           "number": 16,
           "title": "The Millennium War",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch16/akura_first.png",
+              "title": "Chapter 16 - The Millennium War",
+              "description": "The Aku'Ra species' first contact with outsiders."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch16/akura_runner.png",
+              "title": "Chapter 16 - The Millennium War",
+              "description": "Optio Turas sprinting through the city park. 459th Annual of the war."
+            }
+          ]
         },
         {
           "number": 17,
