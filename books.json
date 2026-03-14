@@ -212,8 +212,19 @@
         },
         {
           "number": 14,
-          "title": "Back at It",
-          "images": []
+          "title": "Back At It",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch14/cybernetic_chris.png",
+              "title": "Chapter 14 - Back At It",
+              "description": "Chris tries to move forward with his recovery."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch14/drake_reveal.png",
+              "title": "Chapter 14 - Back At It",
+              "description": "Josh reveals his surprise."
+            }
+          ]
         },
         {
           "number": 15,
