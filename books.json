@@ -239,6 +239,11 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/bravo_base.png",
               "title": "Chapter 15 - Liam's Knowledge",
               "description": "Checking in on the changes to Research Base Bravo."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/tarlon_encounter.png",
+              "title": "Chapter 15 - Liam's Knowledge",
+              "description": "The crew's first encounter with a Tarlon."
             }
           ]
         },
@@ -282,12 +287,34 @@
         {
           "number": 18,
           "title": "Conspiracy Theory",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch18/uplifting_humans.png",
+              "title": "Chapter 18 - Conspiracy Theory",
+              "description": "The Aku'Ra's design for uplifting the humans of Catora."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch18/designing_liams_avatar.png",
+              "title": "Chapter 18 - Conspiracy Theory",
+              "description": "Liam and the team work on the design for his avatar."
+            }
+          ]
         },
         {
           "number": 19,
           "title": "Captured Energy",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch19/initiating_rba.png",
+              "title": "Chapter 19 - Captured Energy",
+              "description": "Initiating the energy capture sequence at Research Base Alpha."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch19/fapu_fight.png",
+              "title": "Chapter 19 - Captured Energy",
+              "description": "The team is ambushed by a pack of Fapu."
+            }
+          ]
         },
         {
           "number": 20,
