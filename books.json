@@ -266,7 +266,18 @@
         {
           "number": 17,
           "title": "Ruins",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch17/loading_lola.png",
+              "title": "Chapter 17 - Ruins",
+              "description": "Chris and his team prepare for another expedition."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch17/cave_ruins.png",
+              "title": "Chapter 17 - Ruins",
+              "description": "Schumacher finds a relic from the past Sepu civilization."
+            }
+          ]
         },
         {
           "number": 18,
