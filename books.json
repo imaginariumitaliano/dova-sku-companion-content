@@ -319,17 +319,50 @@
         {
           "number": 20,
           "title": "Unwanted Surprise",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch20/regulas_appearance.png",
+              "title": "Chapter 20 - Unwanted Surprise",
+              "description": "The appearance of the enemy."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch20/svixen_soldier.png",
+              "title": "Chapter 20 - Unwanted Surprise",
+              "description": "That's a Svixen?."
+            }
+          ]
         },
         {
           "number": 21,
           "title": "Unexpected Friendship",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch21/cave_hideout.png",
+              "title": "Chapter 21 - Unexpected Friendship",
+              "description": "Hiding out from the Svixen in a cave at an abandoned mine."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch21/new_friends.png",
+              "title": "Chapter 21 - Unexpected Friendship",
+              "description": "Chris is approached by an unexpected visitor."
+            }
+          ]
         },
         {
           "number": 22,
-          "title": "Timing Is Everything",
-          "images": []
+          "title": "Timing is Everything",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/incoming_call.png",
+              "title": "Chapter 22 - Timing is Everything",
+              "description": "Finally, contact from the Light Skipper."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/leaving_cave.png",
+              "title": "Chapter 22 - Timing is Everything",
+              "description": "The cavebound team leaves to meet up with the Light Skipper."
+            }
+          ]
         },
         {
           "number": 23,
