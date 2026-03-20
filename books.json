@@ -361,23 +361,61 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/leaving_cave.png",
               "title": "Chapter 22 - Timing is Everything",
               "description": "The cavebound team leaves to meet up with the Light Skipper."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/bridge_view.png",
+              "title": "Chapter 22 - Timing is Everything",
+              "description": "Now that the crew is back together, they prepare to leave the Galus system."
             }
           ]
         },
         {
           "number": 23,
           "title": "Redirected",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch23/space_encounter.png",
+              "title": "Chapter 23 - Redirected",
+              "description": "The Light Skipper is struck and the Svixen Regulas Class ship appears out of nowhere."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch23/team_prep.png",
+              "title": "Chapter 23 - Redirected",
+              "description": "The Falcon's prepare for battle and to flee the Light Skipper."
+            }
+          ]
         },
         {
           "number": 24,
           "title": "Retreat",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/falling_lightskipper.png",
+              "title": "Chapter 24 - Retreat",
+              "description": "The Light Skipper is out of control and falling back to Catora."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/crashed_miner.png",
+              "title": "Chapter 24 - Retreat",
+              "description": "The mining vessel Chris was on is now a crash site in the forest."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/ambush.png",
+              "title": "Chapter 24 - Retreat",
+              "description": "Davis's team is ambushed in the forest by a small pack of Sveri Sku."
+            }
+          ]
         },
         {
           "number": 25,
           "title": "Skrema",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/crashed_lola.png",
+              "title": "Chapter 25 - Skrema",
+              "description": "Our second vehicle crash in as many hours."
+            }
+          ]
         },
         {
           "number": 26,
