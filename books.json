@@ -414,23 +414,56 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/crashed_lola.png",
               "title": "Chapter 25 - Skrema",
               "description": "Our second vehicle crash in as many hours."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/sverisku_attack.png",
+              "title": "Chapter 25 - Skrema",
+              "description": "The Svixen are no longer holding back. They send in their Sveri Sku. Chris recognizes them as devolved Sepu."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/cave_battle.png",
+              "title": "Chapter 25 - Skrema",
+              "description": "The explosion destroyed the wall and the Sveri Sku begin to overwhelm the crew."
             }
           ]
         },
         {
           "number": 26,
           "title": "To the Death",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch26/skrema.png",
+              "title": "Chapter 26 - To the Death",
+              "description": "Chris confronts the group of Svixen that approach."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch26/breven.png",
+              "title": "Chapter 26 - To the Death",
+              "description": "Semula Breven declares Chris's victory, and Earth's future loss."
+            }
+          ]
         },
         {
           "number": 27,
           "title": "Survivors",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch27/buried_soldier.png",
+              "title": "Chapter 27 - Survivors",
+              "description": "Carmelo is found covered in the rubble of the destroyed LSPD wall."
+            }
+          ]
         },
         {
           "number": 28,
           "title": "Epilogue",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch28/overlooking_destruction.png",
+              "title": "Epilogue",
+              "description": "Chris and Fenrir make it to the FOB in search for medical supplies."
+            }
+          ]
         }
       ]
     }
