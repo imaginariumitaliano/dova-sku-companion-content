@@ -466,6 +466,46 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ascendant",
+      "title": "Ascendant",
+      "subtitle": "The Dova Sku Series · Book 2",
+      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/cover.png",
+      "chapters": [
+        { "number": 0, "title": "Prologue", "images": [] },
+        { "number": 1, "title": "After the Fire", "images": [] },
+        { "number": 2, "title": "Enhancements", "images": [] },
+        { "number": 3, "title": "Rebuilding", "images": [] },
+        { "number": 4, "title": "Spacebound", "images": [] },
+        { "number": 5, "title": "Activating the Trantions", "images": [] },
+        { "number": 6, "title": "Abducted", "images": [] },
+        { "number": 7, "title": "The Other Side", "images": [] },
+        { "number": 8, "title": "Meeting Royalty", "images": [] },
+        { "number": 9, "title": "Decisions to Make", "images": [] },
+        { "number": 10, "title": "Ambushed", "images": [] },
+        { "number": 11, "title": "Calores Region Safehouse", "images": [] },
+        { "number": 12, "title": "Seutor's Flora… and Fauna", "images": [] },
+        { "number": 13, "title": "Lesfer Spaceport", "images": [] },
+        { "number": 14, "title": "Full Control", "images": [] },
+        { "number": 15, "title": "New Toy", "images": [] },
+        { "number": 16, "title": "Politics", "images": [] },
+        { "number": 17, "title": "Round Trip", "images": [] },
+        { "number": 18, "title": "Digging In", "images": [] },
+        { "number": 19, "title": "Envoys", "images": [] },
+        { "number": 20, "title": "Semula Breven", "images": [] },
+        { "number": 21, "title": "System Checks", "images": [] },
+        { "number": 22, "title": "The Ascendant Stirs", "images": [] },
+        { "number": 23, "title": "Fire in the Void", "images": [] },
+        { "number": 24, "title": "Close Quarters Combat", "images": [] },
+        { "number": 25, "title": "Not Prey", "images": [] },
+        { "number": 26, "title": "Broken but Unbowed", "images": [] },
+        { "number": 27, "title": "Heatline", "images": [] },
+        { "number": 28, "title": "Heat Kept, Water Spent", "images": [] },
+        { "number": 29, "title": "Hit and Run", "images": [] },
+        { "number": 30, "title": "Ghosts in the Stars", "images": [] },
+        { "number": 31, "title": "Epilogue", "images": [] }
+      ]
     }
   ]
 }
