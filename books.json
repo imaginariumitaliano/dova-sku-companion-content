@@ -462,6 +462,11 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch28/overlooking_destruction.png",
               "title": "Epilogue",
               "description": "Chris and Fenrir make it to the FOB in search for medical supplies."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch28/get_in.png",
+              "title": "Epilogue",
+              "description": "Chris tries to coax Fenrir into riding in the back of the UTV."
             }
           ]
         }
@@ -473,10 +478,58 @@
       "subtitle": "The Dova Sku Series · Book 2",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/cover.png",
       "chapters": [
-        { "number": 0, "title": "Prologue", "images": [] },
-        { "number": 1, "title": "After the Fire", "images": [] },
-        { "number": 2, "title": "Enhancements", "images": [] },
-        { "number": 3, "title": "Rebuilding", "images": [] },
+        { "number": 0, "title": "Prologue", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch00/created.png",
+              "title": "Prologue",
+              "description": "I was not born. I was created."
+            }
+          ]
+        },
+        { "number": 1, "title": "After the Fire", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch01/injured_morgan.png",
+              "title": "Chapter 1 - After the Fire",
+              "description": "Chris makes it back to the cave hideout with supplies for Morgan's wounds."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch01/chris_hank_chance.png",
+              "title": "Chapter 1 - After the Fire",
+              "description": "Chris sits around the fire with Combat Specialist Davis and Tech Specialist Linkenbach."
+            }
+          ]
+        },
+        { "number": 2, "title": "Enhancements", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/crashsite.png",
+              "title": "Chapter 2 - Enhancements",
+              "description": "Overlooking the crashsite of the Light Skipper."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/nanite_dust.png",
+              "title": "Chapter 2 - Enhancements",
+              "description": "Chris collects more nanites from the podium at Research Base Bravo."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/trapped_fapu.png",
+              "title": "Chapter 2 - Enhancements",
+              "description": "The crew finds a surprise while searching the crashed Light Skipper for supplies."
+            }
+          ]
+        },
+        { "number": 3, "title": "Rebuilding", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch03/team_meeting.png",
+              "title": "Chapter 3 - Rebuilding",
+              "description": "Liam and Chris explain their plans moving forward."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch03/lola_leaving_bravo.png",
+              "title": "Chapter 3 - Rebuilding",
+              "description": "Chris and Liam, along with Rowley, leave Catora for the first trantion."
+            }
+          ]
+        },
         { "number": 4, "title": "Spacebound", "images": [] },
         { "number": 5, "title": "Activating the Trantions", "images": [] },
         { "number": 6, "title": "Abducted", "images": [] },
