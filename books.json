@@ -522,15 +522,27 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch03/team_meeting.png",
               "title": "Chapter 3 - Rebuilding",
               "description": "Liam and Chris explain their plans moving forward."
-            },
-            {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch03/lola_leaving_bravo.png",
-              "title": "Chapter 3 - Rebuilding",
-              "description": "Chris and Liam, along with Rowley, leave Catora for the first trantion."
             }
           ]
         },
-        { "number": 4, "title": "Spacebound", "images": [] },
+        { "number": 4, "title": "Spacebound", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/lola_leaving_bravo.png",
+              "title": "Chapter 4 - Spacebound",
+              "description": "Chris and Liam, along with Rowley, leave Catora for the first trantion."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/space_contact.png",
+              "title": "Chapter 4 - Spacebound",
+              "description": "A radar contact is picked up by Liam."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/destroyed_scout.png",
+              "title": "Chapter 4 - Spacebound",
+              "description": "Liam shows Rowley and Chris an up-close-view of the destruction of the scout ship."
+            }
+          ]
+        },
         { "number": 5, "title": "Activating the Trantions", "images": [] },
         { "number": 6, "title": "Abducted", "images": [] },
         { "number": 7, "title": "The Other Side", "images": [] },
