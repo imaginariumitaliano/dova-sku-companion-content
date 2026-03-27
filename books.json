@@ -543,8 +543,32 @@
             }
           ]
         },
-        { "number": 5, "title": "Activating the Trantions", "images": [] },
-        { "number": 6, "title": "Abducted", "images": [] },
+        { "number": 5, "title": "Activating the Trantions", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/transync_lights.png",
+              "title": "Chapter 5 - Activating the Trantions",
+              "description": "Josh and Carmelo notice a change in the lighting of the Transync Station."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/trantion.png",
+              "title": "Chapter 5 - Activating the Trantions",
+              "description": "Connecting to the Aku'Ra Trantions."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/maaket_arrival.png",
+              "title": "Chapter 5 - Activating the Trantions",
+              "description": "The Transync portal opens with unexpected visitors."
+            }
+          ]
+        },
+        { "number": 6, "title": "Abducted", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch06/back_to_catora.png",
+              "title": "Chapter 6 - Abducted",
+              "description": "Chris and Rowley return to Catora safely."
+            }
+          ]
+        },
         { "number": 7, "title": "The Other Side", "images": [] },
         { "number": 8, "title": "Meeting Royalty", "images": [] },
         { "number": 9, "title": "Decisions to Make", "images": [] },
