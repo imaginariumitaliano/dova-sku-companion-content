@@ -566,11 +566,45 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch06/back_to_catora.png",
               "title": "Chapter 6 - Abducted",
               "description": "Chris and Rowley return to Catora safely."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch06/abducted.png",
+              "title": "Chapter 6 - Abducted",
+              "description": "Liam shows everyone the video of the Maaket arriving through the Transync portal."
             }
           ]
         },
-        { "number": 7, "title": "The Other Side", "images": [] },
-        { "number": 8, "title": "Meeting Royalty", "images": [] },
+        { "number": 7, "title": "The Other Side", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/tual_station.png",
+              "title": "Chapter 7 - The Other Side",
+              "description": "Chris and his team step into the Tual Transync Station and surprise the Maaket on duty."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/maaket_hostage.png",
+              "title": "Chapter 7 - The Other Side",
+              "description": "Chris surprises a Maaket while testing his suit's new capabilities."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/surrender.png",
+              "title": "Chapter 7 - The Other Side",
+              "description": "Chris and his team surrender to the Maaket guards."
+            }
+          ]
+        },
+        { "number": 8, "title": "Meeting Royalty", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch08/holding_cell.png",
+              "title": "Chapter 8 - Meeting Royalty",
+              "description": "Chris, Morgan, Lemmon and Robertson wait in the Maaket holding cell in the palace."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch08/meeting_princess.png",
+              "title": "Chapter 8 - Meeting Royalty",
+              "description": "The team is taken to the throne room to meet Princess Cashy and her entourage."
+            }
+          ]
+        },
         { "number": 9, "title": "Decisions to Make", "images": [] },
         { "number": 10, "title": "Ambushed", "images": [] },
         { "number": 11, "title": "Calores Region Safehouse", "images": [] },
