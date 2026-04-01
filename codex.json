@@ -1,0 +1,234 @@
+{
+  "characters": [
+    {
+      "id": "chris",
+      "name": "Lieutenant Christopher Thompkins",
+      "nicknames": ["Dova Sku", "The Hell Machine"],
+      "role": "Mission Commander",
+      "affiliation": "Team Falcon / Galactic Navy",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Chris.png",
+      "bio": "Main protagonist and leader of Team Falcon. Twin to Josh — a scar on his upper right lip is the only distinguishing facial feature. A decorated soldier who graduated high school in 2046. After being mauled by a Garello and left for dead, Josh replaces several of his limbs with BioSteel's newest cybernetic parts. Bonded with the AI Liam. Determined, strategic, and emotionally grounded by his relationships with the crew.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "liam",
+      "name": "Liam",
+      "nicknames": ["LM24"],
+      "role": "Artificial Intelligence",
+      "affiliation": "Aku'Ra / Team Falcon",
+      "image": null,
+      "bio": "Alien artificial intelligence created by the Aku'Ra. Lives within Chris's mind, narrating events from a first-person perspective. Initially emotionless, Liam gradually develops personality and emotional depth — a growing kernel of emotional mysteries.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "josh",
+      "name": "Joshua Thompkins",
+      "nicknames": [],
+      "role": "Cybernetic Specialist & Nanotech Engineer",
+      "affiliation": "Engineering Division",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Josh.png",
+      "bio": "Chris's twin brother and a brilliant molecular engineer. Creator of Polycarbonate Coated Metallic Graphene (PCMG). Genius and fast-talking inventor. Works at BioSteel Cybernetic Industries alongside his mother. Remains on Tual for a time, working with the Maaket to develop new technologies for the crew.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "kat",
+      "name": "Kathryn Andersen",
+      "nicknames": ["Kat"],
+      "role": "Lead Xenobiologist",
+      "affiliation": "Science Division",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Kat.png",
+      "bio": "Red-headed xenobiologist whose sleep pod is next to Chris's. Tough exterior with a sharp wit. Initially reluctant about staying on Catora, she ultimately chooses to remain and help rebuild. Present in chapters 1–21 of Ascendant.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "campbell",
+      "name": "Chief Petty Officer Tanner Campbell",
+      "nicknames": ["Goat"],
+      "role": "Second-in-Command, Team Falcon",
+      "affiliation": "US Navy / Team Falcon",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Campbell.png",
+      "bio": "Chris's second-in-command. Has been on the same unit as Chris for four years and applied for the New Frontier Mission immediately upon hearing of Chris's acceptance. Quietly intense. Volunteers to stay behind on Catora to help rebuild humanity.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "davis",
+      "name": "Combat Specialist Richard Davis",
+      "nicknames": ["Hank"],
+      "role": "Combat Specialist",
+      "affiliation": "US Marine Corps / Team Falcon",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Davis.png",
+      "bio": "First met Chris in Nepal during an attack on a local oil pipeline. Chris's reliable combat specialist and old friend. Gritty, competent, and pragmatic with fierce loyalty and a dry sense of humor.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "morgan",
+      "name": "Medical Specialist Chloe Morgan",
+      "nicknames": [],
+      "role": "Combat Medic",
+      "affiliation": "US Army / Team Falcon",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Morgan.png",
+      "bio": "One of four female soldiers on the mission. Combat medic with a foul mouth and fierce loyalty. She once told Chris, \"You might curse like a sailor, but I'm a fucking pirate.\" Cares deeply for the crew and hides emotional depth under sarcasm.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "carmelo",
+      "name": "Ensign Casey Carmelo",
+      "nicknames": [],
+      "role": "Executive Officer, Light Skipper",
+      "affiliation": "US Navy",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Carmelo.png",
+      "bio": "Executive Officer and second-in-command to Captain Terzi aboard the Light Skipper. Technically the highest-ranking officer left alive after events unfold, but allows Chris to take charge. Chris gives him back authority when they are aboard the Ascendant.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "marie",
+      "name": "Second Lieutenant Brittney Marie",
+      "nicknames": [],
+      "role": "Pilot, LOLA 2 / Ascendant",
+      "affiliation": "US Air Force / Team Falcon",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Marie.png",
+      "bio": "Pilot of LOLA Two and later the Ascendant. Calm under pressure and masterful at evasive maneuvers. Dry and sardonic, she is one of the mission's most reliable assets in the cockpit.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "lemmon",
+      "name": "Corporal Joshua Lemmon",
+      "nicknames": [],
+      "role": "Combat / Weapons",
+      "affiliation": "US Marine Corps / Team Falcon",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Lemmon.png",
+      "bio": "Weapons and general combat specialist. Morale specialist for the team. Has no close ties back on Earth. Stays on Catora to help maintain connection and spirit.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "linkenbach",
+      "name": "Technology Specialist Chance Linkenbach",
+      "nicknames": ["Nasty Man"],
+      "role": "Technology Specialist",
+      "affiliation": "US Army / Team Falcon",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Linkenbach.png",
+      "bio": "One of the military team's three technology specialists. Focused and intense, he manages point-defense and external threats. Earns the callsign 'Nasty Man' after being the only crew member to enjoy the Maaket food.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "robertson",
+      "name": "Petty Officer Jesse Robertson",
+      "nicknames": [],
+      "role": "Security Specialist",
+      "affiliation": "US Navy / Team Falcon",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Robertson.png",
+      "bio": "Security specialist and loyal member of Team Falcon. Focused and dependable in battle.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "miller",
+      "name": "Petty Officer Brandon Miller",
+      "nicknames": [],
+      "role": "Team Falcon",
+      "affiliation": "US Navy / Team Falcon",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Miller.png",
+      "bio": "Member of Team Falcon. Present from the mission's start through Chapter 23 of Ascendant. His death late in the story leaves an emotional scar on the crew.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "blevins",
+      "name": "Technology Specialist Scott Blevins",
+      "nicknames": [],
+      "role": "Technology Specialist",
+      "affiliation": "US Army / Team Falcon",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Blevins.png",
+      "bio": "Tech expert and member of Team Falcon with a sarcastic edge. Often provides levity in tense moments. Known for fawning over Morgan.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "lin",
+      "name": "Professor Kenzo Lin",
+      "nicknames": [],
+      "role": "Lead Climatologist",
+      "affiliation": "Science Division",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Lin.png",
+      "bio": "The expedition's lead climatologist. A mild-tempered man of Asian descent who grew up in the United States but retained some of his parents' Taiwanese accent. Polite and clear-spoken — he explains complex topics in layman's terms, which Chris appreciated. Also an avid shooter and USPSA 3-Gun regional champion who offers to train the civilians.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "rowley",
+      "name": "Doctor Ray Rowley",
+      "nicknames": ["Nick"],
+      "role": "Theoretical Physicist",
+      "affiliation": "Science Division",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Rowley.png",
+      "bio": "Mathematical genius and theoretical physicist. Keeps the ship's navigation and physics in check. Tends toward nervous energy. Present from Chapter 2 onward in Ascendant.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "princess_cashy",
+      "name": "Princess Cashy",
+      "nicknames": [],
+      "role": "Heir Apparent, Tual",
+      "affiliation": "Maaket",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Princess_cashy.png",
+      "bio": "Princess of Tual and heir apparent to the Maaket throne. Gained her seat after her parents were assassinated. Sister to Princess Nessa. First encountered in Chapter 7 and again in Chapter 18 of Ascendant.",
+      "books": ["Ascendant"]
+    },
+    {
+      "id": "princess_nessa",
+      "name": "Princess Nessa",
+      "nicknames": [],
+      "role": "Princess, Tual",
+      "affiliation": "Maaket",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Princess_nessa.png",
+      "bio": "Younger sister to Princess Cashy of the Maaket species on Tual.",
+      "books": ["Ascendant"]
+    },
+    {
+      "id": "ankir",
+      "name": "Ankir",
+      "nicknames": [],
+      "role": "Royal Guard / Warrior",
+      "affiliation": "Maaket",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Ankir.png",
+      "bio": "Maaket warrior and Princess Cashy's Royal Guard. Lethal, stoic, and noble. Joins the crew voluntarily to help fight the Svixen. Wears Drake Scale cloaking suits alongside Chris in combat.",
+      "books": ["Ascendant"]
+    },
+    {
+      "id": "posis",
+      "name": "Posis",
+      "nicknames": [],
+      "role": "Tuaca Warrior",
+      "affiliation": "Tuaca",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Posis.png",
+      "bio": "Tuaca warrior of the ape-like species from Seutor. Stern but loyal to Chris and the human crew. Mate of Tivay. Present from Chapter 10 onward in Ascendant.",
+      "books": ["Ascendant"]
+    },
+    {
+      "id": "tivay",
+      "name": "Tivay",
+      "nicknames": [],
+      "role": "Tuaca Warrior",
+      "affiliation": "Tuaca",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Tivay.png",
+      "bio": "Tuaca warrior and mate of Posis. Fiercely proud and wields powerful melee weaponry. Fights alongside the crew from Chapter 10 onward in Ascendant.",
+      "books": ["Ascendant"]
+    },
+    {
+      "id": "patron_rohga",
+      "name": "Patron Rohga",
+      "nicknames": [],
+      "role": "Regional Leader",
+      "affiliation": "Tuaca",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Patron_rohga.png",
+      "bio": "Tuaca leader of the Calores region on Seutor. Makes a deal with Chris to deliver a package to Lesfer as a way to gain negotiating power with Guardian Phostop. Appears in Chapters 10 and 19 of Ascendant.",
+      "books": ["Ascendant"]
+    },
+    {
+      "id": "guardian_phostop",
+      "name": "Guardian Phostop",
+      "nicknames": [],
+      "role": "Elder / City Leader",
+      "affiliation": "Tuaca",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Guardian_phostop.png",
+      "bio": "Tuaca elder and leader of Spaceport City Lesfer on Seutor. Offers the humans a ship after Chris wins his Skrema duel, and bids farewell to the human crew. Appears in Chapters 20–21 of Ascendant.",
+      "books": ["Ascendant"]
+    }
+  ]
+}
