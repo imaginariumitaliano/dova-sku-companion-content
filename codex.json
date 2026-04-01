@@ -230,5 +230,169 @@
       "bio": "Tuaca elder and leader of Spaceport City Lesfer on Seutor. Offers the humans a ship after Chris wins his Skrema duel, and bids farewell to the human crew. Appears in Chapters 20–21 of Ascendant.",
       "books": ["Ascendant"]
     }
+  ],
+  "locations": [
+    {
+      "id": "earth",
+      "name": "Earth",
+      "description": "The homeworld of humanity and a symbol of origin and hope. Unknown to humankind, Earth was once home to another alien species who genetically shaped early human evolution — first creating Neanderthals from Homo erectus, then Homo sapiens. The planet once had a planetary shield powered by a system of pyramids and obelisks strategically placed around the globe, including several beneath the ocean floor. A global transportation network used those obelisks to teleport from location to location, with select nodes connecting outside the solar system entirely.\n\nA rebellion by man against their alien benefactors in the early thirteenth century BC led to the systematic destruction of key obelisks, shutting down both the planetary shield and the transportation system. Humanity won the war but was left forever separated — cut off by their now primitive civilization. Much of the conflict in the story stems from the Svixen's future invasion of Earth, driving the crew of the Light Skipper to seek allies and technology among the stars.",
+      "image": null
+    },
+    {
+      "id": "catora",
+      "name": "Catora / Randt",
+      "description": "The first discovered habitable planet outside the Sol system, located 16 light-years away in the Galus system. Announced in April 2053; the crew arrived January 17th, 2056. Known to its native Sepu inhabitants as Randt, it is officially designated Gallus D — the fourth planet from a main-sequence K-type star roughly two-thirds the size of Sol. Because Catora orbits much closer to its sun, the Galus star appears nearly twice the size of Earth's sun in the sky.\n\nThe planet has a gravity of 0.94 and orbits its sun in 389 days, each day lasting approximately 28 hours. Crew scientists adopted a revised International Fixed Calendar: 13 months, 389 days per year, with a new month called Galus falling between June and July. A forest-covered world rich in amtillian wildlife, Catora serves as the first major contact point between humans and aliens. Some crew members choose to remain here to establish a human colony and help preserve the Sepu species.",
+      "image": null
+    },
+    {
+      "id": "tual",
+      "name": "Tual",
+      "description": "The homeworld of the Maaket — stealthy, feline-like warriors with advanced technology and a fierce warrior culture. Tual is a key ally in the conflict against the Svixen, offering resources, technology, and personnel to the human crew. Josh remains on Tual for a time after the crew departs, working alongside Maaket engineers to develop new technologies that will reach the crew aboard the Ascendant.",
+      "image": null
+    },
+    {
+      "id": "seutor",
+      "name": "Seutor",
+      "description": "The homeworld of the Tuaca — an ancient, jungle and canyon-riddled planet inhabited by ape-like beings with a deeply spiritual culture. The Tuaca maintain a degree of neutrality in interstellar conflicts, offering wisdom over allegiance. It is on Seutor that the Ascendant is obtained, and where Chris wins a Skrema duel to save the world. Seutor is a place of alliance, sacrifice, farewell, and hope.",
+      "image": null
+    },
+    {
+      "id": "patchave",
+      "name": "Patchave",
+      "description": "The homeworld of the Cruillum — lizard-like humanoids who have mastered the manipulation of technology through harmonic resonance, a practice they call 'singing to the glass.' A desert world of scorched plains and resonant stone structures, Patchave becomes a critical stop for the crew after a space battle with the Svixen leaves their ship damaged. They use the local Transync gate to travel back to Seutor for parts before continuing their mission.",
+      "image": null
+    }
+  ],
+  "ships": [
+    {
+      "id": "light_skipper",
+      "name": "Light Skipper",
+      "description": "The expedition vessel carrying humanity's first crew to another star system. EM Tether equipped and fusion generator powered. Over 400 meters long, 100 meters wide, and 56 meters tall at its rear. Crewed by 250, including 50 military personnel — 20 officers on the bridge crew and 30 members of Chris's Galactic Navy expeditionary force.\n\nThe ship spans five decks:\n• Deck 1 — Cargo Bays 1–3: Bay 1 holds land equipment; Bay 3 holds two LOLAs and two space mining vessels; Bay 2 is reserved for return cargo.\n• Deck 2 — Bridge (7×3 m viewport), Engineering Division, Mess Hall, Medical.\n• Deck 3 — Backup Command Center, Cryo Chambers (Rooms A–D, 60 beds each), Engine Room, Operations Command.\n• Deck 4 — Bridge crew quarters, Recreation Room (gym + full-immersion VR), Secondary crew quarters.\n• Deck 5 — Science Division (Xenobiology, Bioengineering, Botany, Planetology, Climatology), Soldiers' Quarters.",
+      "image": null
+    },
+    {
+      "id": "ascendant",
+      "name": "Ascendant",
+      "description": "The primary warship piloted by Chris and crew, obtained on Seutor after winning the Skrema duel. Outfitted with Maaket stealth systems, Tuaca shielding, and human combat modifications. Equipped with advanced defensive systems, gravitic drives, and corridor defense tools. The Ascendant temporarily serves as a physical body for Liam, the AI, giving him a direct connection to ship systems.\n\nMore than a ship — the Ascendant is the crew's home, last hope, and primary weapon in the major engagements late in the series. Almost a character in its own right.",
+      "image": null
+    },
+    {
+      "id": "lola",
+      "name": "LOLA — Low Orbit Landing and Assault Vehicle",
+      "description": "DARPA prototypes that reached production only months before the Light Skipper's departure. Each sleek 35×20 meter craft can transport a US Bradley tank along with 30 personnel. Capable of maneuvering in both low orbit and atmosphere, with vertical take-off and landing, and confirmed speeds exceeding Mach 4 at maximum weight capacity. The Light Skipper carries two LOLAs in Cargo Bay 3.",
+      "image": null
+    },
+    {
+      "id": "vakorrin_carrier",
+      "name": "Va'korrin-Class Svixen Assault Carrier",
+      "description": "Massive, aggressive warships deployed by the Svixen. Purpose-built for both planetary assault and boarding actions, these carriers are the fangs of the Svixen fleet. Outfitted with gravity-based interdiction systems and capable of deploying fast-moving dropships, they are lethal and designed exclusively for the pursuit of war.",
+      "image": null
+    },
+    {
+      "id": "interdictors",
+      "name": "Interdictors",
+      "description": "Smaller Svixen ships specializing in gravitational disruption. These vessels generate fields that suppress escape maneuvers, trapping or delaying enemy ships in space and setting them up for assault carrier attacks. Often deployed in tandem with Va'korrin-Class carriers.",
+      "image": null
+    },
+    {
+      "id": "transync_station",
+      "name": "Transync Station",
+      "description": "Obelisk-based structures that enable instant Transync travel from station to station. Most provide travel across a planet's surface, but select stations enable travel to locations outside the planet or even beyond the solar system. The technology echoes the ancient obelisk network once operated on Earth and is part of a larger pattern of shared technology across civilizations.",
+      "image": null
+    },
+    {
+      "id": "drake_scale",
+      "name": "Drake Scale Armor",
+      "description": "Advanced armor plating engineered by Josh Thompkins. Stronger and lighter than the expedition's standard exosuits, Drake Scale provides superior protection and serves as the foundation for the active camouflage systems used in the Drake Scale Cloaking Suits. Used by Chris and Ankir in high-risk infiltration and combat missions.",
+      "image": null
+    },
+    {
+      "id": "drake_scale_suit",
+      "name": "Drake Scale Cloaking Suits",
+      "description": "Combat suits worn by Chris and Ankir, built on Drake Scale armor and equipped with advanced camouflage technology developed by Josh. The suits bend light and perception to create true invisibility in the field — a decisive tactical advantage in close-quarters and infiltration scenarios.",
+      "image": null
+    },
+    {
+      "id": "maaket_braid_device",
+      "name": "Maaket Braid Device",
+      "description": "A reverse-energy field generator developed by Josh in collaboration with Maaket technology. It disrupts Svixen weapons by inverting their energy resonance, neutralizing incoming attacks and giving the crew a crucial edge in close-quarters combat where conventional firepower falls short.",
+      "image": null
+    }
+  ],
+  "concepts": [
+    {
+      "id": "em_tether",
+      "name": "EM Tether",
+      "description": "Connects two points in space using quantum entanglement and the electromagnetic force, making faster-than-light travel possible. Created in 2036, perfected in 2041. When properly initiated, an EM Tether creates a temporary portal that instantly teleports any object or being to the desired location.\n\nThe crew later learns from Liam that humanity had only scratched the surface of this technology. The Aku'Ra call their far more advanced version Tu'rae — 'the infinite step' — and provide the humans with expanded access to it as a byproduct of their alliance against the Svixen.",
+      "image": null
+    },
+    {
+      "id": "pcmg",
+      "name": "Polycarbonate Coated Metallic Graphene (PCMG)",
+      "description": "A revolutionary composite material invented by Josh Thompkins. Metallic graphene in its natural state is porous; when bonded molecularly to polycarbonate resin, it forms a composite stronger than steel and lighter than carbon fiber — while also being superconductive. PCMG is used in weapons, cybernetic body parts, structural applications, and armor throughout the series.",
+      "image": null
+    },
+    {
+      "id": "lspd",
+      "name": "Large-Scale Structural Printing Device (LSPD)",
+      "description": "An industrial-grade 3D printer capable of fabricating walls, buildings, barricades, and large structures rapidly and on-demand. Used by the crew to quickly establish infrastructure in new or hostile environments.",
+      "image": null
+    },
+    {
+      "id": "trantions",
+      "name": "Trantions",
+      "description": "A network of devices that provides a limitless supply of free energy on a planetary scale. Trantions represent a post-scarcity energy solution used by advanced civilizations in the series — a technology that fundamentally eliminates energy as a limiting resource.",
+      "image": null
+    },
+    {
+      "id": "ship_divisions",
+      "name": "Ship Division Colors",
+      "description": "Crew members aboard the Light Skipper are identified by their division uniform color:\n\n• Engineering — Green\n• Navigation — Blue\n• Science — Purple\n• Medical — Red\n• Military — Dark Gray\n• Captain — Black",
+      "image": null
+    }
+  ],
+  "creatures": [
+    {
+      "id": "amtillians",
+      "name": "Amtillians (Class)",
+      "description": "The dominant animal class of Catora — a classification created by Kat's xenobiology team after genetic testing revealed all native animal species share the same biological class, despite their vast physical differences. Amtillians are cold-blooded, have scaleless skin, and lay their eggs in water. Unlike Earth's amphibians, they never breathe through gills at any stage of life. Most strikingly, all amtillians possess four eyes and six limbs — unlike anything previously discovered on Earth.",
+      "image": null
+    },
+    {
+      "id": "mud_frog",
+      "name": "Mud Frog",
+      "description": "A blue, six-legged amtillian resembling a bullfrog in basic structure — same rounded nose and body shape — but with one critical difference: an extra set of rear legs positioned just forward of the standard placement. Each leg functions independently and provides enormous thrust when used in tandem. Two sets of eyes appear completely white due to a retractable protective lens; a small vertical slit runs down the center of each. When the lenses retract, brilliant purple irises are revealed beneath.",
+      "image": null
+    },
+    {
+      "id": "laredo_dragon",
+      "name": "Laredo Dragon",
+      "description": "Polymegalania Squamata. A powerful amtillian predator covered in deep red skin that fades to dark orange along its underside. Six muscular legs are evenly spaced along its body, each tipped with four long claws. Its long thick tail, midnight blue teeth, rounded head, and long pointed snout give it the appearance of a vastly enlarged Earth lizard. An apex predator in Catora's forests.",
+      "image": null
+    },
+    {
+      "id": "garello",
+      "name": "Garello",
+      "description": "Nearly six meters tall — muscular, terrifying beasts resembling a gorilla bred with a crocodile. Their long snout and jagged blue teeth could tear a man limb from limb. Six thick limbs end in hand-like feet, each with three fingers and an opposable thumb. Skin is a patchwork of dark greens with yellow-orange spots on the underside. Four bright orange eyes are set in pairs on the sides of the neck, halfway between the shoulders and the snout — more akin to Earth's great dinosaurs than any known living animal.\n\nIt is a Garello mauling that leaves Chris near death, requiring Josh to replace several of his limbs with BioSteel cybernetic parts.",
+      "image": null
+    },
+    {
+      "id": "fapu",
+      "name": "Fapu",
+      "description": "A broad, rhinoceros-like amtillian. Stocky at two meters high, three meters wide, and five meters long. Six bulky legs support a puffy, sagging body with a short tail and almost no neck — its head is as wide as its shoulders, its mouth as wide as its head. Three short horns curve toward the nose region: one from the chin and one on each side near the ears.",
+      "image": null
+    },
+    {
+      "id": "tarlon",
+      "name": "Tarlon",
+      "description": "A large four-legged mammal of Catora, resembling a cross between a bear and a wolf — as massive as the legendary direwolves. Tarlons are pack hunters, occasionally seen pursuing the deer-like species native to Catora's forest regions.",
+      "image": null
+    },
+    {
+      "id": "skamp",
+      "name": "Skamp",
+      "description": "A creature native to Catora. Further details are limited in current expedition records.",
+      "image": null
+    }
   ]
 }
