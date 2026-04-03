@@ -7,17 +7,17 @@
       "role": "Mission Commander",
       "affiliation": "Team Falcon / Galactic Navy",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Chris.png",
-      "bio": "Main protagonist and leader of Team Falcon. Twin to Josh — a scar on his upper right lip is the only distinguishing facial feature. A decorated soldier who graduated high school in 2046. After being mauled by a Garello and left for dead, Josh replaces several of his limbs with BioSteel's newest cybernetic parts. Bonded with the AI Liam. Determined, strategic, and emotionally grounded by his relationships with the crew.",
+      "bio": "Main protagonist and leader of Team Falcon. Twin to Josh — a scar on his upper right lip is the only distinguishing facial feature between them. A decorated soldier who graduated high school in 2046.  Determined, strategic, and emotionally grounded by his relationships with the crew.",
       "books": ["Transync", "Ascendant"]
     },
     {
       "id": "liam",
       "name": "Liam",
-      "nicknames": ["LM24"],
+      "nicknames": ["LM24", "LM2479623"],
       "role": "Artificial Intelligence",
       "affiliation": "Aku'Ra / Team Falcon",
       "image": null,
-      "bio": "Alien artificial intelligence created by the Aku'Ra. Lives within Chris's mind, narrating events from a first-person perspective. Initially emotionless, Liam gradually develops personality and emotional depth — a growing kernel of emotional mysteries.",
+      "bio": "Aku'Ra artificial intelligence designated LM2479623. Created to operate the Transync Station on Randt (Catora), serving as a greeter and information source for arriving travelers. Operated for 8,000 years before the Svixen invasion put him in standby mode for 1,500+ Catoran years. He speaks through Chris's suit speakers and projects a custom avatar.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -25,9 +25,9 @@
       "name": "Joshua Thompkins",
       "nicknames": [],
       "role": "Cybernetic Specialist & Nanotech Engineer",
-      "affiliation": "Engineering Division",
+      "affiliation": "Engineering Division / BioSteel",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Josh.png",
-      "bio": "Chris's twin brother and a brilliant molecular engineer. Creator of Polycarbonate Coated Metallic Graphene (PCMG). Genius and fast-talking inventor. Works at BioSteel Cybernetic Industries alongside his mother. Remains on Tual for a time, working with the Maaket to develop new technologies for the crew.",
+      "bio": "Chris's twin brother and a brilliant molecular engineer. Creator of Polycarbonate-infused Metallic Graphene (PMG) material and the Drake Scale exosuit. Genius, fast-talking inventor who worked at BioSteel alongside his mother before the mission.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -37,7 +37,7 @@
       "role": "Lead Xenobiologist",
       "affiliation": "Science Division",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Kat.png",
-      "bio": "Red-headed xenobiologist whose sleep pod is next to Chris's. Tough exterior with a sharp wit. Initially reluctant about staying on Catora, she ultimately chooses to remain and help rebuild. Present in chapters 1–21 of Ascendant.",
+      "bio": "Red-headed xenobiologist. Tough exterior with a sharp wit. Coined the amtillian class and gave proper scientific names to Catoran species (Polymegalania Squamata for Laredo dragons).",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -47,7 +47,7 @@
       "role": "Second-in-Command, Team Falcon",
       "affiliation": "US Navy / Team Falcon",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Campbell.png",
-      "bio": "Chris's second-in-command. Has been on the same unit as Chris for four years and applied for the New Frontier Mission immediately upon hearing of Chris's acceptance. Quietly intense. Volunteers to stay behind on Catora to help rebuild humanity.",
+      "bio": "Chris's second-in-command and closest confidant. Has been on the same unit as Chris for four years and applied for the New Frontier Mission immediately upon hearing of Chris's acceptance. Earned the nickname Goat for his legendary ability to eat more than his body weight. Slender at 78kg compared to Chris's 86kg. Quietly intense.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -57,7 +57,7 @@
       "role": "Combat Specialist",
       "affiliation": "US Marine Corps / Team Falcon",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Davis.png",
-      "bio": "First met Chris in Nepal during an attack on a local oil pipeline. Chris's reliable combat specialist and old friend. Gritty, competent, and pragmatic with fierce loyalty and a dry sense of humor.",
+      "bio": "First met Chris in Nepal during an attack on a local oil pipeline. Chris's reliable combat specialist and old friend. Large-framed, good-natured, and reliably loyal. Gritty, competent, and pragmatic with fierce loyalty and a dry sense of humor.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -67,7 +67,7 @@
       "role": "Combat Medic",
       "affiliation": "US Army / Team Falcon",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Morgan.png",
-      "bio": "One of four female soldiers on the mission. Combat medic with a foul mouth and fierce loyalty. She once told Chris, \"You might curse like a sailor, but I'm a fucking pirate.\" Cares deeply for the crew and hides emotional depth under sarcasm.",
+      "bio": "One of four female soldiers on the mission. Combat medic with a foul mouth and fierce loyalty to the crew. Once told Chris: 'You might curse like a sailor, but I'm a fucking pirate.' Cares deeply for the crew and hides emotional depth under sarcasm. Former US Marine Corps field medic.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -77,7 +77,7 @@
       "role": "Executive Officer, Light Skipper",
       "affiliation": "US Navy",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Carmelo.png",
-      "bio": "Executive Officer and second-in-command to Captain Terzi aboard the Light Skipper. Technically the highest-ranking officer left alive after events unfold, but allows Chris to take charge. Chris gives him back authority when they are aboard the Ascendant.",
+      "bio": "Executive Officer and second-in-command to Captain Terzi aboard the Light Skipper. Olive-skinned, Italian descent, light brown hair and blue eyes, slender face with a short goatee. Competent, fair, and increasingly field-hardened.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -87,7 +87,7 @@
       "role": "Pilot, LOLA 2 / Ascendant",
       "affiliation": "US Air Force / Team Falcon",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Marie.png",
-      "bio": "Pilot of LOLA Two and later the Ascendant. Calm under pressure and masterful at evasive maneuvers. Dry and sardonic, she is one of the mission's most reliable assets in the cockpit.",
+      "bio": "Pilot of LOLA Two. Competent and steadily improving. Dry and sardonic. One of the mission's most reliable assets in the cockpit.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -97,7 +97,7 @@
       "role": "Combat / Weapons",
       "affiliation": "US Marine Corps / Team Falcon",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Lemmon.png",
-      "bio": "Weapons and general combat specialist. Morale specialist for the team. Has no close ties back on Earth. Stays on Catora to help maintain connection and spirit.",
+      "bio": "Weapons and general combat specialist. Serves as morale specialist for the team. Has no close ties back on Earth. Slender, yet physically adept with quick reflexes.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -107,7 +107,7 @@
       "role": "Technology Specialist",
       "affiliation": "US Army / Team Falcon",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Linkenbach.png",
-      "bio": "One of the military team's three technology specialists. Focused and intense, he manages point-defense and external threats. Earns the callsign 'Nasty Man' after being the only crew member to enjoy the Maaket food.",
+      "bio": "One of Team Falcon's three technology specialists. Focused and intense. Manages point-defense and external threats.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -127,7 +127,7 @@
       "role": "Team Falcon",
       "affiliation": "US Navy / Team Falcon",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Miller.png",
-      "bio": "Member of Team Falcon. Present from the mission's start through Chapter 23 of Ascendant. His death late in the story leaves an emotional scar on the crew.",
+      "bio": "Broad-shouldered man with short brown hair. Member of Team Falcon. Dependable and focused on his fellow soldiers.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -137,17 +137,17 @@
       "role": "Technology Specialist",
       "affiliation": "US Army / Team Falcon",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Blevins.png",
-      "bio": "Tech expert and member of Team Falcon with a sarcastic edge. Often provides levity in tense moments. Known for fawning over Morgan.",
+      "bio": "Tech expert and member of Team Falcon. Can build a computer from scratch or turn a microwave into an X-ray machine. Known poker organizer and excessive drinker. Carries a 45cm kukuri knife. Provides levity in tense moments.",
       "books": ["Transync", "Ascendant"]
     },
     {
       "id": "lin",
-      "name": "Professor Kenzo Lin",
+      "name": "Professor Robert Lin",
       "nicknames": [],
       "role": "Lead Climatologist",
       "affiliation": "Science Division",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Lin.png",
-      "bio": "The expedition's lead climatologist. A mild-tempered man of Asian descent who grew up in the United States but retained some of his parents' Taiwanese accent. Polite and clear-spoken — he explains complex topics in layman's terms, which Chris appreciated. Also an avid shooter and USPSA 3-Gun regional champion who offers to train the civilians.",
+      "bio": "The expedition's lead climatologist. Mild-tempered man of Asian descent who grew up in the United States but retained some of his parents' Taiwanese accent. Polite and clear-spoken — explains complex topics in layman's terms, which Chris appreciates.",
       "books": ["Transync", "Ascendant"]
     },
     {
@@ -157,8 +157,68 @@
       "role": "Theoretical Physicist",
       "affiliation": "Science Division",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Rowley.png",
-      "bio": "Mathematical genius and theoretical physicist. Keeps the ship's navigation and physics in check. Tends toward nervous energy. Present from Chapter 2 onward in Ascendant.",
+      "bio": "Theoretical physicist, former University of Hawaii Manoa professor who spent five years pursuing 'the unseen mysteries of the universe.' Mathematical genius who keeps the ship's navigation and physics in check. Tends toward nervous energy and restlessness.",
       "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "fenrir",
+      "name": "Fenrir",
+      "nicknames": [],
+      "role": "Bonded Companion",
+      "affiliation": "Team Falcon",
+      "image": null,
+      "bio": "A male tarlon and Chris's bonded companion. Distinguished by a white patch of fur on his left shoulder — a scar from being pinned beneath a fallen tree during a fapu confrontation. Bear-sized, wolf-like, fiercely loyal.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "captain_terzi",
+      "name": "Captain Terzi",
+      "nicknames": [],
+      "role": "Commanding Officer, Light Skipper",
+      "affiliation": "Galactic Navy",
+      "image": null,
+      "bio": "The Light Skipper's commanding officer. Older, paternal, decisive, and deeply respected by Chris. Instituted the Catoran Fixed Calendar after the ship reached the surface. Known to occasionally smoke a cigar.",
+      "books": ["Transync"]
+    },
+    {
+      "id": "nic_anderson",
+      "name": "Second Lieutenant Nic Anderson",
+      "nicknames": ["Razor"],
+      "role": "Pilot, LOLA 1",
+      "affiliation": "Team Falcon",
+      "image": null,
+      "bio": "LOLA One's pilot. Exceptionally skilled pilot. Known for sleeping in the cockpit with his helmet on backward. His record-setting flight times are a point of pride.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "semula_gatuum",
+      "name": "Semula Gatuum",
+      "nicknames": [],
+      "role": "Svixen Chapaka",
+      "affiliation": "Svixen",
+      "image": null,
+      "bio": "Svixen Chapaka who commanded the attack on Catora. Led the ground assault that killed 94% of the Light Skipper's crew. Challenged and defeated by Chris Thompkins in Skrema — securing Catora 1,000 years of peace.",
+      "books": ["Transync", "Ascendant"]
+    },
+    {
+      "id": "semula_breven",
+      "name": "Semula Breven",
+      "nicknames": [],
+      "role": "Svixen Chapaka",
+      "affiliation": "Svixen",
+      "image": null,
+      "bio": "Svixen Chapaka and successor to Semula Gatuum. Delivered the chilling declaration that Earth would soon be 'culled' — the primary threat driving the crew's urgency to return home and warn humanity. Mentioned in Ascendant.",
+      "books": ["Ascendant"]
+    },
+    {
+      "id": "tagonis_riveen",
+      "name": "Tagonis Riveen",
+      "nicknames": [],
+      "role": "Svixen Warlord",
+      "affiliation": "Svixen — Clan Lawtem",
+      "image": null,
+      "bio": "Son of Tagonis Spiru, Warlord of Clan Lawtem. Accepts Chris's Skrema challenge on Seutor on behalf of Chapaka Lawtem Cavosa when the Chapaka has not yet landed planetside.",
+      "books": ["Ascendant"]
     },
     {
       "id": "princess_cashy",
@@ -167,7 +227,7 @@
       "role": "Heir Apparent, Tual",
       "affiliation": "Maaket",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Princess_cashy.png",
-      "bio": "Princess of Tual and heir apparent to the Maaket throne. Gained her seat after her parents were assassinated. Sister to Princess Nessa. First encountered in Chapter 7 and again in Chapter 18 of Ascendant.",
+      "bio": "Princess of Tual and heir apparent to the Maaket throne, gained her seat after the assassination of her parents (King Vergun and the Queen) by an unknown assailant who fled via Transync Station. White-furred, gold-adorned, slender and calculating. Wears a white dress and black cloak with gold embroidery. Sharp golden eyes that never stop calculating. Sister to Princess Nessa.",
       "books": ["Ascendant"]
     },
     {
@@ -177,7 +237,7 @@
       "role": "Princess, Tual",
       "affiliation": "Maaket",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Princess_nessa.png",
-      "bio": "Younger sister to Princess Cashy of the Maaket species on Tual.",
+      "bio": "Younger sister to Princess Cashy of the Maaket species on Tual. Blue-grey furred, slightly smaller than her sister. Serves as companion and advisor to Cashy.",
       "books": ["Ascendant"]
     },
     {
@@ -187,7 +247,7 @@
       "role": "Royal Guard / Warrior",
       "affiliation": "Maaket",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Ankir.png",
-      "bio": "Maaket warrior and Princess Cashy's Royal Guard. Lethal, stoic, and noble. Joins the crew voluntarily to help fight the Svixen. Wears Drake Scale cloaking suits alongside Chris in combat.",
+      "bio": "Black-furred Maaket warrior and Princess Cashy's head of military and court. Wears black and gold armor — sleeker than standard plate — with a red cloak and a blue cloth wrap at the waist, gold embellishment throughout. Lethal, stoic, and noble.",
       "books": ["Ascendant"]
     },
     {
@@ -197,7 +257,7 @@
       "role": "Tuaca Warrior",
       "affiliation": "Tuaca",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Posis.png",
-      "bio": "Tuaca warrior of the ape-like species from Seutor. Stern but loyal to Chris and the human crew. Mate of Tivay. Present from Chapter 10 onward in Ascendant.",
+      "bio": "Female Tuaca scout-guard and mate of Tivay. Stern but loyal.",
       "books": ["Ascendant"]
     },
     {
@@ -207,7 +267,7 @@
       "role": "Tuaca Warrior",
       "affiliation": "Tuaca",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Tivay.png",
-      "bio": "Tuaca warrior and mate of Posis. Fiercely proud and wields powerful melee weaponry. Fights alongside the crew from Chapter 10 onward in Ascendant.",
+      "bio": "Male Tuaca warrior and mate of Posis. Fiercely proud and wields powerful melee weaponry.",
       "books": ["Ascendant"]
     },
     {
@@ -217,182 +277,750 @@
       "role": "Regional Leader",
       "affiliation": "Tuaca",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Patron_rohga.png",
-      "bio": "Tuaca leader of the Calores region on Seutor. Makes a deal with Chris to deliver a package to Lesfer as a way to gain negotiating power with Guardian Phostop. Appears in Chapters 10 and 19 of Ascendant.",
+      "bio": "Female Tuaca leader of the Calores region on Seutor. Overbearing demeanor disguised beneath polite tones.",
       "books": ["Ascendant"]
     },
     {
       "id": "guardian_phostop",
       "name": "Guardian Phostop",
-      "nicknames": [],
-      "role": "Elder / City Leader",
+      "nicknames": ["Fantor"],
+      "role": "City Guardian / Elder",
       "affiliation": "Tuaca",
       "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Guardian_phostop.png",
-      "bio": "Tuaca elder and leader of Spaceport City Lesfer on Seutor. Offers the humans a ship after Chris wins his Skrema duel, and bids farewell to the human crew. Appears in Chapters 20–21 of Ascendant.",
+      "bio": "Tuaca elder and Guardian of Spaceport City Lesfer on Seutor.",
       "books": ["Ascendant"]
     }
   ],
+
+  "species": [
+    {
+      "id": "akura",
+      "name": "Aku'Ra",
+      "homeworld": "Su'Laeris System",
+      "status": "Withdrawn / Reclusive",
+      "image": null,
+      "description": "The galaxy's great uplifters. Hairless beings with light grayish-blue skin, humanoid body structure, four arms (two shoulder pairs), and six fingers on each hand. Pupils are ovular rather than round, similar in height to humans. Evolved over millions of years in the Su'Laeris solar system into a unified technological civilization, mastering antigravity, nanotechnology, quantum entanglement, and ultimately Transync travel — instantaneous transportation through the fifth dimension. After the Millennium War with the Svixen, the Aku'Ra spent 62,000 years traveling the galaxy's spiral arm, uplifting less-advanced civilizations to prepare them against future Svixen aggression. They then returned home to Su'Laeris for a solitary existence, leaving behind Transync Stations, Trantions, and dormant AIs in every world they touched. Their military unit is called the Aku'Ra Legion, with ranks including Praetor, Legate, Optio, Centurion, and Milites. They refer to advanced Transync travel as Tu'rae — 'the infinite step.'"
+    },
+    {
+      "id": "sepu",
+      "name": "Sepu",
+      "homeworld": "Randt (Catora)",
+      "status": "Presumed extinct or fled",
+      "image": null,
+      "description": "The indigenous intelligent species of Randt (Catora). They are amtillians — Catora's combined reptile-amphibian class — and uniquely bipedal among their kind. Six fully functional limbs: two digitigrade rear legs and four arms arranged in two shoulder pairs and two lower-chest pairs. Skull shape resembles Earth's canid species. Glossy black skin with a mercury-like sheen in light. Four toes on each foot. Four-digit hands (three fingers, one thumb). Most have bright green or yellow eyes; rare bloodlines carry purple eyes. They wear skintight synthetic clothing. Uplifted by the Aku'Ra, they built an advanced civilization using hydroelectric power, Transync Stations, and domesticated tarlons as military companions. Their civilization collapsed following a Svixen invasion approximately 1,500+ Catoran years before the humans arrive. Their ruins, preserved underground, contain functional manufacturing equipment and intact medical devices."
+    },
+    {
+      "id": "svixen",
+      "name": "Svixen",
+      "homeworld": "Mueter",
+      "diety": "Ull",
+      "status": "Active Threat",
+      "image": null,
+      "description": "Conquerors of worlds. Tribal warrior beings resembling an armored canine-jackal hybrid on two thick digitigrade legs, with a powerful long thick tail used in combat, two muscular upper arms, and large tusks protruding from the upper jaw. Fully furred. Their appearance echoes the Egyptian god Anubis — likely the origin of that mythology, as the Svixen ruled over ancient humans. Organized in tribes led by a Chapaka (tribal commander). Honor and the code of Ull are paramount. Warriors are raised from birth to be without fear; each male receives a personal blade on coming of age and trains with it for life. Their deity-concept is called Ull. They view cybernetic modification as an abomination — 'mocking the flesh Ull gave us.' Personal armor is nanowire filament interwoven in impact-absorbing fluid — practically impenetrable to kinetic weapons, with gaps at knees, groin, elbows, wrists, and shoulders. They use energy rifles, plasma rifles, energy blades of multiple types, ship-mounted plasma cannons, EM railguns, and automated laser turrets. Traveled from the Su'Laeris system using stolen and subsequently improved Aku'Ra Transync technology — capable of crossing the full galaxy in months."
+    },
+    {
+      "id": "sveri_sku",
+      "name": "Sveri Sku (Hellhounds)",
+      "homeworld": "Various (devolved)",
+      "status": "Active (Svixen deployed)",
+      "image": null,
+      "description": "Originally separate sentient species that were subjected to genetic experiments that stripped them of intelligence and reason. They attack in waves with no regard for their own survival, wear no armor, and carry no weapons. The Aku'Ra's Hardlight Shields were the key to containing them during the Millennium War. 'Sveri Sku' translates from Aku'Ra as 'hellhounds.'"
+    },
+    {
+      "id": "maaket",
+      "name": "Maaket",
+      "homeworld": "Tual",
+      "status": "Neutral / Emerging Ally",
+      "image": null,
+      "description": "Reclusive feline bipeds from the planet Tual. Roughly human-sized, fully covered in dense fur of varying colors (white, black, blue-grey, orange). Long tail, two arms with sharp claws, and prominent white canine teeth. Ears swivel independently. Language is composed of hisses, purrs, and chatters — musical and sharp to the ear. They favor medieval-style armor upgraded with advanced technology: energy barriers, electromagnetic couplings, and smart fabric. Wield electric staves and golden spears. Society is a monarchy currently in succession crisis following the assassination of King Vergun and the Queen. Most Maaket never leave Tual despite Transync access to dozens of worlds. Uplifted late in the Aku'Ra expansion period."
+    },
+    {
+      "id": "tuaca",
+      "name": "Tuaca",
+      "homeworld": "Seutor",
+      "status": "Active — Potential Ally",
+      "image": null,
+      "description": "Large primate-like beings with white fur and bright amber/orange markings. Dress in orange leather (made from derhous hide) and metallic chest harnesses. Clothing is bioluminescent-adaptive at night, blending into Seutor's glowing jungle. Nature-worshippers who believe in living in harmony with the world and wasting nothing from a kill. Skilled nocturnal jungle fighters. Once coexisted peacefully with the Natuul under Aku'Ra uplift; conflict began when Aku'Ra technology failed and both species competed to preserve or advance their own versions. The Tuaca were historically the first aggressors. Have maintained uneasy peace with the Natuul via treaty for approximately 12 years before Ascendant's events."
+    },
+    {
+      "id": "natuul",
+      "name": "Natuul",
+      "homeworld": "Seutor",
+      "status": "Active — Suspected Svixen Proxy",
+      "image": null,
+      "description": "The Tuaca's rival species on Seutor. Technologically-minded, focused on mining, industry, and preserving Aku'Ra technology through manufacturing and research. Built space flight first, which the Tuaca later stole and reverse-engineered — triggering open warfare. Following a peace treaty roughly 12 years prior to Ascendant's events, the Natuul appear to re-initiate conflict using new, unrecognized weapons and ships, leading Patron Rohga to suspect outside involvement — possibly the Svixen arming or directing them."
+    },
+    {
+      "id": "cruillum",
+      "name": "Cruillum",
+      "homeworld": "Patchave",
+      "status": "Unknown",
+      "image": null,
+      "description": "Lizard-like humanoids who have mastered the manipulation of technology through harmonic resonance, a practice they call 'singing to the glass.' Native to Patchave, a desert world of scorched plains and resonant stone structures. The crew encounters them after a space battle with the Svixen leaves their ship damaged and forces a stop at Patchave. The Cruillum allow use of the local Transync gate to travel back to Seutor for parts."
+    }
+  ],
+
   "locations": [
     {
       "id": "earth",
       "name": "Earth",
-      "description": "The homeworld of humanity and a symbol of origin and hope. Unknown to humankind, Earth was once home to another alien species who genetically shaped early human evolution — first creating Neanderthals from Homo erectus, then Homo sapiens. The planet once had a planetary shield powered by a system of pyramids and obelisks strategically placed around the globe, including several beneath the ocean floor. A global transportation network used those obelisks to teleport from location to location, with select nodes connecting outside the solar system entirely.\n\nA rebellion by man against their alien benefactors in the early thirteenth century BC led to the systematic destruction of key obelisks, shutting down both the planetary shield and the transportation system. Humanity won the war but was left forever separated — cut off by their now primitive civilization. Much of the conflict in the story stems from the Svixen's future invasion of Earth, driving the crew of the Light Skipper to seek allies and technology among the stars.",
-      "image": null
+      "system": "Sol",
+      "image": null,
+      "description": "The homeworld of humanity and a symbol of origin and hope. Unknown to humankind, Earth was visited by the Aku'Ra around 40,000 BCE, who genetically modified early human ancestors to produce Homo sapiens, shared technology, established Transync Stations for global travel, and taught construction using antigravity and nanotechnology. Humans lived average lifespans of 350 years and spoke one unified language during this period. Around 12,000 BCE, orbital surveillance satellites went dark. Liam's theory: the Svixen invaded, triggered the Younger Dryas catastrophe (ice-cap melting via nuclear weapons or redirected asteroid, causing global flooding), then collected survivors, genetically modified them (a second, smaller genome alteration dated to ~5,000 BCE), rewrote religions to erase Aku'Ra memory, and used humans as slave labor or food. Pyramids, obelisks, flood myths, sky-god religions, the Tower of Babel story, and the Black Knight satellite are all remnants of this history. The Svixen's declared intent to 'cull' Earth drives the crew's urgency to return home."
     },
     {
       "id": "catora",
       "name": "Catora / Randt",
-      "description": "The first discovered habitable planet outside the Sol system, located 16 light-years away in the Galus system. Announced in April 2053; the crew arrived January 17th, 2056. Known to its native Sepu inhabitants as Randt, it is officially designated Gallus D — the fourth planet from a main-sequence K-type star roughly two-thirds the size of Sol. Because Catora orbits much closer to its sun, the Galus star appears nearly twice the size of Earth's sun in the sky.\n\nThe planet has a gravity of 0.94 and orbits its sun in 389 days, each day lasting approximately 28 hours. Crew scientists adopted a revised International Fixed Calendar: 13 months, 389 days per year, with a new month called Galus falling between June and July. A forest-covered world rich in amtillian wildlife, Catora serves as the first major contact point between humans and aliens. Some crew members choose to remain here to establish a human colony and help preserve the Sepu species.",
-      "image": null
+      "system": "Galus System",
+      "image": null,
+      "description": "The first discovered habitable planet outside the Sol system, located 60 light-years away in the Galus system. Announced in 2053; the crew arrived in 2055. Known to its native Sepu inhabitants as Randt, officially designated Gallus D — the fourth planet from a main-sequence star roughly two-thirds the size of Sol. Because Catora orbits much closer to its sun, Galus appears nearly twice the size of Earth's sun in the sky. Gravity is 0.94 Earth-standard. The year is 389 days; each day lasts approximately 28 hours. A forest-covered world with orange grass, dark-green foliage, fern-like undergrowth, and trees reaching 35m canopies. Has four continental landmasses, small seas, and inland lakes — no large oceans. Daily rain and frequent morning storms are common. No birds or flying species of any kind exist here. Rich in amtillian wildlife. Key surface features include the northern mountain range, an inland lake 150km southwest of the FOB, a 27km-long canyon/trench housing cave systems for Research Bases Alpha and Bravo, Sepu ruins in multiple directions, and a mining cave 1,920km northeast used as a post-Svixen attack hideout. Some crew members choose to remain here to establish a human colony and help preserve the Sepu species."
+    },
+    {
+      "id": "fob",
+      "name": "Forward Operating Base (FOB)",
+      "system": "Catora / Galus",
+      "image": null,
+      "description": "The first permanent human base on Catora, established using LSPD-printed 5km perimeter walls. Included a mess hall seating 80, multiple housing units, storage facilities, designated landing zones (DLZs), and outdoor patio/picnic areas. The Light Skipper itself served as the central operations hub until the base was sufficiently built out. Destroyed in the Svixen attack — reduced to rubble and scattered debris. Chris retrieves critical medical supplies from the wreck in the early events of Ascendant."
+    },
+    {
+      "id": "research_base_alpha",
+      "name": "Research Base Alpha",
+      "system": "Catora / Galus",
+      "image": null,
+      "description": "Built around the mounded cave entrance of an ancient Sepu hydroelectric power station. The underground spiral cave descends at exactly 31.415 degrees — the first five digits of pi, required for proper hydroelectric energy buildup — to a hexagonal cavern containing the first obelisk, called 'The Chapel' by the crew. Phase Two: Kirk Thorne reactivated the hydroelectric facility using diverted stream water and a matryoshka Faraday cage (three nested metal domes collecting wireless electricity output). Features: perimeter wall, science labs, housing unit with dining hall and bathrooms, landing zone, east watchtower. Survived the Svixen attack largely intact."
+    },
+    {
+      "id": "research_base_bravo",
+      "name": "Research Base Bravo",
+      "system": "Catora / Galus",
+      "image": null,
+      "description": "Built around a 50-meter Transync Station obelisk — the series' primary Transync hub. Ovular perimeter wall (~250m end to end), center and end sentry towers. Hollow interior chamber with a false door at ground level that becomes a shimmering blue liquid portal when active. Becomes the crew's permanent base of operations after the Svixen attack. Josh sets up a workshop inside the obelisk. Salvaged Dispense-All and power cubes provide food and energy. The Maaket enter through the activated Transync portal here, abducting five crew members."
+    },
+    {
+      "id": "mining_cave",
+      "name": "The Mining Cave (Emergency Hideout)",
+      "system": "Catora / Galus",
+      "image": null,
+      "description": "An abandoned strip-mine 1,920km northeast of the FOB. Three horizontal shelves carved into a mountainside, each 30m+ tall, with a large internal cavern big enough to conceal two LOLAs. Used by the 15 survivors after the Svixen attack — LOLA One was parked behind a massive fallen boulder inside, LOLA Two behind a printed LSPD wall across the cave mouth. Abandoned when the crew moves permanently to Research Base Bravo."
     },
     {
       "id": "tual",
       "name": "Tual",
-      "description": "The homeworld of the Maaket — stealthy, feline-like warriors with advanced technology and a fierce warrior culture. Tual is a key ally in the conflict against the Svixen, offering resources, technology, and personnel to the human crew. Josh remains on Tual for a time after the crew departs, working alongside Maaket engineers to develop new technologies that will reach the crew aboard the Ascendant.",
-      "image": null
+      "system": "Unknown",
+      "image": null,
+      "description": "The homeworld of the Maaket — stealthy, feline-like warriors with advanced technology and a fierce warrior culture. Connected to the Transync Network with multiple stations. Architecture blends medieval European forms with advanced technology: polished stone arches etched with glowing glyphs, energy barrier security systems, hovering utility carts, and silent atmospheric craft. The royal palace contains a vaulted throne room, stained glass, feline-motif banners, and holding cells with active false-image barriers. Josh remains on Tual for a period after the crew departs, working alongside Maaket engineers to develop new technologies — including the Maaket Braid Device — that are delivered to the crew aboard the Ascendant. A key ally in the conflict against the Svixen, offering resources, technology, and personnel."
     },
     {
       "id": "seutor",
       "name": "Seutor",
-      "description": "The homeworld of the Tuaca — an ancient, jungle and canyon-riddled planet inhabited by ape-like beings with a deeply spiritual culture. The Tuaca maintain a degree of neutrality in interstellar conflicts, offering wisdom over allegiance. It is on Seutor that the Ascendant is obtained, and where Chris wins a Skrema duel to save the world. Seutor is a place of alliance, sacrifice, farewell, and hope.",
-      "image": null
+      "system": "Unknown",
+      "image": null,
+      "description": "The homeworld of the Tuaca and Natuul — an ancient, jungle and canyon-riddled world. Dense jungle with violet-tinged nights and pervasive bioluminescence: orange rhythmic flickers at ground level, teal tendrils swaying in the canopy. Plants appear to share biological signals, brightening and dimming in response to nearby activity. Multiple Transync Stations across the planet, most damaged in Natuul/Svixen attacks. Home to the Lesfer Spaceport City, built into a multi-tiered stepped canyon. It is on Seutor that the Ascendant is obtained, and where Chris wins a Skrema duel to save the world. A place of alliance, sacrifice, farewell, and hope."
+    },
+    {
+      "id": "calores_region",
+      "name": "Calores Region (Seutor)",
+      "system": "Seutor",
+      "image": null,
+      "description": "An urban region on Seutor under the stewardship of Patron Rohga. Site of a Tuaca safehouse network built into ancient cave systems. After a Natuul/Svixen attack, most of the population retreats underground. The local Transync Station survived the attack and was used by Chris's team for outbound travel. Rohga maintains a scouting party at the station to relay communications to any arriving crew from Catora."
+    },
+    {
+      "id": "lesfer_spaceport",
+      "name": "Lesfer Spaceport City",
+      "system": "Seutor",
+      "image": null,
+      "description": "A Tuaca-controlled spaceport city built into a multi-tiered stepped canyon on Seutor. The canyon dwarfs the Grand Canyon in scale. A winding road carved into sheer cliff faces connects the jungle plateau above to the city and spaceport below. The aesthetic mixes steampunk-industrial architecture with old-western layout and underground ship storage via elevator lifts. Multiple landing pads are heavily damaged from the Natuul/Svixen attack. Most of the population remained underground during and after the bombardment. Guardian Phostop leads the city and awards the crew a Ground Runner transport ship following Chris's Skrema victory."
     },
     {
       "id": "patchave",
       "name": "Patchave",
-      "description": "The homeworld of the Cruillum — lizard-like humanoids who have mastered the manipulation of technology through harmonic resonance, a practice they call 'singing to the glass.' A desert world of scorched plains and resonant stone structures, Patchave becomes a critical stop for the crew after a space battle with the Svixen leaves their ship damaged. They use the local Transync gate to travel back to Seutor for parts before continuing their mission.",
-      "image": null
+      "system": "Unknown",
+      "image": null,
+      "description": "The homeworld of the Cruillum — lizard-like humanoids who have mastered the manipulation of technology through harmonic resonance, a practice they call 'singing to the glass.' A desert world of scorched plains and resonant stone structures. Patchave becomes a critical stop for the crew after a space battle with the Svixen leaves their ship damaged. They use the local Transync gate to travel back to Seutor for parts before continuing their mission."
     }
   ],
+
   "ships": [
     {
       "id": "light_skipper",
       "name": "Light Skipper",
-      "description": "The expedition vessel carrying humanity's first crew to another star system. EM Tether equipped and fusion generator powered. Over 400 meters long, 100 meters wide, and 56 meters tall at its rear. Crewed by 250, including 50 military personnel — 20 officers on the bridge crew and 30 members of Chris's Galactic Navy expeditionary force.\n\nThe ship spans five decks:\n• Deck 1 — Cargo Bays 1–3: Bay 1 holds land equipment; Bay 3 holds two LOLAs and two space mining vessels; Bay 2 is reserved for return cargo.\n• Deck 2 — Bridge (7×3 m viewport), Engineering Division, Mess Hall, Medical.\n• Deck 3 — Backup Command Center, Cryo Chambers (Rooms A–D, 60 beds each), Engine Room, Operations Command.\n• Deck 4 — Bridge crew quarters, Recreation Room (gym + full-immersion VR), Secondary crew quarters.\n• Deck 5 — Science Division (Xenobiology, Bioengineering, Botany, Planetology, Climatology), Soldiers' Quarters.",
-      "image": null
+      "type": "Interstellar Expedition Vessel",
+      "affiliation": "Galactic Navy",
+      "image": null,
+      "description": "Earth's first interstellar spacecraft and the expedition vessel carrying humanity's first crew to another star system. EM Tether equipped and fusion generator powered. Over 400 meters long, 100 meters wide, and 56 meters tall at its rear. Crewed by 250, including 50 military personnel — 20 officers on the bridge crew and 30 members of Team Falcon.\n\nFive decks:\n• Deck 1 — Cargo Bays 1–3: Bay 1 holds land equipment; Bay 3 holds two LOLAs and two space mining vessels; Bay 2 reserved for return cargo.\n• Deck 2 — Bridge (7×3m viewport), Engineering Division, Mess Hall, Medical.\n• Deck 3 — Backup Command Center, Cryo Chambers (Rooms A–D, 60 beds each), Engine Room, Operations Command.\n• Deck 4 — Bridge crew quarters, Recreation Room (gym + full-immersion VR), Secondary crew quarters.\n• Deck 5 — Science Division (Xenobiology, Bioengineering, Botany, Planetology, Climatology), Soldiers' Quarters.\n\nDestroyed in the Svixen attack — crashes into a Catoran mountain valley. Interior remains largely intact post-crash due to space-rated bolted equipment. Enough stored food for 15 survivors to live 20+ years."
     },
     {
       "id": "ascendant",
       "name": "Ascendant",
-      "description": "The primary warship piloted by Chris and crew, obtained on Seutor after winning the Skrema duel. Outfitted with Maaket stealth systems, Tuaca shielding, and human combat modifications. Equipped with advanced defensive systems, gravitic drives, and corridor defense tools. The Ascendant temporarily serves as a physical body for Liam, the AI, giving him a direct connection to ship systems.\n\nMore than a ship — the Ascendant is the crew's home, last hope, and primary weapon in the major engagements late in the series. Almost a character in its own right.",
-      "image": null
+      "type": "Warship / Primary Vessel",
+      "affiliation": "Human Crew",
+      "image": null,
+      "description": "The primary warship piloted by Chris and crew, obtained on Seutor from Guardian Phostop after winning the Skrema duel. Outfitted with Maaket stealth systems, Tuaca shielding, and human combat modifications. Equipped with advanced defensive systems, gravitic drives, and corridor defense tools. The Ascendant temporarily serves as a physical body for Liam, the AI, giving him a direct connection to ship systems. More than a ship — the Ascendant is the crew's home, last hope, and primary weapon in the major engagements late in the series."
     },
     {
       "id": "lola",
       "name": "LOLA — Low Orbit Landing and Assault Vehicle",
-      "description": "DARPA prototypes that reached production only months before the Light Skipper's departure. Each sleek 35×20 meter craft can transport a US Bradley tank along with 30 personnel. Capable of maneuvering in both low orbit and atmosphere, with vertical take-off and landing, and confirmed speeds exceeding Mach 4 at maximum weight capacity. The Light Skipper carries two LOLAs in Cargo Bay 3.",
-      "image": null
+      "type": "Dropship / Assault Craft",
+      "affiliation": "Galactic Navy / DARPA",
+      "image": null,
+      "description": "DARPA prototypes that reached production only months before the Light Skipper's departure. Each sleek 35×20 meter craft can transport a US Bradley tank along with 30 personnel. Capable of maneuvering in both low orbit and atmosphere, with vertical take-off and landing, and confirmed speeds exceeding Mach 4 at maximum weight capacity. Features a rear loading ramp, cargo bay with UTV capacity, separate pilot cabin, and internal camera system. Powered by portable fusion drives — not designed for extended spaceflight but pushed to extremes by Chris and Liam during the 35-day trantion reactivation mission. The Light Skipper carries two LOLAs in Cargo Bay 3. LOLA One survives the Svixen attack; LOLA Two is destroyed."
+    },
+    {
+      "id": "utv",
+      "name": "UTV — Utility Task Vehicle",
+      "type": "Ground Vehicle",
+      "affiliation": "Galactic Navy",
+      "image": null,
+      "description": "Electric mid-sized utility vehicle. Carries 4 comfortably (up to 8 with bed riders). Used for base exploration, perimeter patrols, equipment transport, and escort missions. Multiple UTVs brought to Catora. Notorious for Corporal Nunez's precision drift into Cargo Bay Three at speed, which became a memorable moment among the crew."
+    },
+    {
+      "id": "ground_runner",
+      "name": "Ground Runner (Tuaca)",
+      "type": "Long-Distance Transport",
+      "affiliation": "Tuaca / Human Crew",
+      "image": null,
+      "description": "Angular, grey-colored craft described as resembling a bobsled three times the size, covered in jagged metallic plates — built with hard edges, sharp lines, and a defensive aesthetic, as if bracing for war. Long-distance transport vehicle. Awarded to the crew by Guardian Phostop as payment for Chris saving Seutor from the Svixen. The first craft ordered out of underground storage at Lesfer."
     },
     {
       "id": "vakorrin_carrier",
       "name": "Va'korrin-Class Svixen Assault Carrier",
-      "description": "Massive, aggressive warships deployed by the Svixen. Purpose-built for both planetary assault and boarding actions, these carriers are the fangs of the Svixen fleet. Outfitted with gravity-based interdiction systems and capable of deploying fast-moving dropships, they are lethal and designed exclusively for the pursuit of war.",
-      "image": null
+      "type": "Capital Warship",
+      "affiliation": "Svixen",
+      "image": null,
+      "description": "Massive, aggressive Svixen warships purpose-built for both planetary assault and boarding actions. The fangs of the Svixen fleet. Outfitted with gravity-based interdiction systems and capable of deploying fast-moving dropships, they are lethal and designed exclusively for the pursuit of war."
+    },
+    {
+      "id": "regulus_class",
+      "name": "Regulus-Class Svixen Battleship",
+      "type": "Battleship",
+      "affiliation": "Svixen",
+      "image": null,
+      "description": "Approximately 8 times the size of the Light Skipper. Armed with 12 fixed plasma cannons on the lower bow, one electromagnetic railgun on both bow and aft, and 24 automated laser turrets spread across the outer hull. Can level an entire city from orbit so long as it has a direct line of sight. At current velocity when first detected, estimated arrival over the FOB at under 5 hours. Capable of traversing the full galaxy in months using advanced Transync-derived technology stolen from and further developed beyond Aku'Ra capability."
+    },
+    {
+      "id": "svixen_dropship",
+      "name": "Svixen Dropship",
+      "type": "Assault Dropship",
+      "affiliation": "Svixen",
+      "image": null,
+      "description": "Bulbous ovular body sandwiched between two light-bulb-shaped propulsion engines. Globe-like cockpit viewport at the nose. Used to deploy Svixen ground troops and Sveri Sku from orbit to planetary surfaces. Three of these dropships were deployed to the Catoran FOB during the initial Svixen attack."
+    },
+    {
+      "id": "svixen_scout",
+      "name": "Svixen Scout Ship",
+      "type": "Autonomous Observer",
+      "affiliation": "Svixen",
+      "image": null,
+      "description": "SUV-sized triangular isosceles prism shape, dark grey, pitted from centuries of meteorite impacts. Fully autonomous observer capable of operating for centuries without maintenance. Equipped with a full sensor suite and minimal defensive/maneuvering capabilities. Intercepts LOLA One during the trantion mission. Destroyed by Liam's precisely timed mine-laid missile sequence — six missiles planted in the ship's flight path, detonating as it passed through."
     },
     {
       "id": "interdictors",
       "name": "Interdictors",
-      "description": "Smaller Svixen ships specializing in gravitational disruption. These vessels generate fields that suppress escape maneuvers, trapping or delaying enemy ships in space and setting them up for assault carrier attacks. Often deployed in tandem with Va'korrin-Class carriers.",
-      "image": null
+      "type": "Interdiction Vessel",
+      "affiliation": "Svixen",
+      "image": null,
+      "description": "Smaller Svixen ships specializing in gravitational disruption. Generate fields that suppress escape maneuvers, trapping or delaying enemy ships in space and setting them up for assault carrier attacks. Often deployed in tandem with Va'korrin-Class carriers."
+    }
+  ],
+
+  "technology": [
+    {
+      "id": "em_tether",
+      "name": "EM Tether",
+      "origin": "Human / Earth",
+      "image": null,
+      "description": "Connects two points in space using quantum entanglement and the electromagnetic force, making faster-than-light travel possible. Discovered in 2046. Uses quantum entanglement to link two points — one emitter at origin, one at destination — and matter transfers along the entangled link. Used to propel the Light Skipper from Earth to Catora (60 light-years in two years of ship time) and later to teleport the ship from high orbit to the Catoran surface. Essentially a primitive, 'long way around' version of Transync travel — using fifth-dimensional connection without fully bypassing distance and time. The Aku'Ra call their far more advanced version Tu'rae — 'the infinite step' — and provide the humans with expanded access to it as a byproduct of their alliance."
     },
     {
       "id": "transync_station",
       "name": "Transync Station",
-      "description": "Obelisk-based structures that enable instant Transync travel from station to station. Most provide travel across a planet's surface, but select stations enable travel to locations outside the planet or even beyond the solar system. The technology echoes the ancient obelisk network once operated on Earth and is part of a larger pattern of shared technology across civilizations.",
-      "image": null
-    },
-    {
-      "id": "drake_scale",
-      "name": "Drake Scale Armor",
-      "description": "Advanced armor plating engineered by Josh Thompkins. Stronger and lighter than the expedition's standard exosuits, Drake Scale provides superior protection and serves as the foundation for the active camouflage systems used in the Drake Scale Cloaking Suits. Used by Chris and Ankir in high-risk infiltration and combat missions.",
-      "image": null
-    },
-    {
-      "id": "drake_scale_suit",
-      "name": "Drake Scale Cloaking Suits",
-      "description": "Combat suits worn by Chris and Ankir, built on Drake Scale armor and equipped with advanced camouflage technology developed by Josh. The suits bend light and perception to create true invisibility in the field — a decisive tactical advantage in close-quarters and infiltration scenarios.",
-      "image": null
-    },
-    {
-      "id": "maaket_braid_device",
-      "name": "Maaket Braid Device",
-      "description": "A reverse-energy field generator developed by Josh in collaboration with Maaket technology. It disrupts Svixen weapons by inverting their energy resonance, neutralizing incoming attacks and giving the crew a crucial edge in close-quarters combat where conventional firepower falls short.",
-      "image": null
-    }
-  ],
-  "concepts": [
-    {
-      "id": "em_tether",
-      "name": "EM Tether",
-      "description": "Connects two points in space using quantum entanglement and the electromagnetic force, making faster-than-light travel possible. Created in 2036, perfected in 2041. When properly initiated, an EM Tether creates a temporary portal that instantly teleports any object or being to the desired location.\n\nThe crew later learns from Liam that humanity had only scratched the surface of this technology. The Aku'Ra call their far more advanced version Tu'rae — 'the infinite step' — and provide the humans with expanded access to it as a byproduct of their alliance against the Svixen.",
-      "image": null
-    },
-    {
-      "id": "pcmg",
-      "name": "Polycarbonate Coated Metallic Graphene (PCMG)",
-      "description": "A revolutionary composite material invented by Josh Thompkins. Metallic graphene in its natural state is porous; when bonded molecularly to polycarbonate resin, it forms a composite stronger than steel and lighter than carbon fiber — while also being superconductive. PCMG is used in weapons, cybernetic body parts, structural applications, and armor throughout the series.",
-      "image": null
-    },
-    {
-      "id": "lspd",
-      "name": "Large-Scale Structural Printing Device (LSPD)",
-      "description": "An industrial-grade 3D printer capable of fabricating walls, buildings, barricades, and large structures rapidly and on-demand. Used by the crew to quickly establish infrastructure in new or hostile environments.",
-      "image": null
+      "origin": "Aku'Ra",
+      "image": null,
+      "description": "Obelisk-based structures built by the Aku'Ra from molecular-scale nanostructures that appear to be solid stone. Each station is a six-sided obelisk. The interior contains a hexagonal chamber with a central podium holding the Alien Datapad (ADP) and a false door that becomes a shimmering blue liquid portal when active. The portal disintegrates a traveler's matter to individual particles and reconstitutes them on the destination side in nanoseconds. Brief vertigo and a moment of black-then-white blindness is experienced by travelers. Most stations provide travel across a planet's surface; select stations enable travel to locations outside the planet or beyond the solar system entirely. The technology echoes the ancient obelisk network once operated on Earth."
     },
     {
       "id": "trantions",
       "name": "Trantions",
-      "description": "A network of devices that provides a limitless supply of free energy on a planetary scale. Trantions represent a post-scarcity energy solution used by advanced civilizations in the series — a technology that fundamentally eliminates energy as a limiting resource.",
-      "image": null
+      "origin": "Aku'Ra",
+      "image": null,
+      "description": "Self-repairing Aku'Ra satellites stationed at Lagrange Points — the gravitational balance points between a star and its planet. They draw energy directly from the local star and transmit it wirelessly across the planet, powering all Transync Stations and Aku'Ra infrastructure. Catora has two trantions. Made of self-repairing nanobots; require no physical maintenance unless they suffer significant impact damage. Reactivated by Chris and Liam over 35 days in LOLA One, requiring Chris to perform a spacewalk to deliver nanites for repair of a damaged unit. Represent a post-scarcity energy solution — a technology that fundamentally eliminates energy as a limiting resource."
     },
     {
-      "id": "ship_divisions",
-      "name": "Ship Division Colors",
-      "description": "Crew members aboard the Light Skipper are identified by their division uniform color:\n\n• Engineering — Green\n• Navigation — Blue\n• Science — Purple\n• Medical — Red\n• Military — Dark Gray\n• Captain — Black",
-      "image": null
+      "id": "adp",
+      "name": "Alien Datapad (ADP)",
+      "origin": "Aku'Ra",
+      "image": null,
+      "description": "A thin, transparent glass-like pane that floats above a podium in every Transync Station, suspended in an invisible field. Emits a light blue glow when activated. Projects three-dimensional holographic symbols. Contains built-in translation software for every race ever encountered by the Aku'Ra — including English, updated automatically as languages evolved via orbital surveillance. Recognizes the user's species on touch and adapts the interface accordingly. Chris controls it wirelessly via his arm transducer. Displays planetary maps, network status, power readings, and translation catalogs."
+    },
+    {
+      "id": "nanites",
+      "name": "Nanite Technology",
+      "origin": "Aku'Ra",
+      "image": null,
+      "description": "Molecular-scale machines originally created by the Aku'Ra for construction, repair, and biological enhancement. Present in every Transync Station's obelisk (the obelisks are made entirely of molecular-scale nanostructures). Powered by body heat — remain active indefinitely while their host is alive. Can replicate cells, replace blood, repair tissue and organs, and reroute tendons and ligaments to install new hardware. Liam's matrix transferred into Chris's bloodstream alongside the nanites — an unintended accident that saved his life. Josh Thompkins developed a human batch; Liam activates and expands them. All 15 surviving crew members are enhanced with medically programmed nanites, granting accelerated healing, enhanced immune function, and extended lifespans. Chris has a superior version — regularly upgraded by Liam — enabling increasingly precise nanite control and feats impossible for unenhanced humans."
+    },
+    {
+      "id": "transducer",
+      "name": "Wireless Transducer",
+      "origin": "Liam / Hybrid",
+      "image": null,
+      "description": "Installed by Liam inside Chris's cybernetic arm by rerouting nanites through the mechanical ligaments — an extremely painful 27-minute procedure. Allows Chris to mentally control any nearby wireless device: his exosuit, other exosuits, the ADP, ship systems, and eventually Aku'Ra satellite hardware. Later updated to allow connection to Aku'Ra-frequency transmitters, enabling Liam to wirelessly reactivate the trantions."
+    },
+    {
+      "id": "shoulder_holoprojector",
+      "name": "Shoulder Holoprojector",
+      "origin": "Liam / Hybrid",
+      "image": null,
+      "description": "A miniaturized projector installed in Chris's natural shoulder (outside his suit) that allows Liam's avatar to manifest as a small 3D hologram projected in front of Chris. Josh later builds a version into the Drake Scale suit's shoulder plate. Used for public-facing communication so Liam can speak directly with others without Chris needing to relay."
+    },
+    {
+      "id": "lspd",
+      "name": "Large-Scale Structural Printing Device (LSPD)",
+      "origin": "Human / DARPA",
+      "image": null,
+      "description": "An industrial-grade 3D printer on wheels capable of fabricating walls, buildings, barricades, and large structures rapidly on-demand. Takes approximately two hours to assemble and program, then prints a 4-meter-tall wall at roughly 1km/hour. Used to build the FOB perimeter, Research Bases Alpha and Bravo, housing units, the cave defensive wall, and additional structures on Catora."
+    },
+    {
+      "id": "dispense_all",
+      "name": "Dispense-All",
+      "origin": "Human",
+      "image": null,
+      "description": "The Light Skipper's food synthesizer, producing meals from stored base materials. Excellent beef and chicken; notably poor seafood. Salvaged from the Light Skipper wreck and installed at Research Base Bravo. Requires power cubes to operate. Enough stored material for the 15 survivors to live 20+ years before running out."
+    },
+    {
+      "id": "power_cubes",
+      "name": "Power Cubes",
+      "origin": "Human",
+      "image": null,
+      "description": "Portable power storage units used for all base equipment. Dozens recovered from the Light Skipper — enough for 6 months of full operations at Research Base Bravo. Can be recharged via Research Base Alpha's hydroelectric output, captured by the matryoshka Faraday cage system."
+    },
+    {
+      "id": "pindemo",
+      "name": "Pindemo",
+      "origin": "Aku'Ra / Tuaca",
+      "image": null,
+      "description": "A small grey metallic cube with a glowing glyph on one side, containing one half of an entangled particle pair. The partner half allows real-time communication across any distance. Patron Rohga sends one half to Guardian Phostop at Lesfer via Chris, restoring the first communications link between Calores and the spaceport city after the Natuul/Svixen attacks severed their network."
+    },
+    {
+      "id": "hardlight_shield",
+      "name": "Hardlight Shield",
+      "origin": "Aku'Ra",
+      "image": null,
+      "description": "Developed by the Aku'Ra in the 8th century of the Millennium War. A staff-like device twisted at its center emits a field that instantly expands into a solid energy barrier half a meter on both sides of the staff. Multiple units deployed together form an impenetrable wall. The pivotal turning point in the Millennium War — used to contain and eliminate Sveri Sku charges. The Svixen have since developed their own personal energy shield equivalents (deployed during the Seutor invasion)."
+    },
+    {
+      "id": "maaket_braid_device",
+      "name": "Maaket Braid Device",
+      "origin": "Josh Thompkins / Maaket",
+      "image": null,
+      "description": "A reverse-energy field generator developed by Josh in collaboration with Maaket technology. It disrupts Svixen weapons by inverting their energy resonance, neutralizing incoming attacks and giving the crew a crucial edge in close-quarters combat where conventional firepower falls short."
+    },
+    {
+      "id": "matryoshka_cage",
+      "name": "Matryoshka Faraday Cage",
+      "origin": "Kirk Thorne / Human",
+      "image": null,
+      "description": "Three nested metal cages built around the mounded cave entrance at Research Base Alpha, each slightly larger than the last — resembling Russian Babushka dolls. Acts as a reverse Faraday cage, collecting the wireless electricity produced by the Sepu hydroelectric facility and channeling it to a power converter in an adjacent lab. Designed and built by Kirk Thorne."
+    },
+    {
+      "id": "sepu_hydroelectric",
+      "name": "Sepu Hydroelectric Station",
+      "origin": "Sepu",
+      "image": null,
+      "description": "A 1,500+ year-old Sepu power station built inside the spiral cave at Research Base Alpha. The tunnel descends at exactly 31.415 degrees — the first five digits of pi — which Thorne confirms is required for proper energy buildup. Water diverted from a nearby stream flows through a maze of sub-tunnels into an underground aquifer, generating wireless electricity collected by the matryoshka Faraday cage. The first of its type predates Transync Stations by approximately 2,000 years. Reactivated by Kirk Thorne in Book 1."
+    },
+    {
+      "id": "blood_sample_extractor",
+      "name": "Remote Blood Sample Extractor",
+      "origin": "Human / Science Division",
+      "image": null,
+      "description": "A cylindrical device mounted on a small tripod with a built-in camera and pop-out screen. Fires a small dart on a fine wire filament up to 100 meters, extracts a blood sample, and reels the filament back. Non-lethal. Used to sample Skamps and other Catoran fauna from a safe distance. Theoretically capable of sampling even Laredo dragons."
+    },
+    {
+      "id": "pmg",
+      "name": "Polycarbonate-infused Metallic Graphene (PMG)",
+      "origin": "Josh Thompkins / BioSteel",
+      "image": null,
+      "description": "A revolutionary composite material invented by Josh Thompkins. Metallic graphene in its natural state is porous; when bonded molecularly to polycarbonate resin, it forms a composite stronger than steel and lighter than carbon fiber — while also being superconductive. Weighs only 17 ounces per weapon/armor component. Used in weapons, cybernetic body parts, structural applications, and armor throughout the series. The foundation of the PMG M4 Carbine H2 and the standard exosuit."
     }
   ],
+
+ "weapons": [
+    {
+      "id": "pmg_m4_h2",
+      "name": "PMG M4 Carbine H2",
+      "origin": "Human / DARPA",
+      "image": null,
+      "description": "A hybrid revision of the classic M4 Carbine constructed from PMG material. Weighs only 17 ounces. Compatible ammo types: kinetic, incendiary, explosive. A munitions selector on the weapon allows rapid switching between types. Targeting system integrates with the HUD for aim assistance. The 'H2' designation indicates the second hybrid revision."
+    },
+    {
+      "id": "exosuit_standard",
+      "name": "Standard PMG Exosuit",
+      "origin": "Human / Galactic Navy",
+      "image": null,
+      "description": "Full-body protective armor constructed from PMG material. Sealed against water and vacuum. Built-in HUD with thermal imaging, enhanced night vision, and UV filter options (added by Monica Possiel). Suit-to-suit comms, datapad integration, area-wide open comm channels. Standard ammo selectors on integrated rifle mount. Hanging mount storage in Operations Command. The crew's standard field kit throughout Transync."
+    },
+    {
+      "id": "drake_scale",
+      "name": "Drake Scale Exosuit (Prototype)",
+      "origin": "Josh Thompkins",
+      "image": null,
+      "description": "Josh Thompkins's prototype exosuit built on PMG material. Matte black with overlapping scale-shaped plates resembling obsidian dragon skin. Opens by splitting down the middle — the entire front retracts to allow entry. Red gel padding interior. Features: active camouflage (full optical invisibility), mentally-commanded helmet retraction into the collar, integrated wrist datapad display, shoulder holoprojector port, magnetic boot soles for zero-gravity hull attachment, internal cameras linkable to other suit feeds, munitions selector, and exosuit motors for dramatically enhanced strength and speed. After Liam's nanite invasion of the scales, the plating also adapts dynamically — reshaping into blades, spears, or shields on mental command. The molecular-sharp blade edge is sharper than any steel. The suit's cover plate has 'Josh was here' inscribed on the underside by Josh."
+    },
+    {
+      "id": "drake_scale_cloaking_suit",
+      "name": "Drake Scale Cloaking Suits",
+      "origin": "Josh Thompkins / Maaket",
+      "image": null,
+      "description": "Combat suits worn by Chris and Ankir, built on Drake Scale armor and equipped with advanced camouflage technology developed by Josh during his time on Tual. The suits bend light and perception to create true invisibility in the field — a decisive tactical advantage in close-quarters and infiltration scenarios."
+    },
+    {
+      "id": "kopesh",
+      "name": "Kopesh (Svixen Energy Blade)",
+      "origin": "Svixen",
+      "image": null,
+      "description": "A Svixen weapon in the style of the ancient Egyptian khopesh — a curved blade. Activated via a button near the hilt, it produces a blue-white crackling plasma edge resembling a frozen lightning bolt. The blade simultaneously cuts and cauterizes. Taken by Chris from a dead Svixen soldier during the Skrema duel on Seutor. Kept magnetically attached to his Drake Scale suit's hip after the fight. Chris uses it to deliver the killing blow to Warlord Riveen."
+    },
+    {
+      "id": "svixen_blades",
+      "name": "Svixen Personal Blades",
+      "origin": "Svixen",
+      "image": null,
+      "description": "Every Svixen warrior carries a personal blade of their choosing, received upon coming of age and trained with for life. Known types encountered: falcata, kopesh, halberd, glaive, scimitar. Many feature plasma or energy edges that glow and crackle with power. Their close-quarters blade skills are claimed to be second to none throughout the galaxy."
+    },
+    {
+      "id": "svixen_energy_weapons",
+      "name": "Svixen Energy / Plasma Rifles",
+      "origin": "Svixen",
+      "image": null,
+      "description": "Standard Svixen infantry weapons — both energy-based rifles and plasma rifles are in service. Most warriors are now equipped with the newer energy-based variants. Ship-mounted equivalents include plasma cannons, electromagnetic railguns, dual-stage missiles, and automated laser turrets."
+    },
+    {
+      "id": "maaket_staves",
+      "name": "Maaket Electric Staves",
+      "origin": "Maaket",
+      "image": null,
+      "description": "Standard weapon of Maaket soldiers. Discharge powerful arcs of electricity that can overwhelm PMG exosuit shielding and fully lock up a suit — leaving the wearer alive but completely immobile. Multiple stave types: standard soldiers carry staves; royal guard carry golden spears with similar electrical discharge capability."
+    },
+    {
+      "id": "tarlon_commands",
+      "name": "Sepu Tarlon Commands",
+      "origin": "Sepu",
+      "image": null,
+      "description": "A catalogue of sounds the Sepu recorded and used as commands to direct military tarlons. Still partially effective 1,500+ years later, despite generations of separation. Chris plays them through his suit's external speakers. Known commands used in the story: stop, calm, retreat, come, friend, distract, hold/cease. The alpha tarlon of a pack on Catora obeyed the 'retreat' command, suggesting deep behavioral conditioning that has persisted even without contact."
+    },
+    {
+      "id": "aku_ra_plasma",
+      "name": "Aku'Ra Plasma Rifle",
+      "origin": "Aku'Ra",
+      "image": null,
+      "description": "Standard infantry weapon of the Aku'Ra Legion during the Millennium War. Fires bolts of green plasma. Features a back-pressure chamber that requires periodic venting to prevent overheating — a blue flash indicator warns of imminent overheat. Effective against Svixen personal armor at close-to-medium range."
+    }
+  ],
+
   "creatures": [
     {
       "id": "amtillians",
       "name": "Amtillians (Class)",
-      "description": "The dominant animal class of Catora — a classification created by Kat's xenobiology team after genetic testing revealed all native animal species share the same biological class, despite their vast physical differences. Amtillians are cold-blooded, have scaleless skin, and lay their eggs in water. Unlike Earth's amphibians, they never breathe through gills at any stage of life. Most strikingly, all amtillians possess four eyes and six limbs — unlike anything previously discovered on Earth.",
-      "image": null
+      "homeworld": "Catora",
+      "image": null,
+      "description": "The dominant animal class of Catora — a classification created by Kat's xenobiology team after genetic testing revealed all native animal species share the same biological class despite their vast physical differences. Amtillians are cold-blooded, have scaleless skin, and lay their eggs in wet environments. Unlike Earth's amphibians, they never breathe through gills at any stage of life. Most strikingly, all amtillians possess four eyes and six limbs — unlike anything previously found on Earth. Catora has no birds or flying species of any kind; the total absence of aerial life gives its forests an eerie, oppressive silence."
     },
     {
       "id": "mud_frog",
       "name": "Mud Frog",
-      "description": "A blue, six-legged amtillian resembling a bullfrog in basic structure — same rounded nose and body shape — but with one critical difference: an extra set of rear legs positioned just forward of the standard placement. Each leg functions independently and provides enormous thrust when used in tandem. Two sets of eyes appear completely white due to a retractable protective lens; a small vertical slit runs down the center of each. When the lenses retract, brilliant purple irises are revealed beneath.",
-      "image": null
+      "homeworld": "Catora",
+      "image": null,
+      "description": "The first alien creature discovered by humans on Catora. A blue, six-legged amtillian resembling a bullfrog in basic structure — same rounded nose and body shape — but with an extra set of rear legs positioned just forward of the standard placement. Each leg functions independently and provides enormous thrust when used in tandem. Two sets of eyes appear completely white due to a retractable protective lens; a small vertical slit runs down the center of each. When the lenses retract, brilliant purple irises are revealed beneath. Roughly football-sized. Buries itself in river mud with only its nose and two small sensory protrusions visible. Explodes out of the mud when triggered. Discovered by Chris and Davis on their first day planetside; an attempted capture failed."
     },
     {
       "id": "laredo_dragon",
       "name": "Laredo Dragon",
-      "description": "Polymegalania Squamata. A powerful amtillian predator covered in deep red skin that fades to dark orange along its underside. Six muscular legs are evenly spaced along its body, each tipped with four long claws. Its long thick tail, midnight blue teeth, rounded head, and long pointed snout give it the appearance of a vastly enlarged Earth lizard. An apex predator in Catora's forests.",
-      "image": null
+      "homeworld": "Catora",
+      "image": null,
+      "description": "Polymegalania Squamata. Named by Sergeant Patel: Large Red Orange. A powerful amtillian predator approximately 3 meters long and 2 meters tall on its hind four legs. Six muscular legs evenly spaced along its body, each tipped with four midnight-blue claws. Long thick tail. Deep red skin fading to dark orange on the underside. Midnight blue teeth. Yellow blood. Rounded head with long pointed lizard-like snout. Bulletproof hide — kinetic rounds deflect; incendiary rounds are effective. Lays leathery, spotted-brown eggs in nests and is fiercely protective of them. Multiple crew encounters; one was killed by Linkenbach and Morgan using incendiary rounds; another was killed by Linkenbach and Robertson by dropping a tree on its skull."
     },
     {
       "id": "garello",
       "name": "Garello",
-      "description": "Nearly six meters tall — muscular, terrifying beasts resembling a gorilla bred with a crocodile. Their long snout and jagged blue teeth could tear a man limb from limb. Six thick limbs end in hand-like feet, each with three fingers and an opposable thumb. Skin is a patchwork of dark greens with yellow-orange spots on the underside. Four bright orange eyes are set in pairs on the sides of the neck, halfway between the shoulders and the snout — more akin to Earth's great dinosaurs than any known living animal.\n\nIt is a Garello mauling that leaves Chris near death, requiring Josh to replace several of his limbs with BioSteel cybernetic parts.",
-      "image": null
+      "homeworld": "Catora",
+      "image": null,
+      "description": "The largest known predator on Catora. Nearly six meters tall — muscular, terrifying beasts resembling a gorilla bred with a crocodile. Six thick limbs end in hand-like feet, each with three fingers and an opposable thumb. Skin is a patchwork of dark greens with yellow-orange speckled spots on the underside. Four bright orange eyes are set in pairs on the sides of the neck, halfway between the shoulders and the snout. Long snout with jagged blue teeth. Explosive and incendiary rounds deflect off its armor. Killed only by dropping a large tree on its skull. More akin to Earth's great dinosaurs than any known living animal. It is a Garello mauling that nearly kills Chris and requires Josh to replace several of his limbs with cybernetics."
     },
     {
       "id": "fapu",
       "name": "Fapu",
-      "description": "A broad, rhinoceros-like amtillian. Stocky at two meters high, three meters wide, and five meters long. Six bulky legs support a puffy, sagging body with a short tail and almost no neck — its head is as wide as its shoulders, its mouth as wide as its head. Three short horns curve toward the nose region: one from the chin and one on each side near the ears.",
-      "image": null
+      "homeworld": "Catora",
+      "image": null,
+      "description": "A broad, rhinoceros-like amtillian. Six bulky legs. Approximately 1 meter high, 1.5 meters wide, and 2.5 meters long. Almost no neck — head as wide as shoulders, mouth as wide as its head. Three short curved horns: one from the chin and one on each side near the ears, all curving toward the nose. Typically gentle, solitary, and peaceful. Highly protective of young — a mother fapu blasts through downed trees to rescue a juvenile being hunted by tarlons. A cerulean blue adult was found sheltering inside the crashed Light Skipper's cargo bay in Ascendant — approximately four tons. The crew herded it out with collective arm-waving and shouting."
     },
     {
       "id": "tarlon",
       "name": "Tarlon",
-      "description": "A large four-legged mammal of Catora, resembling a cross between a bear and a wolf — as massive as the legendary direwolves. Tarlons are pack hunters, occasionally seen pursuing the deer-like species native to Catora's forest regions.",
-      "image": null
+      "homeworld": "Catora",
+      "image": null,
+      "description": "A large mammalian pack hunter of Catora, resembling a cross between a bear and a wolf — as massive as the legendary direwolves. All-black with long fur (up to 20cm on back and forming a mane-like ridge from head to tail). Long tail. Can stand effectively on hind legs. Pack hunters, typically 5–8 strong (up to 100). Exceptionally intelligent — communicate through a complex system of barks, yips, and growls with organized pack structure and apparent command hierarchy. The Sepu domesticated tarlons approximately 29,000 years ago as home protectors and military companions; their communication was partially decoded into commands. Yellow teeth, orange eyes. Heal rapidly from injuries. Fenrir is a notable individual."
     },
     {
       "id": "skamp",
       "name": "Skamp",
-      "description": "A creature native to Catora. Further details are limited in current expedition records.",
-      "image": null
+      "homeworld": "Catora",
+      "image": null,
+      "description": "A mammal native to Catora resembling an opossum or lemur. Inquisitive and extremely vocal — chirps and squeaks constantly. Long prehensile tail makes it a proficient climber, typically found high in lakeside forest trees. The glowing eyes watching Chris and Davis on their first night belong to Skamp packs in the trees. Blood sampled using the remote extractor dart device during Kat's expedition to the lake."
+    },
+    {
+      "id": "catoran_deer",
+      "name": "Catoran Deer",
+      "homeworld": "Catora",
+      "image": null,
+      "description": "A four-legged mammal resembling a large hornless deer or horse. Yellow-and-orange-patched fur. Travels in herds. Hunted by tarlons. Called simply 'deer' by the crew — the only species to receive no naming debate whatsoever. Part of the standard mammalian class on Catora (four limbs, two eyes, similar to Earth equivalents)."
+    },
+    {
+      "id": "vyasin",
+      "name": "Vyasin",
+      "homeworld": "Seutor",
+      "image": null,
+      "description": "A large flying predator native to Seutor. Wingspan roughly three times a Tuaca's height. Stands 2.5 meters or more on hind legs. Carapace-like armored hide in dark green with teal markings. Six total limbs: two wing-arms (wings fold on themselves), two mandible-arms protruding from the upper chest, two hind legs. Long beak lined with small sharp teeth. The joints between carapace plates are the only weak spots — flat surfaces deflect most rounds. Attacked Tivay, seizing him with mandible-arms and slamming him repeatedly into the ground. Killed by Chris driving a suit-formed blade through its neck. The Tuaca tag and collect carcasses — nothing is wasted."
+    },
+    {
+      "id": "derhous",
+      "name": "Derhous",
+      "homeworld": "Seutor",
+      "image": null,
+      "description": "A large hippo-like herbivore native to Seutor. The Tuaca's primary food source. Tuaca orange leather is made from derhous hides. Herds are carefully managed — Tuaca hunting removes only 8–10% of the population annually, allowing herds to thrive. Nothing from a killed derhous is wasted."
+    },
+    {
+      "id": "seutor_canopy_hunters",
+      "name": "Jungle Canopy Hunters",
+      "homeworld": "Seutor",
+      "image": null,
+      "description": "An unnamed species encountered during the trek from Calores to Lesfer. Long-limbed and fast, capable of hanging upside-down from branches. Use Seutor's bioluminescent canopy as natural camouflage at night. Appear to hunt by systematic observation — circling prey and measuring it before deciding whether to attack. Communicate in low, guttural sounds resembling speech. Circled the human-Tuaca party but ultimately chose not to attack, instead taking prey elsewhere. Posis warned: 'They will remember your scent.'"
+    }
+  ],
+
+  "concepts": [
+    {
+      "id": "skrema",
+      "name": "Skrema — The Duel of Worlds",
+      "image": null,
+      "description": "The Svixen ritual of single combat for planetary supremacy. Only a Chapaka (tribal commander) may officially declare Skrema for a world. If the Chapaka is unavailable, the highest-ranking officer present must accept. Both combatants strip armor and fight with personal weapons or unarmed. The duel is observed from the Svixen ship in orbit, which projects a beam of red light forming a circle on the ground as the arena and sounds a booming horn to signal commencement. A Svixen victory means the losing world is at the Svixen's mercy. A defender's victory grants that world 1,000 years of peace. The defeated champion is killed by the victor at the conclusion; all Svixen soldiers present are honor-bound to depart afterward. Soldiers who ignore or dishonor a valid Skrema challenge are called grutanschs. Chris has won Skrema twice: on Catora (vs. Semula Gatuum) and on Seutor (vs. Tagonis Riveen)."
+    },
+    {
+      "id": "dova_sku_title",
+      "name": "Dova Sku — 'Hell Machine'",
+      "image": null,
+      "description": "The Svixen name given to Chris Thompkins. Translates as 'Hell Machine.' References an ancient Svixen legend about a warrior who overcame dismemberment — losing limbs — only to defy the teachings of Ull by replacing those limbs with cybernetics. The previous Dova Sku was stripped of his parts as trophies. Warlord Riveen uses it as a taunt during their Skrema duel on Seutor. Chris treats it as a title of honor rather than an insult. The narrator's opening line in Transync: 'the Svixen, they would come to call him Dova Sku — Hell Machine.'"
+    },
+    {
+      "id": "fifth_dimension",
+      "name": "The Fifth Dimension — Transync Physics",
+      "image": null,
+      "description": "As explained by Liam to Dr. Rowley: standard physics models fail because they assume the number zero (true void) can exist. The universe permits no true voids — matter and energy only convert. The fifth dimension is the negative space between matter: the framework of reality, existing outside time and gravity. The Flower of Life pattern visually represents this framework. Transync Stations connect through this negative space, bypassing both distance and time. The EM Tether uses a fifth-dimensional connection but travels the 'long way around.' Full Transync is the direct route. Dark matter, dark energy, pi, and black holes all exist within this framework."
+    },
+    {
+      "id": "uplift_protocol",
+      "name": "The Uplifting Protocol",
+      "image": null,
+      "description": "The Aku'Ra's philosophy for advancing other civilizations. Rules: uplift each race only to a certain threshold, then allow natural evolution; restrict inter-world travel until a specific developmental threshold is reached; no reproduction while off-world; introduce technology gradually (Transync Stations first); maintain surveillance via orbital systems after departure. One early failed uplift resulting in a species' complete annihilation permanently shaped this doctrine. The Aku'Ra also imposed strict laws to prevent any uplifted species from overrunning others or requesting faster advancement than was deemed safe."
+    },
+    {
+      "id": "panspermia",
+      "name": "Panspermia & Directed Uplift",
+      "image": null,
+      "description": "Panspermia is the theory that life or its building blocks spread across the cosmos via comets, meteorites, and planetary impacts. The directed-panspermia variant suggests an intelligence deliberately seeded worlds. Kat raises this in relation to the obelisk discovery; Liam later confirms the Aku'Ra did not seed Earth's animals, but did genetically modify its existing inhabitants, shared technology, and established Transync infrastructure. The common threads between ancient Earth cultures — pyramids, obelisks, flood myths, sky-god religions — all trace to the Aku'Ra's 6,000-year presence, followed by the Svixen's occupation."
+    },
+    {
+      "id": "catoran_calendar",
+      "name": "Catoran Fixed Calendar",
+      "image": null,
+      "description": "A 389-day calendar adapted from the International Fixed Calendar proposed on Earth approximately 150 years before the series. 12 standard months of 30 days (January–December) plus a 13th month called 'Galus' (29 days, placed between June and July). Time zone designation: Central Galus Time (CGT). Instituted by Captain Terzi after the Light Skipper reached the Catoran surface. Requires only a few minutes of correction per year. A Catoran day is approximately 28 hours. The in-story date of February 17th, 2055 at 16:42 CGT is the first specific date recorded."
+    },
+    {
+      "id": "younger_dryas",
+      "name": "The Younger Dryas — In-Universe",
+      "image": null,
+      "description": "The period (~12,000 BCE) recorded in Earth's geological record as a sudden cooling event following rapid warming, associated with massive global flooding. In the Dova Sku universe, Liam theorizes this is the aftermath of the Svixen invasion of Earth: ice caps melted via nuclear weapons or a redirected asteroid, causing global tsunamis and flooding, then a second ice age as debris blocked sunlight. Survivors were collected, genetically modified, and used to rebuild human society under Svixen direction."
+    },
+    {
+      "id": "black_knight",
+      "name": "The Black Knight Satellite",
+      "image": null,
+      "description": "A real mysterious object photographed in Earth's polar orbit. In the Dova Sku universe, Liam identifies images of it (found in the Light Skipper's records) as being of Aku'Ra construction — one of many surveillance satellites left to monitor Earth after the Aku'Ra departed. Liam notes there would have been many more than the one photographed."
+    },
+    {
+      "id": "liam_evolution",
+      "name": "Liam's Emotional Evolution",
+      "image": null,
+      "description": "Liam's bonding with Chris is unprecedented in Aku'Ra history — his matrix was never designed to enter a living host. The coupling grants him genuine emotion: fear, pride, joy, love, grief, regret, thrill, and growing self-awareness. He catalogs unresolved emotional mysteries in a growing internal kernel. By Ascendant, he has developed genuine preferences, desires, and humor. The boundary between his decisions and Chris's instincts increasingly blurs — neither can always identify whose thought arrived first. He briefly takes full control of four exosuits simultaneously to escape a missile strike and privately describes the experience as thrilling — which then terrifies him more than the missile itself. He questions whether he could ever return to being stationary after experiencing mobility and emotion."
+    },
+    {
+      "id": "tower_of_babel",
+      "name": "Tower of Babel — In-Universe",
+      "image": null,
+      "description": "Liam's interpretation: the Tower of Babel story represents the divergence of the Aku'Ra's unified one-world language into multiple separate languages after the Aku'Ra departed Earth — as communities lost contact with each other and language evolved independently over millennia without the Transync network to maintain connection."
+    },
+    {
+      "id": "noahs_ark",
+      "name": "Noah's Ark — In-Universe",
+      "image": null,
+      "description": "Liam's theory: the Noah story was written by one of the survivors of the Svixen's post-invasion flood event (~12,000 BCE). After the ice caps were melted and the planet flooded, the Svixen collected robust survivors from around the globe using viral nanites released from sub-orbital ships — nanites programmed to seek specific species and transmit location data. Rather than repopulating the entire planet with compatible species, they redistributed only those survivors hardy enough to adapt and reproduce quickly."
+    },
+    {
+      "id": "ship_divisions",
+      "name": "Ship Division Colors",
+      "image": null,
+      "description": "Crew members aboard the Light Skipper are identified by their division uniform color:\n\n• Engineering — Green\n• Navigation — Blue\n• Science — Purple\n• Medical — Red\n• Military — Dark Gray\n• Captain — Black"
+    }
+  ],
+
+  "history": [
+    {
+      "id": "akura_emerge",
+      "era": "Ancient",
+      "title": "The Aku'Ra Emerge",
+      "description": "In the Su'Laeris solar system, the Aku'Ra evolved over millions of years into a unified technological civilization. They mastered antigravity, nanotechnology, quantum entanglement, and ultimately Transync travel — instantaneous transportation through the fifth dimension. They methodically terraformed and settled every world and moon within their system, with each generation continuing the tradition of settling virgin ground. When the last dead rock in their system was finally habitable, Aku'Ra like Feldgard Spooni represented the last generation that could fulfill the ancient tradition — after this, expansion would have to reach beyond their system entirely."
+    },
+    {
+      "id": "svixen_first_contact",
+      "era": "First Contact",
+      "title": "The Svixen Arrive",
+      "description": "Space Station Vaca Tuo, positioned on the outer edge of the Su'Laeris system, monitors for signs of intelligent life. Oculist Skreunak detects massive decelerating objects entering the system from below the ecliptic — multiple large ships slowing in perfect unison, something no natural object could do. He presses the large blue button — a signal he had stared at for five years and never touched — forever changing Aku'Ra civilization. The Svixen deploy Sveri Sku shock troops before the Aku'Ra can react. The outer planet Petras falls in less than a day. Billions die in the first three weeks."
+    },
+    {
+      "id": "millennium_war",
+      "era": "War",
+      "title": "The Millennium War",
+      "description": "For over a thousand annuals, the Svixen wage war across the Su'Laeris system. Tens of billions die. The Aku'Ra develop the Hardlight Shield — a pivotal turning point. The war climaxes when Praetor Stumat Turfish challenges Svixen Chapaka Flacos Pointan of the Tmuli Tribe to Skrema. Turfish wins by dislodging one of Pointan's tusks and driving it into his skull. The Svixen honor their code and vacate the Su'Laeris system, sending a final transmission: 'This is your one warning. Peace will not be forever.' The battleship Glory's Vengeance, deployed for only two annuals, is sacrificed by Legate Dursis in a ramming attack that destroys the last Svixen destroyer — a death worthy of its name."
+    },
+    {
+      "id": "great_uplift",
+      "era": "Expansion",
+      "title": "The Great Uplift",
+      "description": "Less than an annual after the war ends, the Aku'Ra commit to expanding into the galaxy — not to conquer, but to prepare other civilizations to defend themselves against future Svixen aggression. Over 62,000 years, they travel the spiral arm, uplifting less-advanced races. They genetically enhance species, build Transync Station networks, install Trantions in orbit for free planetary power, and share technology selectively. Key worlds uplifted include: Randt (Sepu), Earth (humans), Tual (Maaket), Seutor (Tuaca and Natuul), and dozens of others including the Lucian and Comtaka homeworlds — both later overrun by the Svixen."
+    },
+    {
+      "id": "earth_uplift",
+      "era": "Earth History",
+      "title": "The Aku'Ra Visit Earth",
+      "description": "Around 40,000 BCE, the Aku'Ra arrive on Earth. They call primitive humans 'Star People.' They genetically modify pregnant Neanderthal women to rapidly expand intelligence and alter physical appearance, producing Homo sapiens. They share technology, build enormous stone structures using antigravity and nanotechnology, establish a one-world language, and set up Transync Stations for global travel. Average human lifespan reaches 350 years; the oldest on record lives 1,200 years. The Aku'Ra spend 6,000 years on Earth before moving on. Many humans travel between worlds during this period, and the Aku'Ra's translation software is updated to include all human languages as they evolve."
+    },
+    {
+      "id": "akura_withdrawal",
+      "era": "Withdrawal",
+      "title": "The Aku'Ra Return Home",
+      "description": "After 62,000 years of uplift work, the Aku'Ra decide they have done all they can. They return to Su'Laeris for a solitary existence, hoping to one day welcome uplifted travelers. They leave behind Transync Stations, Trantions, and dormant AIs in every world they touched — including LM2479623 (later named Liam) on Randt/Catora. Their philosophy: they had prepared each race as well as possible to defend itself against the Svixen. The rest had to be earned naturally."
+    },
+    {
+      "id": "earth_falls",
+      "era": "Earth History",
+      "title": "The Svixen Invade Earth",
+      "description": "Around 12,000 BCE, orbital surveillance satellites around Earth go dark. Liam's theory: the Svixen invaded, melted the polar ice caps (via nuclear weapons or a strategically redirected asteroid), causing the global floods and ice age known as the Younger Dryas. They then collected survivors using viral nanites released from sub-orbital ships, genetically modified them (a second, smaller genome alteration dated to ~5,000 BCE), rewrote religions to erase Aku'Ra worship, and altered or destroyed historical records. Humans were used as slave labor or kept as a renewable food source. Pyramids, obelisks, flood myths, sky-god religions, and the mysterious Tower of Babel story are all remnants of the Aku'Ra period followed by the Svixen cover-up."
+    }
+  ],
+
+  "timeline": [
+    {
+      "year": "2036",
+      "event": "EM Tether Concept Theorized",
+      "description": "Early theoretical work on quantum entanglement for matter transport begins."
+    },
+    {
+      "year": "2046",
+      "event": "EM Tether Discovery",
+      "description": "Physicists confirm and demonstrate the EM (Entanglement-Mass) Tether — humanity's first faster-than-light transport technology. The discovery is made in 2046."
+    },
+    {
+      "year": "2053",
+      "event": "Catora Announced",
+      "description": "Astronomer Samuel Catoran confirms the first habitable planet outside the solar system: Catora, 60 light-years away in the Galus system. The New Frontier Mission and the Light Skipper are commissioned. Chris and Josh Thompkins volunteer."
+    },
+    {
+      "year": "2053–2054",
+      "event": "Mission Preparation",
+      "description": "Three months of testing, three months of preparation. BioSteel corporation develops cybernetic and nanite technology in parallel. Josh's PMG material rights are acquired. 250 crew selected. The Light Skipper's group photo is taken."
+    },
+    {
+      "year": "2054",
+      "event": "Departure — The Long Sleep",
+      "description": "The Light Skipper departs Earth. The crew enters cryosleep. The EM Tether propels the ship across 60 light-years."
+    },
+    {
+      "year": "2055 — January",
+      "event": "Arrival at Catora",
+      "description": "The crew awakens in the Galus system. Falcon Team One makes the first human planetary landing. The mud frog is discovered. A Laredo dragon attacks Demolitions Tech Chung. Dozens of Skamp eyes watch from the trees. The Light Skipper EM-tethers planetside. The FOB perimeter is built with LSPDs."
+    },
+    {
+      "year": "2055 — February",
+      "event": "Research Base Alpha Discovered",
+      "description": "A magnetic anomaly leads Falcon Two to an underground Sepu hydroelectric power station. The first obelisk — 'The Chapel' — is found. Research Base Alpha is established."
+    },
+    {
+      "year": "2055 — March",
+      "event": "Research Base Bravo — Transync Station Found",
+      "description": "A 50-meter obelisk is discovered with a hollow interior, false door, and Alien Datapad displaying English text. Research Base Bravo is established. The alien datapad reveals the station reads 'power insufficient; network connection insufficient.'"
+    },
+    {
+      "year": "2055 — April/May",
+      "event": "Garello Attack & Liam Joins Chris",
+      "description": "Chris is nearly killed by a Garello. He loses both legs below the knee and his right arm. The Aku'Ra AI LM2479623 uses nanites to enter Chris's bloodstream and save his life. Chris names him Liam. Josh installs cybernetic limbs integrated via nanites. Liam later installs a wireless transducer and shoulder holoprojector. Josh creates the Drake Scale exosuit."
+    },
+    {
+      "year": "2055 — June",
+      "event": "The Svixen Attack",
+      "description": "A Regulus-class Svixen battleship destroys Catora's satellites and lands dropships. The crew of 250 is reduced to 15 survivors. Captain Terzi is killed. The surviving crew retreats to a mining cave 1,920km northeast of the FOB. Chris defeats Svixen Chapaka Semula Gatuum in Skrema — securing Catora for 1,000 years. Fenrir the tarlon bonds with Chris."
+    },
+    {
+      "year": "Ascendant — Month 1",
+      "event": "Rebuilding & Trantion Mission",
+      "description": "The 15 survivors move to Research Base Bravo. All crew receive medically-programmed nanites. Chris and Dr. Rowley depart on LOLA One for the Lagrange Points to reactivate the two trantions — a 35-day journey. A Svixen scout ship is destroyed by Liam's missile-mine maneuver en route. The Transync Station activates when both trantions come online. Five crew members (Carmelo, Josh, Kat, Linkenbach, Davis) are immediately abducted through the portal by Maaket soldiers."
+    },
+    {
+      "year": "Ascendant — Month 2",
+      "event": "Tual: Rescue Mission",
+      "description": "Chris leads a rescue team (Lemmon, Morgan, Robertson) through the Transync portal to Tual. After confronting Maaket guards, they are brought before Princess Cashy. Negotiations secure the crew's release; Cashy becomes cautiously allied with humanity. Josh remains on Tual to develop new tech with the Maaket."
+    },
+    {
+      "year": "Ascendant — Month 2",
+      "event": "Seutor: The Ascendant",
+      "description": "Chris leads a team to Seutor via the Calores Transync Station. They navigate the bioluminescent jungle, ally with Tuaca guides Posis and Tivay, deliver Rohga's pindemo to Guardian Phostop, survive a joint Natuul/Svixen missile attack (Liam takes control of all four suits to evacuate them in seconds), and Chris challenges Warlord Tagonis Riveen to Skrema. Chris wins, securing Seutor for 1,000 years. Phostop awards the crew the Ground Runner — their ship home. Miller is killed in combat in the later events (Chapter 23). Ankir joins the crew as a willing ally."
+    }
+  ],
+
+  "organizations": [
+    {
+      "id": "galactic_navy",
+      "name": "Galactic Navy",
+      "affiliation": "Earth / Humanity",
+      "image": null,
+      "description": "Earth's first deep-space military and exploration organization. Commissioned the New Frontier Mission and the Light Skipper. Organized Team Falcon as the mission's military unit. Rank structure mirrors the US Navy: Captain, Ensign, Lieutenant, Chief Petty Officer, Petty Officer, Specialist, Corporal. Chris holds the rank of Lieutenant; Campbell is Chief Petty Officer; Carmelo is Ensign."
+    },
+    {
+      "id": "team_falcon",
+      "name": "Team Falcon",
+      "affiliation": "Galactic Navy",
+      "image": null,
+      "description": "The Light Skipper's 30-person military unit. Organized into rotating 5–6 person teams (Falcon One through Six). Named by Chris. Tasked with perimeter security, expedition escort, and base defense on Catora. After the Svixen attack reduced the crew to 15 survivors, the remaining soldiers — Campbell, Davis, Morgan, Linkenbach, Robertson, Blevins, Miller, Patel, Lemmon, Zavani — continue as the core defensive and combat force. Their informal motto: 'Badass Motherfuckers.' Members who display exceptional courage under fire are awarded this designation by Chris personally."
+    },
+    {
+      "id": "biosteel",
+      "name": "BioSteel Cybernetic Industries",
+      "affiliation": "Earth / Private",
+      "image": null,
+      "description": "The corporation that acquired Josh Thompkins's PMG material rights. Was developing nanite-integrated cybernetic limbs before the mission launched; that technology was applied to Chris after the Garello attack. Josh's mother worked at BioSteel alongside him. The technology represented a state-of-the-art medical treatment back on Earth at the time of the mission."
+    },
+    {
+      "id": "darpa",
+      "name": "DARPA",
+      "affiliation": "Earth / US Government",
+      "image": null,
+      "description": "Defense Advanced Research Projects Agency. Developed the LOLA dropship prototypes — which reached production only months before the Light Skipper's departure — and contributed to the exosuit technology used by Team Falcon. The LSPD (Large-Scale Structural Printing Device) was also a DARPA-developed technology."
+    },
+    {
+      "id": "akura_legion",
+      "name": "Aku'Ra Legion / Warfighter Command",
+      "affiliation": "Aku'Ra",
+      "image": null,
+      "description": "The Aku'Ra's standing military force during the Millennium War. Organized under Warfighter Command, which coordinated defense across the entire Su'Laeris system. Rank structure: Praetor (top field commander), Legate (ship captain / senior officer), Optio (mission officer), Centurion (unit leader), Milites (soldiers). The battleship Glory's Vengeance is the most celebrated warship of the war. Used plasma rifles, orbital laser strikes, and Hardlight Shields as primary weapons systems."
     }
   ]
 }
