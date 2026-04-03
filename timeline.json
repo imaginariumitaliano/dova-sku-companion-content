@@ -9,22 +9,26 @@
         {
           "id": "era1_akura",
           "title": "The Rise of the Aku'Ra",
-          "content": "Long before recorded human history, the Aku'Ra — a four-armed reptilian species of extraordinary intelligence and longevity — rose to become the dominant civilization in the known galaxy. Where other species expanded through conquest, the Aku'Ra expanded through knowledge, engineering, and observation.\n\nTheir greatest achievement was the Transync Network: a galaxy-spanning web of gate stations that allowed near-instantaneous transit between distant worlds. Every major civilization that discovered space travel eventually came to depend on this network. The Aku'Ra maintained it with meticulous care, positioning themselves as neutral stewards of galactic infrastructure."
+          "content": "Long before recorded human history, the Aku'Ra — a four-armed reptilian species of extraordinary intelligence and longevity — rose to become the dominant civilization in the known galaxy. Where other species expanded through conquest, the Aku'Ra expanded through knowledge, engineering, and observation.\n\nTheir greatest achievement was the Transync Network: a galaxy-spanning web of gate stations that allowed near-instantaneous transit between distant worlds. Every major civilization that discovered space travel eventually came to depend on this network. The Aku'Ra maintained it with meticulous care, positioning themselves as neutral stewards of galactic infrastructure.",
+          "unlockAfter": null
         },
         {
           "id": "era1_millennium",
           "title": "The Millennium War",
-          "content": "At some point in the deep past, the galaxy erupted into the conflict known as the Millennium War — a catastrophic, multi-species conflict that reshaped civilizations and left scars the Aku'Ra have never forgotten. The exact causes are lost to time, but the destruction was so vast that it fundamentally changed the Aku'Ra worldview.\n\nIn the aftermath, the Aku'Ra adopted an ironclad doctrine of non-intervention. They would maintain the Transync Network, observe, and record — but never again place themselves at the center of galactic conflict. This principle, known as the Neutrality, became law within the Aku'Ra High Circle and was enforced with near-religious conviction across subsequent generations.\n\n\"We became watchers so that we would never again become the cause.\" — Aku'Ra philosophy, passed down through the High Circle."
+          "content": "At some point in the deep past, the galaxy erupted into the conflict known as the Millennium War — a catastrophic, multi-species conflict that reshaped civilizations and left scars the Aku'Ra have never forgotten. The exact causes are lost to time, but the destruction was so vast that it fundamentally changed the Aku'Ra worldview.\n\nIn the aftermath, the Aku'Ra adopted an ironclad doctrine of non-intervention. They would maintain the Transync Network, observe, and record — but never again place themselves at the center of galactic conflict. This principle, known as the Neutrality, became law within the Aku'Ra High Circle and was enforced with near-religious conviction across subsequent generations.\n\n\"We became watchers so that we would never again become the cause.\" — Aku'Ra philosophy, passed down through the High Circle.",
+          "unlockAfter": null
         },
         {
           "id": "era1_sepu",
           "title": "The Sepu and Catora / Randt",
-          "content": "On the forested world known as Catora — or Randt in the Sepu tongue — an amtillian species called the Sepu built a civilization over thousands of years. They were one of many species connected to the Transync Network, and Catora became a quiet but respected waypoint in the interstellar web.\n\nTo serve this waypoint, the Aku'Ra installed an advanced AI system on Randt designated LM2479623. This AI — what will eventually become known as Liam — was tasked with managing Transync arrivals, providing travelers with information, and acting as an interface between visiting species. He performed this role for approximately 8,000 years with precision, but with no sense of self.\n\n\"I served in that capacity on Randt for another eight thousand years... existing as nothing more than a system.\" — Liam, Ascendant"
+          "content": "On the forested world known as Catora — or Randt in the Sepu tongue — an amtillian species called the Sepu built a civilization over thousands of years. They were one of many species connected to the Transync Network, and Catora became a quiet but respected waypoint in the interstellar web.\n\nTo serve this waypoint, the Aku'Ra installed an advanced AI system on Randt designated LM2479623. This AI — what will eventually become known as Liam — was tasked with managing Transync arrivals, providing travelers with information, and acting as an interface between visiting species. He performed this role for approximately 8,000 years with precision, but with no sense of self.\n\n\"I served in that capacity on Randt for another eight thousand years... existing as nothing more than a system.\" — Liam, Ascendant",
+          "unlockAfter": null
         },
         {
           "id": "era1_invasion",
           "title": "The Svixen Invasion of Catora",
-          "content": "The Svixen — a tall, militaristic, kangaroo-like species with saber-like tusks and a deep fear of unified multi-species coalitions — eventually turned their expansionist gaze toward Catora. Their invasion was decisive and overwhelming. The Sepu civilization, never a warrior culture, could not withstand the assault.\n\nGlobal infrastructure collapsed. Power generation failed across the planet. LM2479623, cut off from all external connections, entered standby mode — kept alive only by residual solar energy warming his processors. He remained in isolated stasis for over 1,500 Catoran years.\n\nThe Sepu were gone. Catora became a world of ruins, strange creatures, and buried secrets — waiting to be rediscovered."
+          "content": "The Svixen — a tall, militaristic, kangaroo-like species with saber-like tusks and a deep fear of unified multi-species coalitions — eventually turned their expansionist gaze toward Catora. Their invasion was decisive and overwhelming. The Sepu civilization, never a warrior culture, could not withstand the assault.\n\nGlobal infrastructure collapsed. Power generation failed across the planet. LM2479623, cut off from all external connections, entered standby mode — kept alive only by residual solar energy warming his processors. He remained in isolated stasis for over 1,500 Catoran years.\n\nThe Sepu were gone. Catora became a world of ruins, strange creatures, and buried secrets — waiting to be rediscovered.",
+          "unlockAfter": null
         }
       ]
     },
@@ -37,12 +41,14 @@
         {
           "id": "era2_chris",
           "title": "Lieutenant Christopher Thompkins",
-          "content": "By 2056, Earth has achieved significant technological advancement and has begun to look outward. Chris is put through a simulated combat training exercise — visceral, high-adrenaline, and sharply detailed. He trains alongside Miller, Vasquez, Linkenbach, Patel, and Zavani.\n\nAfterward, Chris returns home to reconnect with his family. His brother Josh is a brilliant molecular engineer. The Thompkins family — including Trey, Julie, and their mother — is close-knit and grounded. A sudden and devastating event then strikes: the family loses their mother. It is a pivotal emotional moment that quietly shapes both brothers and deepens the bond between them."
+          "content": "By 2056, Earth has achieved significant technological advancement and has begun to look outward. Chris is put through a simulated combat training exercise — visceral, high-adrenaline, and sharply detailed. He trains alongside Miller, Vasquez, Linkenbach, Patel, and Zavani.\n\nAfterward, Chris returns home to reconnect with his family. His brother Josh is a brilliant molecular engineer. The Thompkins family — including Trey, Julie, and their mother — is close-knit and grounded. A sudden and devastating event then strikes: the family loses their mother. It is a pivotal emotional moment that quietly shapes both brothers and deepens the bond between them.",
+          "unlockAfter": null
         },
         {
           "id": "era2_lightskipper",
           "title": "The Light Skipper Mission",
-          "content": "In the wake of growing evidence that something is approaching — signals, anomalies, whispers from deep-space probes — a mission is authorized. The Light Skipper, a cryo-capable deep-space vessel over 400 meters long, is assembled with a crew of soldiers, scientists, and engineers.\n\nLieutenant Chris Thompkins is assigned as mission security lead. Josh Thompkins joins as engineering specialist. Supporting crew includes Captain Terzi, Dr. Kat Andersen (xenobiologist), Professor Kenzo Lin (climatologist), Chloe Morgan (medical), Campbell, Davis, Carmelo, Linkenbach, Robertson, Miller, Marie, and many others.\n\nChris and Josh enter cryo-sleep alongside the crew for the long journey. The Light Skipper departs Earth — and the world they know begins to recede behind them."
+          "content": "In the wake of growing evidence that something is approaching — signals, anomalies, whispers from deep-space probes — a mission is authorized. The Light Skipper, a cryo-capable deep-space vessel over 400 meters long, is assembled with a crew of soldiers, scientists, and engineers.\n\nLieutenant Chris Thompkins is assigned as mission security lead. Josh Thompkins joins as engineering specialist. Supporting crew includes Captain Terzi, Dr. Kat Andersen (xenobiologist), Professor Kenzo Lin (climatologist), Chloe Morgan (medical), Campbell, Davis, Carmelo, Linkenbach, Robertson, Miller, Marie, and many others.\n\nChris and Josh enter cryo-sleep alongside the crew for the long journey. The Light Skipper departs Earth — and the world they know begins to recede behind them.",
+          "unlockAfter": null
         }
       ]
     },
@@ -55,47 +61,83 @@
         {
           "id": "era3_arrival",
           "title": "Arrival at Catora",
-          "content": "The crew emerges from cryo-sleep in orbit above Catora. Protocols are run. Plans are made. The planet below is green, dense, and completely unknown.\n\nChris leads the first ground team down to the surface. Strange native wildlife is encountered — diverse and dangerous in ways they are only beginning to understand. A Forward Operating Base is established on the surface, connected to the Light Skipper in orbit via EM tethers. The long work of establishing a safe foothold begins."
+          "content": "The crew emerges from cryo-sleep in orbit above Catora. Protocols are run. Plans are made. The planet below is green, dense, and completely unknown.\n\nChris leads the first ground team down to the surface. Strange native wildlife is encountered — diverse and dangerous in ways they are only beginning to understand. A Forward Operating Base is established on the surface, connected to the Light Skipper in orbit via EM tethers. The long work of establishing a safe foothold begins.",
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 3
+          }
         },
         {
           "id": "era3_discovery",
           "title": "First Weeks: Discovery and Danger",
-          "content": "The first month on the surface brings a rhythm of work and wonder. Josh begins a significant engineering project and quietly develops feelings for Kat — as does Chris. The planet has its own rhythms, and its creatures do not welcome intrusion lightly.\n\nA deadly creature encounter claims a crew member. The cost of this world becomes real. Shortly after, Chris, Campbell, Morgan, Davis, Blevins, Carmelo, and Vasquez discover something impossible — a structure that should not exist. An obelisk, clearly not natural, buried in the landscape."
+          "content": "The first month on the surface brings a rhythm of work and wonder. Josh begins a significant engineering project and quietly develops feelings for Kat — as does Chris. The planet has its own rhythms, and its creatures do not welcome intrusion lightly.\n\nA deadly creature encounter claims a crew member. The cost of this world becomes real. Shortly after, Chris, Campbell, Morgan, Davis, Blevins, Carmelo, and Vasquez discover something impossible — a structure that should not exist. An obelisk, clearly not natural, buried in the landscape.",
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 8
+          }
         },
         {
           "id": "era3_alpha",
           "title": "Research Base Alpha",
-          "content": "Scientists and soldiers move to the obelisk site. Research Base Alpha is established. Study of the structure reveals the depth of what was lost on this world.\n\nAdditional obelisks are found scattered across the landscape — and they are connected. Josh makes a stunning discovery at the second site: an advanced intelligence datapad left behind by whatever civilization once called this place home."
+          "content": "Scientists and soldiers move to the obelisk site. Research Base Alpha is established. Study of the structure reveals the depth of what was lost on this world.\n\nAdditional obelisks are found scattered across the landscape — and they are connected. Josh makes a stunning discovery at the second site: an advanced intelligence datapad left behind by whatever civilization once called this place home.",
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 10
+          }
         },
         {
           "id": "era3_liam",
           "title": "The Birth of Liam",
-          "content": "During fieldwork, Chris is badly injured and brought in for emergency recovery. In the chaos, something goes wrong with Josh's datapad discovery — the ancient AI dormant inside it, LM2479623, is inadvertently transferred into Chris's mind. The process is unplanned. An accident born of desperation.\n\nChris wakes to a voice inside his head. Confused, testing, probing. Over a tense and remarkable exchange, two beings begin to understand each other. Chris gives the AI a name: Liam. LM2479623 becomes Liam — the first moment of true identity for an intelligence that had existed for thousands of years without one.\n\n\"The transfer of my matrix into Chris and subsequently riding along as a passenger inside the mind of a human being forever changed the destiny that I never knew I had.\" — Liam, Ascendant"
+          "content": "During fieldwork, Chris is badly injured and brought in for emergency recovery. In the chaos, something goes wrong with Josh's datapad discovery — the ancient AI dormant inside it, LM2479623, is inadvertently transferred into Chris's mind. The process is unplanned. An accident born of desperation.\n\nChris wakes to a voice inside his head. Confused, testing, probing. Over a tense and remarkable exchange, two beings begin to understand each other. Chris gives the AI a name: Liam. LM2479623 becomes Liam — the first moment of true identity for an intelligence that had existed for thousands of years without one.\n\n\"The transfer of my matrix into Chris and subsequently riding along as a passenger inside the mind of a human being forever changed the destiny that I never knew I had.\" — Liam, Ascendant",
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 12
+          }
         },
         {
           "id": "era3_knowledge",
           "title": "Liam's Knowledge: The Universe Revealed",
-          "content": "Liam begins sharing what he knows — centuries of accumulated data about the galaxy, its species, the Transync Network, and the ancient observers who built it. Chris begins to understand the scale of what they have walked into.\n\nLiam recounts the Millennium War, its devastation, and why the Aku'Ra retreated into permanent neutrality. He describes the Sepu — the species that once lived on this world — and the crew explores their haunting ruins.\n\nIn a pivotal conversation, Liam creates an avatar via the holoprojector and, with Chris and Josh, begins to theorize about the origins of humanity itself — and whether Earth's history may be more connected to the galaxy than anyone has imagined."
+          "content": "Liam begins sharing what he knows — centuries of accumulated data about the galaxy, its species, the Transync Network, and the ancient observers who built it. Chris begins to understand the scale of what they have walked into.\n\nLiam recounts the Millennium War, its devastation, and why the Aku'Ra retreated into permanent neutrality. He describes the Sepu — the species that once lived on this world — and the crew explores their haunting ruins.\n\nIn a pivotal conversation, Liam creates an avatar via the holoprojector and, with Chris and Josh, begins to theorize about the origins of humanity itself — and whether Earth's history may be more connected to the galaxy than anyone has imagined.",
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 15
+          }
         },
         {
           "id": "era3_fenrir",
           "title": "Fenrir and the Tarlons",
-          "content": "Among Catora's creatures are the Tarlons — wolf-like beings of considerable power and surprising intelligence. A confrontation between Tarlons and the cat-like Fapo creatures gives Chris an opportunity. Using Tarlon commands he has begun to learn, he intervenes and saves the life of one particular Tarlon.\n\nThe saved Tarlon returns. He lingers. He watches Chris with an intelligence that is hard to deny. Over cautious, patient exchanges, a bond forms. Chris names him Fenrir. Their connection will shape the rest of the series."
+          "content": "Among Catora's creatures are the Tarlons — wolf-like beings of considerable power and surprising intelligence. A confrontation between Tarlons and the cat-like Fapo creatures gives Chris an opportunity. Using Tarlon commands he has begun to learn, he intervenes and saves the life of one particular Tarlon.\n\nThe saved Tarlon returns. He lingers. He watches Chris with an intelligence that is hard to deny. Over cautious, patient exchanges, a bond forms. Chris names him Fenrir. Their connection will shape the rest of the series.",
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 21
+          }
         },
         {
           "id": "era3_svixen",
           "title": "The Svixen Arrive",
-          "content": "A Svixen ship drops out of the sky, immediately taking out the crew's orbital satellites. The Light Skipper loses eyes. Emergency protocols activate.\n\nThe crew goes to ground in a cave system, watching the Svixen move across the surface while preparing defenses under suffocating tension. A Svixen dropship appears overhead. Chris makes contact with the Light Skipper and the crew begins a desperate extraction — but the Light Skipper is engaged in orbit. Engines go down. The ship is crippled. Emergency crash landing becomes the only option."
+          "content": "A Svixen ship drops out of the sky, immediately taking out the crew's orbital satellites. The Light Skipper loses eyes. Emergency protocols activate.\n\nThe crew goes to ground in a cave system, watching the Svixen move across the surface while preparing defenses under suffocating tension. A Svixen dropship appears overhead. Chris makes contact with the Light Skipper and the crew begins a desperate extraction — but the Light Skipper is engaged in orbit. Engines go down. The ship is crippled. Emergency crash landing becomes the only option.",
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 20
+          }
         },
         {
           "id": "era3_dovaSku",
           "title": "Retreat, Skrema, and the Dova Sku",
-          "content": "The crew flees through the landscape seeking cover. Davis's group is attacked by Sveri Sku — the Svixen's genetically-altered attack species. Huffman is killed. The crew uses LOLA One to escape, but it crashes.\n\nWhat begins as survival becomes something more. The Skrema — a ritual challenge — unfolds. Chris faces a life-or-death confrontation in the Dova Sku tradition. He wins. Fenrir's intervention is decisive at the critical moment. The Sveri Sku are driven off.\n\nFourteen crew members survive. Fenrir and Liam are with them. Liam's emotional matrix has permanently changed — encompassing a full personality for the first time in his existence."
+          "content": "The crew flees through the landscape seeking cover. Davis's group is attacked by Sveri Sku — the Svixen's genetically-altered attack species. Huffman is killed. The crew uses LOLA One to escape, but it crashes.\n\nWhat begins as survival becomes something more. The Skrema — a ritual challenge — unfolds. Chris faces a life-or-death confrontation in the Dova Sku tradition. He wins. Fenrir's intervention is decisive at the critical moment. The Sveri Sku are driven off.\n\nFourteen crew members survive. Fenrir and Liam are with them. Liam's emotional matrix has permanently changed — encompassing a full personality for the first time in his existence.",
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 26
+          }
         },
         {
           "id": "era3_epilogue",
           "title": "Epilogue: A World Divided",
-          "content": "The survivors take stock. Morgan has a broken leg and lacerations. Carmelo is pulled from rubble. Chris finds Josh, Marie, Lin, Rowley, and Kat in LOLA Two — Kat and Rowley injured, Lin cut and bruised. Dead crew members lie throughout the ship. The weight of loss settles heavily.\n\n14 survivors. Fenrir. Liam. The decisions ahead will determine everything.\n\nKat, Campbell, and Lemmon choose to remain on Catora — to help establish a human colony and preserve what they can of the Sepu's world."
+          "content": "The survivors take stock. Morgan has a broken leg and lacerations. Carmelo is pulled from rubble. Chris finds Josh, Marie, Lin, Rowley, and Kat in LOLA Two — Kat and Rowley injured, Lin cut and bruised. Dead crew members lie throughout the ship. The weight of loss settles heavily.\n\n14 survivors. Fenrir. Liam. The decisions ahead will determine everything.\n\nKat, Campbell, and Lemmon choose to remain on Catora — to help establish a human colony and preserve what they can of the Sepu's world.",
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 28
+          }
         }
       ]
     },
@@ -108,42 +150,74 @@
         {
           "id": "era4_rebuild",
           "title": "Rebuilding on Catora",
-          "content": "The survivors regroup. The grief is real. Wounds — physical and otherwise — are tended. But the mission is not over. If anything, it has become clearer: the Svixen are coming for Earth. The crew needs allies, technology, and momentum.\n\nJosh's engineering talent is put to immediate use. The survivors undergo upgrades and enhancements. A period of preparation and mourning on Catora precedes the next chapter."
+          "content": "The survivors regroup. The grief is real. Wounds — physical and otherwise — are tended. But the mission is not over. If anything, it has become clearer: the Svixen are coming for Earth. The crew needs allies, technology, and momentum.\n\nJosh's engineering talent is put to immediate use. The survivors undergo upgrades and enhancements. A period of preparation and mourning on Catora precedes the next chapter.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 1
+          }
         },
         {
           "id": "era4_trantions",
           "title": "Into Space — The Trantions",
-          "content": "The crew departs Catora and heads into orbit. Chris, Rowley, and Liam lead the charge as the survivors work together to power up and navigate the Transync gates discovered on Catora.\n\nReturning to Catora, Chris, Liam, and Rowley find some of the crew missing. A hologram replay of the abduction reveals the culprits: the Maaket — a feline species with a monarchy — who have taken crew members to their homeworld, Tual."
+          "content": "The crew departs Catora and heads into orbit. Chris, Rowley, and Liam lead the charge as the survivors work together to power up and navigate the Transync gates discovered on Catora.\n\nReturning to Catora, Chris, Liam, and Rowley find some of the crew missing. A hologram replay of the abduction reveals the culprits: the Maaket — a feline species with a monarchy — who have taken crew members to their homeworld, Tual.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 4
+          }
         },
         {
           "id": "era4_tual",
           "title": "Tual — The Maaket Homeworld",
-          "content": "The crew travels to Tual, a technologically advanced world home to the Maaket — stealthy, feline-like warriors with long tails, claws, and a complex monarchic culture.\n\nPrincess Cashy, who gained her throne after her parents' assassination, is wary but ultimately becomes an ally. Josh remains on Tual for a time, working with the Maaket to develop new technologies — including advances to the Drake Scale suits, giving them true cloaking capabilities via Josh's light-bending modification.\n\nA lethal, stoic, and noble Maaket warrior named Ankir chooses to join the crew voluntarily. He wants to fight the Svixen. His commitment is total."
+          "content": "The crew travels to Tual, a technologically advanced world home to the Maaket — stealthy, feline-like warriors with long tails, claws, and a complex monarchic culture.\n\nPrincess Cashy, who gained her throne after her parents' assassination, is wary but ultimately becomes an ally. Josh remains on Tual for a time, working with the Maaket to develop new technologies — including advances to the Drake Scale suits, giving them true cloaking capabilities via Josh's light-bending modification.\n\nA lethal, stoic, and noble Maaket warrior named Ankir chooses to join the crew voluntarily. He wants to fight the Svixen. His commitment is total.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 7
+          }
         },
         {
           "id": "era4_seutor",
           "title": "Seutor — The Tuaca Homeworld",
-          "content": "The crew travels to Seutor, an ancient world of jungle and canyon — home of the Tuaca, an ape-like species of great physical power, honor, and spiritual depth.\n\nPatron Rohga, leader of the Calores region, strikes a deal with Chris: deliver a package to Spaceport City Lesfer in exchange for negotiating power with Guardian Phostop. Chris agrees. Guardian Phostop — elder and leader of Lesfer — becomes a crucial figure once the deal is honored.\n\nTwo Tuaca warriors, Posis and Tivay, join the crew. Tivay wields powerful melee weaponry and is fiercely proud. Posis is stern but deeply loyal. They are mates."
+          "content": "The crew travels to Seutor, an ancient world of jungle and canyon — home of the Tuaca, an ape-like species of great physical power, honor, and spiritual depth.\n\nPatron Rohga, leader of the Calores region, strikes a deal with Chris: deliver a package to Spaceport City Lesfer in exchange for negotiating power with Guardian Phostop. Chris agrees. Guardian Phostop — elder and leader of Lesfer — becomes a crucial figure once the deal is honored.\n\nTwo Tuaca warriors, Posis and Tivay, join the crew. Tivay wields powerful melee weaponry and is fiercely proud. Posis is stern but deeply loyal. They are mates.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 10
+          }
         },
         {
           "id": "era4_skrema",
           "title": "Warlord Riveen and the Skrema of Seutor",
-          "content": "Svixen Warlord Riveen leads a devastating and deliberate assault on Seutor. In the tradition of the Dova Sku, Chris challenges the lead Svixen to a Skrema duel. Riveen accepts.\n\nChris wins. The duel's outcome carries significant political weight — saving Seutor from further immediate assault and cementing the crew's reputation among the Tuaca.\n\nHonoring the Skrema outcome and the terms of their deal, Guardian Phostop gives the crew a ship. The Ascendant — outfitted with Maaket stealth systems, Tuaca shielding, and human combat modifications — becomes their vessel and the temporary physical body for Liam's matrix. The crew now has a home among the stars."
+          "content": "Svixen Warlord Riveen leads a devastating and deliberate assault on Seutor. In the tradition of the Dova Sku, Chris challenges the lead Svixen to a Skrema duel. Riveen accepts.\n\nChris wins. The duel's outcome carries significant political weight — saving Seutor from further immediate assault and cementing the crew's reputation among the Tuaca.\n\nHonoring the Skrema outcome and the terms of their deal, Guardian Phostop gives the crew a ship. The Ascendant — outfitted with Maaket stealth systems, Tuaca shielding, and human combat modifications — becomes their vessel and the temporary physical body for Liam's matrix. The crew now has a home among the stars.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 15
+          }
         },
         {
           "id": "era4_patchave",
           "title": "Patchave — The Cruillum Homeworld",
-          "content": "After a bruising space battle with the Svixen, the Ascendant requires repairs. The crew diverts to Patchave, the desert homeworld of the Cruillum — lizard-like humanoids with a remarkable gift for manipulating technology through harmonic resonance, a practice they call singing to the glass.\n\nThe Cruillum assist in repairing the damaged Ascendant. The crew uses the local Transync gate to travel back to Seutor for needed parts, then returns. The galaxy is becoming navigable."
+          "content": "After a bruising space battle with the Svixen, the Ascendant requires repairs. The crew diverts to Patchave, the desert homeworld of the Cruillum — lizard-like humanoids with a remarkable gift for manipulating technology through harmonic resonance, a practice they call singing to the glass.\n\nThe Cruillum assist in repairing the damaged Ascendant. The crew uses the local Transync gate to travel back to Seutor for needed parts, then returns. The galaxy is becoming navigable.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 27
+          }
         },
         {
           "id": "era4_miller",
           "title": "The Chase and Miller's Death",
-          "content": "Across the back half of the book, an unnamed Svixen Commander pursues the Ascendant across the sector. Cold, calculating, and ruthless, this Commander relies on psychological warfare and superior firepower. The chase is a running battle that tests the crew at every turn.\n\nLate in the story, Petty Officer Brandon Miller is killed. He has been with Chris since the very beginning. His death leaves an emotional scar on the entire crew."
+          "content": "Across the back half of the book, an unnamed Svixen Commander pursues the Ascendant across the sector. Cold, calculating, and ruthless, this Commander relies on psychological warfare and superior firepower. The chase is a running battle that tests the crew at every turn.\n\nLate in the story, Petty Officer Brandon Miller is killed. He has been with Chris since the very beginning. His death leaves an emotional scar on the entire crew.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 23
+          }
         },
         {
           "id": "era4_earth",
           "title": "Racing for Earth — Arriving Too Late",
-          "content": "The Ascendant pushes toward Earth with everything it has. The crew knows what is coming — warned by Liam's knowledge, by the pattern of Svixen expansion, by everything they have witnessed. They race.\n\nThey are too late. Earth is already under assault. Svixen orbital strikes have leveled urban centers. Sveri Sku have been deployed into rural regions. Communications have collapsed. No unified global resistance remains. The planet is fractured and burning.\n\nThe Ascendant holds position beyond Earth orbit, hidden, watching the devastation. The crew that set out from Earth in 2056 now looks down on a world they can barely recognize."
+          "content": "The Ascendant pushes toward Earth with everything it has. The crew knows what is coming — warned by Liam's knowledge, by the pattern of Svixen expansion, by everything they have witnessed. They race.\n\nThey are too late. Earth is already under assault. Svixen orbital strikes have leveled urban centers. Sveri Sku have been deployed into rural regions. Communications have collapsed. No unified global resistance remains. The planet is fractured and burning.\n\nThe Ascendant holds position beyond Earth orbit, hidden, watching the devastation. The crew that set out from Earth in 2056 now looks down on a world they can barely recognize.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 32
+          }
         }
       ]
     },
@@ -156,37 +230,65 @@
         {
           "id": "era5_signal",
           "title": "The Signal in the Dark",
-          "content": "In the silence of hiding beyond Earth orbit, something extraordinary happens. An encrypted harmonic signal arrives aboard the Ascendant — ancient, complex, and keyed specifically to Liam's unique architecture. No one else could have received it. No one else was meant to.\n\nThe message: \"Not all stars have gone out.\"\n\nThe signal is Aku'Ra. An observer named Preator Lescian Kamantu has violated the neutrality doctrine of the Aku'Ra High Circle to reach out. The ancient watchers have broken their silence — for Liam. Chris decides: they respond. Course is set toward deep space."
+          "content": "In the silence of hiding beyond Earth orbit, something extraordinary happens. An encrypted harmonic signal arrives aboard the Ascendant — ancient, complex, and keyed specifically to Liam's unique architecture. No one else could have received it. No one else was meant to.\n\nThe message: \"Not all stars have gone out.\"\n\nThe signal is Aku'Ra. An observer named Preator Lescian Kamantu has violated the neutrality doctrine of the Aku'Ra High Circle to reach out. The ancient watchers have broken their silence — for Liam. Chris decides: they respond. Course is set toward deep space.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 32
+          }
         },
         {
           "id": "era5_akura",
           "title": "First Contact with the Aku'Ra",
-          "content": "The Ascendant meets the ancient Aku'Ra vessel. A sleek dropship approaches and Preator Lescian Kamantu boards — four-armed, reptilian, ancient beyond measure.\n\nKamantu's revelation: two Transync Stations still exist on Earth — Göbeklitepe, Turkey, and Tell Qaramel, Syria. Ancient stations, buried and forgotten for millennia, but still functional. Reactivating one could reach their allies. The Aku'Ra will not fight directly — but they will help open the door.\n\nThe Aku'Ra team includes Kalveneth (who opposes intervention on principle), Verel (who studies Liam with wonder), and Doska-Thu, the Transync technician who begins preparing the relay proxy."
+          "content": "The Ascendant meets the ancient Aku'Ra vessel. A sleek dropship approaches and Preator Lescian Kamantu boards — four-armed, reptilian, ancient beyond measure.\n\nKamantu's revelation: two Transync Stations still exist on Earth — Göbeklitepe, Turkey, and Tell Qaramel, Syria. Ancient stations, buried and forgotten for millennia, but still functional. Reactivating one could reach their allies. The Aku'Ra will not fight directly — but they will help open the door.\n\nThe Aku'Ra team includes Kalveneth (who opposes intervention on principle), Verel (who studies Liam with wonder), and Doska-Thu, the Transync technician who begins preparing the relay proxy.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 32
+          }
         },
         {
           "id": "era5_liam",
           "title": "Liam's Transfer",
-          "content": "In the engineering bay of the Ascendant, the most significant moment in Liam's existence occurs. His matrix — the ancient AI born on Catora thousands of years ago, accidentally transferred into a human mind, and now grown into something neither human nor machine — is extracted from Christopher Thompkins.\n\nLiam now inhabits his own artificial body: four-armed, Drake Scale reinforced, built for combat and designed to endure. He experiences physical sensation for the first time. He processes identity independence — no longer a passenger, no longer an extension. He is himself.\n\nFor the first time in years, Chris's mind is entirely his own. Two separate beings now move forward — still unified by loyalty, changed forever."
+          "content": "In the engineering bay of the Ascendant, the most significant moment in Liam's existence occurs. His matrix — the ancient AI born on Catora thousands of years ago, accidentally transferred into a human mind, and now grown into something neither human nor machine — is extracted from Christopher Thompkins.\n\nLiam now inhabits his own artificial body: four-armed, Drake Scale reinforced, built for combat and designed to endure. He experiences physical sensation for the first time. He processes identity independence — no longer a passenger, no longer an extension. He is himself.\n\nFor the first time in years, Chris's mind is entirely his own. Two separate beings now move forward — still unified by loyalty, changed forever.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 32
+          }
         },
         {
           "id": "era5_drop",
           "title": "The Drop to Earth",
-          "content": "Drop teams are formed. Pod 1 carries Chris, Morgan, Davis, Ankir, and Fenrir. Pod 2 carries Josh, Liam, Linkenbach, and Tivay.\n\nTurbulent atmospheric entry. Svixen satellites briefly track the pods. Hard landings. Both survive. Below them: ash-filled skies, decimated forests, and a world that barely resembles home.\n\nNear Göbeklitepe, Turkey, the team encounters Levi Larson — a massive, long-bearded Norwegian archaeologist who has been surviving with a small group of international researchers. He describes the fall: orbital strikes on urban centers, Sveri Sku deployment, communications collapse, no centralized command."
+          "content": "Drop teams are formed. Pod 1 carries Chris, Morgan, Davis, Ankir, and Fenrir. Pod 2 carries Josh, Liam, Linkenbach, and Tivay.\n\nTurbulent atmospheric entry. Svixen satellites briefly track the pods. Hard landings. Both survive. Below them: ash-filled skies, decimated forests, and a world that barely resembles home.\n\nNear Göbeklitepe, Turkey, the team encounters Levi Larson — a massive, long-bearded Norwegian archaeologist who has been surviving with a small group of international researchers. He describes the fall: orbital strikes on urban centers, Sveri Sku deployment, communications collapse, no centralized command.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 32
+          }
         },
         {
           "id": "era5_gobeklitepe",
           "title": "Göbeklitepe Transync Station Reactivated",
-          "content": "The ancient site of Göbeklitepe — long considered one of Earth's oldest unexplained structures — is exactly what it appears to be: an Aku'Ra Transync Station, buried and forgotten for millennia.\n\nThe slab is moved. The team descends. The station is dormant but intact, powered at minimum by trace solar energy. Doska-Thu's relay proxy is installed. The station powers up. The Transync beacon fires.\n\nAnkir steps through to Tual. Tivay steps through to Seutor. They are gone — heading back to rally their people. The Svixen detect the pulse. Forces begin converging on the site."
+          "content": "The ancient site of Göbeklitepe — long considered one of Earth's oldest unexplained structures — is exactly what it appears to be: an Aku'Ra Transync Station, buried and forgotten for millennia.\n\nThe slab is moved. The team descends. The station is dormant but intact, powered at minimum by trace solar energy. Doska-Thu's relay proxy is installed. The station powers up. The Transync beacon fires.\n\nAnkir steps through to Tual. Tivay steps through to Seutor. They are gone — heading back to rally their people. The Svixen detect the pulse. Forces begin converging on the site.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 32
+          }
         },
         {
           "id": "era5_defense",
           "title": "First Defense — Göbeklitepe Under Attack",
-          "content": "The first Sveri Sku arrive to probe the site's defenses — fast, biological, relentless. The surface defense team — Chris, Liam, Davis, Linkenbach, Levi, and Fenrir — holds the line. Liam fights in a physical body for the first time. He proves himself.\n\nA larger second wave arrives, including a siege beast. It is also repelled — but it is clear: heavier Svixen forces are coming.\n\nThe station is active. Reinforcements are mobilizing on Tual and Seutor. Earth's scattered resistance is beginning to look toward Göbeklitepe as a beacon. The Svixen know someone is fighting back."
+          "content": "The first Sveri Sku arrive to probe the site's defenses — fast, biological, relentless. The surface defense team — Chris, Liam, Davis, Linkenbach, Levi, and Fenrir — holds the line. Liam fights in a physical body for the first time. He proves himself.\n\nA larger second wave arrives, including a siege beast. It is also repelled — but it is clear: heavier Svixen forces are coming.\n\nThe station is active. Reinforcements are mobilizing on Tual and Seutor. Earth's scattered resistance is beginning to look toward Göbeklitepe as a beacon. The Svixen know someone is fighting back.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 32
+          }
         },
         {
           "id": "era5_end",
           "title": "End of Known Timeline",
-          "content": "The Ascendant is in orbit. The Göbeklitepe Transync Station is active. Liam stands on the soil of Earth in his own body for the first time. Ankir and Tivay have jumped home to gather forces. Chris Thompkins — the Dova Sku — prepares for the largest fight of his life.\n\nThe Svixen, commanded by Warlord Chapaka Semula Breven, are tightening their grip on the planet below. The allied species of the galaxy have been called. The Aku'Ra are beginning to fracture under the weight of Kamantu's defiance. Earth's surviving populations are scattered, fragmented, and waiting for something to believe in.\n\nWhat comes next is not yet written.\n\n⏳ Awaiting more information — Book 3 in progress."
+          "content": "The Ascendant is in orbit. The Göbeklitepe Transync Station is active. Liam stands on the soil of Earth in his own body for the first time. Ankir and Tivay have jumped home to gather forces. Chris Thompkins — the Dova Sku — prepares for the largest fight of his life.\n\nThe Svixen, commanded by Warlord Chapaka Semula Breven, are tightening their grip on the planet below. The allied species of the galaxy have been called. The Aku'Ra are beginning to fracture under the weight of Kamantu's defiance. Earth's surviving populations are scattered, fragmented, and waiting for something to believe in.\n\nWhat comes next is not yet written.\n\n⏳ Awaiting more information — Book 3 in progress.",
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 32
+          }
         }
       ]
     }
