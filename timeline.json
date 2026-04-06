@@ -10,25 +10,25 @@
           "id": "era1_akura",
           "title": "The Rise of the Aku'Ra",
           "content": "Long before recorded human history, the Aku'Ra — a four-armed reptilian species of extraordinary intelligence and longevity — rose to become the dominant civilization in the known galaxy. Where other species expanded through conquest, the Aku'Ra expanded through knowledge, engineering, and observation.\n\nTheir greatest achievement was the Transync Network: a galaxy-spanning web of gate stations that allowed near-instantaneous transit between distant worlds. Every major civilization that discovered space travel eventually came to depend on this network. The Aku'Ra maintained it with meticulous care, positioning themselves as neutral stewards of galactic infrastructure.",
-          "unlockAfter": null
+          "unlockAfter": { "book": "transync", "chapter": 16 }
         },
         {
           "id": "era1_millennium",
           "title": "The Millennium War",
           "content": "At some point in the deep past, the galaxy erupted into the conflict known as the Millennium War — a catastrophic, multi-species conflict that reshaped civilizations and left scars the Aku'Ra have never forgotten. The exact causes are lost to time, but the destruction was so vast that it fundamentally changed the Aku'Ra worldview.\n\nIn the aftermath, the Aku'Ra adopted an ironclad doctrine of non-intervention. They would maintain the Transync Network, observe, and record — but never again place themselves at the center of galactic conflict. This principle, known as the Neutrality, became law within the Aku'Ra High Circle and was enforced with near-religious conviction across subsequent generations.\n\n\"We became watchers so that we would never again become the cause.\" — Aku'Ra philosophy, passed down through the High Circle.",
-          "unlockAfter": null
+          "unlockAfter": { "book": "transync", "chapter": 16 }
         },
         {
           "id": "era1_sepu",
           "title": "The Sepu and Catora / Randt",
           "content": "On the forested world known as Catora — or Randt in the Sepu tongue — an amtillian species called the Sepu built a civilization over thousands of years. They were one of many species connected to the Transync Network, and Catora became a quiet but respected waypoint in the interstellar web.\n\nTo serve this waypoint, the Aku'Ra installed an advanced AI system on Randt designated LM2479623. This AI — what will eventually become known as Liam — was tasked with managing Transync arrivals, providing travelers with information, and acting as an interface between visiting species. He performed this role for approximately 8,000 years with precision, but with no sense of self.\n\n\"I served in that capacity on Randt for another eight thousand years... existing as nothing more than a system.\" — Liam, Ascendant",
-          "unlockAfter": null
+          "unlockAfter": { "book": "transync", "chapter": 16 }
         },
         {
           "id": "era1_invasion",
           "title": "The Svixen Invasion of Catora",
           "content": "The Svixen — a tall, militaristic, kangaroo-like species with saber-like tusks and a deep fear of unified multi-species coalitions — eventually turned their expansionist gaze toward Catora. Their invasion was decisive and overwhelming. The Sepu civilization, never a warrior culture, could not withstand the assault.\n\nGlobal infrastructure collapsed. Power generation failed across the planet. LM2479623, cut off from all external connections, entered standby mode — kept alive only by residual solar energy warming his processors. He remained in isolated stasis for over 1,500 Catoran years.\n\nThe Sepu were gone. Catora became a world of ruins, strange creatures, and buried secrets — waiting to be rediscovered.",
-          "unlockAfter": null
+          "unlockAfter": { "book": "transync", "chapter": 16 }
         }
       ]
     },
@@ -48,7 +48,7 @@
           "id": "era2_lightskipper",
           "title": "The Light Skipper Mission",
           "content": "In the wake of growing evidence that something is approaching — signals, anomalies, whispers from deep-space probes — a mission is authorized. The Light Skipper, a cryo-capable deep-space vessel over 400 meters long, is assembled with a crew of soldiers, scientists, and engineers.\n\nLieutenant Chris Thompkins is assigned as mission security lead. Josh Thompkins joins as engineering specialist. Supporting crew includes Captain Terzi, Dr. Kat Andersen (xenobiologist), Professor Kenzo Lin (climatologist), Chloe Morgan (medical), Campbell, Davis, Carmelo, Linkenbach, Robertson, Miller, Marie, and many others.\n\nChris and Josh enter cryo-sleep alongside the crew for the long journey. The Light Skipper departs Earth — and the world they know begins to recede behind them.",
-          "unlockAfter": null
+          "unlockAfter": { "book": "transync", "chapter": 3 }
         }
       ]
     },
