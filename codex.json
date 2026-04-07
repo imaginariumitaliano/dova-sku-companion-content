@@ -325,6 +325,16 @@
           "unlockAfter": { "book": "transync", "chapter": 17 },
           "image": null,
           "bio": "Aku'Ra artificial intelligence now fully bonded with Chris. Created a custom avatar via the shoulder holoprojector — a small 3D hologram blending human and Aku'Ra features that represents himself publicly for the first time. His emotional evolution accelerates: fear, pride, joy, and growing self-awareness. The boundary between his decisions and Chris's instincts increasingly blurs."
+        },
+        {
+          "unlockAfter": { "book": "transync", "chapter": 18 },
+          "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Liam_avatar.png",
+          "bio": "Aku'Ra artificial intelligence now fully bonded with Chris. Created a custom avatar via the shoulder holoprojector — a small 3D hologram blending human and Aku'Ra features that represents himself publicly for the first time. His emotional evolution accelerates: fear, pride, joy, and growing self-awareness. The boundary between his decisions and Chris's instincts increasingly blurs."
+        },
+        {
+          "unlockAfter": { "book": "ascendant", "chapter": 31 },
+          "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Liam_body.png",
+          "bio": "Aku'Ra artificial intelligence now inhabiting a full cybernetic body built by Josh. After spending the entirety of the mission living within Chris's mind, Liam steps into physical existence for the first time. The boundary between his identity and Chris's is no longer a question of biology — it is a question of choice."
         }
       ],
       "storyEvents": [
