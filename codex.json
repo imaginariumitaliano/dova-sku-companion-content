@@ -6,20 +6,25 @@
       "nicknames": ["Dova Sku", "The Hell Machine"],
       "role": "Mission Commander",
       "affiliation": "Team Falcon / Galactic Navy",
-      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Chris.png",
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Chris1.png",
       "bio": "Main protagonist and leader of Team Falcon. Twin to Josh — a scar on his upper right lip from a childhood zipline accident is the only distinguishing facial feature between them. A decorated soldier who graduated high school in 2046. Born in south Texas, raised in eastern Idaho. Father Trey served twenty years in the Navy before dying in a car accident. Mother Julie was a molecular engineer at BioSteel Cybernetic Industries. Determined, strategic, and emotionally grounded by his relationships with the crew.",
       "books": ["Transync", "Ascendant"],
       "unlockAfter": { "book": "transync", "chapter": 0 },
       "versions": [
         {
-          "unlockAfter": { "book": "transync", "chapter": 1 },
-          "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Chris.png",
+          "unlockAfter": { "book": "transync", "chapter": 0 },
+          "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Chris1.png",
           "bio": "Main protagonist and leader of Team Falcon. Twin to Josh — a scar on his upper right lip from a childhood zipline accident is the only distinguishing facial feature between them. A decorated soldier who graduated high school in 2046. Born in south Texas, raised in eastern Idaho. Father Trey served twenty years in the Navy before dying in a car accident. Mother Julie was a molecular engineer at BioSteel Cybernetic Industries. Known for exceptional close-quarters combat skills and designated BMF by his CO Lieutenant Greene after every successful mission. Determined, strategic, and emotionally grounded by his relationships with the crew."
         },
         {
-          "unlockAfter": { "book": "transync", "chapter": 13 },
+          "unlockAfter": { "book": "transync", "chapter": 5 },
+          "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Chris2.png",
+          "bio": "Main protagonist and leader of Team Falcon. Twin to Josh — a scar on his upper right lip from a childhood zipline accident is the only distinguishing facial feature between them. A decorated soldier who graduated high school in 2046. Born in south Texas, raised in eastern Idaho. Father Trey served twenty years in the Navy before dying in a car accident. Mother Julie was a molecular engineer at BioSteel Cybernetic Industries. Known for exceptional close-quarters combat skills and designated BMF by his CO Lieutenant Greene after every successful mission. Determined, strategic, and emotionally grounded by his relationships with the crew."
+        },
+        {
+          "unlockAfter": { "book": "transync", "chapter": 14 },
           "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/Chris.png",
-          "bio": "Main protagonist and leader of Team Falcon. After being mauled by a Garello and left near death, Chris lost both legs below the knee and his right arm. Josh replaced them with cybernetic parts integrated directly to nerve and bone via nanites — a design that in one respect surpasses even Aku'Ra cybernetics. Bonded with the Aku'Ra AI Liam, who lives within his mind. Now part man, part machine — the Svixen call him Dova Sku: Hell Machine."
+          "bio": "Main protagonist and leader of Team Falcon. After being mauled by a Garello and left near death, Chris lost both legs above the knee and his right arm at the shoulder. Josh replaced them with cybernetic parts integrated directly to nerve and bone via nanites — a design that in one respect surpasses even Aku'Ra cybernetics. Bonded with the Aku'Ra AI Liam, who lives within his mind. Now part man, part machine — the Svixen call him Dova Sku: Hell Machine."
         }
       ],
       "storyEvents": [
