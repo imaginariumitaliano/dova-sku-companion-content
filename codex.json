@@ -1123,7 +1123,7 @@
       "nicknames": [],
       "role": "Bonded Companion",
       "affiliation": "Team Falcon",
-      "image": https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/fenrir.png,
+      "image": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/characters/fenrir.png",
       "bio": "A male tarlon and Chris's bonded companion. Distinguished by a white patch of fur on his left shoulder — a scar from being pinned beneath a fallen tree during a fapu confrontation. Bear-sized, wolf-like, fiercely loyal.",
       "books": ["Transync", "Ascendant"],
       "unlockAfter": { "book": "transync", "chapter": 21 },
