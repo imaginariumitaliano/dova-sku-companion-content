@@ -312,7 +312,7 @@
       "role": "Artificial Intelligence",
       "affiliation": "Aku'Ra / Team Falcon",
       "image": null,
-      "bio": "Aku'Ra artificial intelligence designated LM2479623. Created to operate the Transync Station on Randt (Catora), serving as a greeter and information source for arriving travelers. Operated for 8,000 years before the Svixen invasion put him in standby mode for 1,500+ Catoran years. He speaks through Chris's suit speakers and projects a custom avatar.",
+      "bio": "Aku'Ra artificial intelligence designated LM2479623. Created to operate the Transync Station on Randt (Catora), serving as a greeter and information source for arriving travelers. Operated for 8,000 years before the Svixen invasion put him in standby mode for 1,500+ Catoran years. He speaks to Chris in his mind.",
       "books": ["Transync", "Ascendant"],
       "unlockAfter": { "book": "transync", "chapter": 13 },
       "versions": [
