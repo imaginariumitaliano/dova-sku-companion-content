@@ -605,8 +605,32 @@
             }
           ]
         },
-        { "number": 9, "title": "Decisions to Make", "images": [] },
-        { "number": 10, "title": "Ambushed", "images": [] },
+        { "number": 9, "title": "Decisions to Make", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/old_recliner.png",
+              "title": "Chapter 9 - Decisions to Make",
+              "description": "Liam shows off his emerging personality quirks."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/seutor_intro.png",
+              "title": "Chapter 9 - Decisions to Make",
+              "description": "The team review their options for Transync connections."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/seutors_inhabitants.png",
+              "title": "Chapter 9 - Decisions to Make",
+              "description": "Liam reveals the species that await them on the planet Seutor."
+            }
+          ]
+        },
+        { "number": 10, "title": "Ambushed", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/fenrir_stop.png",
+              "title": "Chapter 10 - Ambushed",
+              "description": "Miller tries to catch Fenrir as he barrels toward Chris."
+            }
+          ]
+        },
         { "number": 11, "title": "Calores Region Safehouse", "images": [] },
         { "number": 12, "title": "Seutor's Flora… and Fauna", "images": [] },
         { "number": 13, "title": "Lesfer Spaceport", "images": [] },
