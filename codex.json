@@ -1186,7 +1186,7 @@
       "nicknames": [],
       "role": "Commanding Officer, Light Skipper",
       "affiliation": "Galactic Navy",
-      "image": null,
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Captain_terzi.png",
       "bio": "The Light Skipper's commanding officer. Greek national. Rose to prominence during the New Gulf War of 2033 as the youngest Hellenic naval captain, taking command when his captain was killed in action and defeating two hostile ships while completing the original mission — earning the Cross of Valour. Specifically sought out by the Galactic Navy for this mission. Older, paternal, decisive. Known to occasionally smoke a cigar. Deeply respected by Chris.",
       "books": ["Transync"],
       "unlockAfter": { "book": "transync", "chapter": 4 },
