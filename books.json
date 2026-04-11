@@ -483,6 +483,11 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch00/created.png",
               "title": "Prologue",
               "description": "I was not born. I was created."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch00/returning.png",
+              "title": "Prologue",
+              "description": "Chris, Liam, and Fenrir rush to return to the cave with medical supplies."
             }
           ]
         },
@@ -628,6 +633,21 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/fenrir_stop.png",
               "title": "Chapter 10 - Ambushed",
               "description": "Miller tries to catch Fenrir as he barrels toward Chris."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/seutor_jungle_gate.png",
+              "title": "Chapter 10 - Ambushed",
+              "description": "Chris looks back in surprise at the gate he expected to be inside a Transync Station."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/seutor_ambush.png",
+              "title": "Chapter 10 - Ambushed",
+              "description": "The team is ambushed in the Seutor jungle by a group of Natuul."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/tivay_communicator.png",
+              "title": "Chapter 10 - Ambushed",
+              "description": "Chris sneaks up on the first Tuaca hiding out in the dilapidated building."
             }
           ]
         },
