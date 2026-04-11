@@ -661,10 +661,27 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/seutor_safehouse.png",
               "title": "Chapter 11 - Calores Region Safehouse",
               "description": "The steampunk-looking safehouse is not what the humans expected."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/meeting_patron_rohga.png",
+              "title": "Chapter 11 - Calores Region Safehouse",
+              "description": "The team is taking a quick break as Patron Rohga enters the small waiting room."
             }
           ]
         },
-        { "number": 12, "title": "Seutor's Flora… and Fauna", "images": [] },
+        { "number": 12, "title": "Seutor's Flora… and Fauna", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/seutor_glows.png",
+              "title": "Chapter 12 - Seutor's Flora... and Fauna",
+              "description": "The jungle flora comes to life when the sun goes down."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/jungle_crater.png",
+              "title": "Chapter 12 - Seutor's Flora... and Fauna",
+              "description": "The group comes across signs of the Svixen attacks in the jungle on their way to Lesfer Spaceport."
+            }
+          ]
+        },
         { "number": 13, "title": "Lesfer Spaceport", "images": [] },
         { "number": 14, "title": "Full Control", "images": [] },
         { "number": 15, "title": "New Toy", "images": [] },
