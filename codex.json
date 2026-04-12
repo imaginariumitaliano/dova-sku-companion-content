@@ -1229,7 +1229,7 @@
       "nicknames": ["Razor"],
       "role": "Pilot, LOLA 1",
       "affiliation": "Team Falcon",
-      "image": null,
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Nic_anderson.png",
       "bio": "LOLA One's pilot. Exceptionally skilled — known for record flight times, unconventional maneuvers, and sleeping in the cockpit with his helmet on backward. His record-setting flight times are a point of pride.",
       "books": ["Transync", "Ascendant"],
       "unlockAfter": { "book": "transync", "chapter": 4 },
@@ -1255,6 +1255,18 @@
           "event": "Pilots LOLA One (now carrying the remaining survivors from the ruins site) back toward the old cave hideout when intercepted by a Svixen dropship. The dropship fires plasma bolts — clips the wing. Razor loses partial control but keeps flying. Liam takes over briefly to dodge one blast and returns control. LOLA crashes 200 meters from the cave mouth. 'I wouldn't exactly call that a landing' — the exact same words as before."
         }
       ]
+    },
+    {
+      "id": "sam_atkins",
+      "name": "Samuel Atkins",
+      "nicknames": ["Sam"],
+      "role": "Engineering Technician",
+      "affiliation": "Light Skipper",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Sam_atkins.png",
+      "bio": "Samuel \"Sam\" Atkins is an Engineering Technician aboard the Light Skipper, responsible for the ship's orbital satellite operations above Catora.",
+      "books": ["Transync"],
+      "unlockAfter": { "book": "transync", "chapter": 5 },
+      "storyEvents": []
     },
     {
       "id": "semula_gatuum",
