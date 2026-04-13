@@ -2442,6 +2442,84 @@
           "event": "Meets Chris's supply run team at Lesfer. Provides two crates of alloy rods (not three — the rest were used for structural reinforcement) and five pressure valves instead of the requested three: 'Inevitably, one will fail at a distance you cannot walk.'"
         }
       ]
+    },
+    {
+      "id": "ithri",
+      "name": "Ithri",
+      "nicknames": [],
+      "role": "Glass-Singer",
+      "affiliation": "Cruillum — Patchave",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Ithri.png",
+      "bio": "Ithri is a Cruillum glass-singer — a specialist artisan of Patchave who repairs and re-tunes technology through harmonic resonance, an ancient practice the Cruillum call singing to the glass.",
+      "books": [
+        "Ascendant"
+      ],
+      "unlockAfter": {
+        "book": "ascendant",
+        "chapter": 27
+      },
+      "storyEvents": [
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 27
+          },
+          "chapterTitle": "Heatline",
+          "event": "Identified by Kess as the one capable of hearing the Ascendant's damaged systems and teaching them to hold a new tone, Ithri operates not through conventional engineering but through sound and patience, using their knife-flute instruments and beds of blue sand to diagnose and calm harmonic instability. Where others saw the Ascendant's shield lattice as broken, Ithri identified it as \"constrained\" and \"afraid\" — and set about teaching it not to fear its own resonance again. Over five days on Patchave, Ithri's work restores the Ascendant to full flight readiness. Before departing, they leave the crew white-hands resonator plates — crystal discs that carry the memory of Patchave's songs — so the ship can hold its tune across the stars."
+        }
+      ]
+    },
+    {
+      "id": "kess",
+      "name": "Kess",
+      "nicknames": [],
+      "role": "Cruillum Desert Magistrate",
+      "affiliation": "Cruillum — Patchave",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Kess.png",
+      "bio": "Kess is neither a healer nor a warrior but something closer to a desert magistrate — the one who decides whether strangers drink or burn. Their philosophy is blunt and consistent: hospitality is a weapon, water is currency, neighbors are a problem, and strangers who keep their heat low are welcome to pass through.",
+      "books": [
+        "Ascendant"
+      ],
+      "unlockAfter": {
+        "book": "ascendant",
+        "chapter": 27
+      },
+      "storyEvents": [
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 27
+          },
+          "chapterTitle": "Heatline",
+          "event": "Kess of the Heatline is the Cruillum who makes first contact with the Ascendant crew, speaking from the ground before the ship even lands and setting the terms of engagement with calm, dry authority. Kess organizes Ithri's glass-singing work, coordinates the gatekeepers' arrival, and personally walks the desert boundary with the crew, speaking in compressed, layered statements that reveal more about Cruillum culture than any formal briefing could. Their final words at the Ascendant's departure are both law and blessing: \"Keep your heat low.\""
+        }
+      ]
+    },
+    {
+      "id": "praetor_kamantu",
+      "name": "Praetor Lescian Kamantu",
+      "nicknames": [],
+      "role": "Aku'Ra Praetor",
+      "affiliation": "Aku'Ra Legion",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Lescian_kamantu.png",
+      "bio": "Praetor Lescian Kamantu is an Aku'Ra observer aboard the vessel The Watchful Eye, en route to the Sol system at the close of Ascendant. He is the sole conscious occupant of his ship, his crew held in sustained hibernation until final approach. His rank — Praetor, the Aku'Ra Legion's highest field commander — implies a figure of enormous experience and authority, yet his mission as given is the most restrained possible: observation only. Not engagement. Not uplift. Not warning.",
+      "books": [
+        "Ascendant"
+      ],
+      "unlockAfter": {
+        "book": "ascendant",
+        "chapter": 31
+      },
+      "storyEvents": [
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 31
+          },
+          "chapterTitle": "Epilogue",
+          "event": "Kamantu is aware of the Svixen fleet already besieging Earth. He has studied Chris Thompkins through sensor reconstructions, signal intercepts, and behavioral analysis, concluding that Chris is not unique in temperament — but that the bond between Chris and Liam is something that does not fit conventional classification, and that this anomaly becoming precedent is dangerous in ways the Aku'Ra High Circle has not yet fully reckoned with. He notes the internal disagreement among his people: some argue for silence, some for intervention, and he acknowledges both positions can be wrong. His task is to observe the outcome. Whether humanity notices his arrival or does not — either will be a data point. His final recorded thought: \"Some species do not survive intervention. Others do not survive neglect. The tragedy is that both outcomes are often chosen with the same intention. Either way, I will observe the result.\""
+        }
+      ]
     }
   ],
   "species": [
