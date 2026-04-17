@@ -692,7 +692,24 @@
             }
           ]
         },
-        { "number": 13, "title": "Lesfer Spaceport", "images": [] },
+        { "number": 13, "title": "Lesfer Spaceport", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/canyon_rim.png",
+              "title": "Chapter 13 - Lesfer Spaceport",
+              "description": "The jungle ahead opens up to reveal a massive canyon."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/Lesfer_spaceport.png",
+              "title": "Chapter 13 - Lesfer Spaceport",
+              "description": "Guardian Phostop and his guard greet the group of travelers just inside the city gates."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/a_negotiations.png",
+              "title": "Chapter 13 - Lesfer Spaceport",
+              "description": "Guardian Phostop discusses the recent attack, and the state of the damaged spaceport."
+            }
+          ]
+        },
         { "number": 14, "title": "Full Control", "images": [] },
         { "number": 15, "title": "New Toy", "images": [] },
         { "number": 16, "title": "Politics", "images": [] },
