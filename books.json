@@ -710,7 +710,24 @@
             }
           ]
         },
-        { "number": 14, "title": "Full Control", "images": [] },
+        { "number": 14, "title": "Full Control", "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/escape.png",
+              "title": "Chapter 14 - Full Control",
+              "description": "Liam uses Chris as a battering ram to punch through a nearby wall."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/after_impact.png",
+              "title": "Chapter 14 - Full Control",
+              "description": "The group assesses the situation once Liam relinquishes control."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/city_remains.png",
+              "title": "Chapter 14 - Full Control",
+              "description": "The aftermath of the missile strike is as devestating as the attack."
+            }
+          ]
+        },
         { "number": 15, "title": "New Toy", "images": [] },
         { "number": 16, "title": "Politics", "images": [] },
         { "number": 17, "title": "Round Trip", "images": [] },
