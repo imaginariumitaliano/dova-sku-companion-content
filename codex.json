@@ -2636,7 +2636,7 @@
       "id": "earth",
       "name": "Earth",
       "system": "Sol",
-      "image": null,
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/worlds/earth.png",
       "description": "The homeworld of humanity and a symbol of origin and hope. Unknown to humankind, Earth was visited by the Aku'Ra around 40,000 BCE, who genetically modified early human ancestors to produce Homo sapiens, shared technology, established Transync Stations for global travel, and taught construction using antigravity and nanotechnology. Humans lived average lifespans of 350 years and spoke one unified language during this period. Around 12,000 BCE, orbital surveillance satellites went dark. Liam's theory: the Svixen invaded, triggered the Younger Dryas catastrophe (ice-cap melting via nuclear weapons or redirected asteroid, causing global flooding), then collected survivors, genetically modified them (a second, smaller genome alteration dated to ~5,000 BCE), rewrote religions to erase Aku'Ra memory, and used humans as slave labor or food. Pyramids, obelisks, flood myths, sky-god religions, the Tower of Babel story, and the Black Knight satellite are all remnants of this history. The Svixen's declared intent to 'cull' Earth drives the crew's urgency to return home.",
       "unlockAfter": null
     },
@@ -2644,7 +2644,7 @@
       "id": "catora",
       "name": "Catora / Randt",
       "system": "Galus System",
-      "image": null,
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/worlds/catora.png",
       "description": "The first discovered habitable planet outside the Sol system, located 60 light-years away in the Galus system. Announced in 2053; the crew arrived in 2055. Known to its native Sepu inhabitants as Randt, officially designated Gallus D — the fourth planet from a main-sequence star roughly two-thirds the size of Sol. Because Catora orbits much closer to its sun, Galus appears nearly twice the size of Earth's sun in the sky. Gravity is 0.94 Earth-standard. The year is 389 days; each day lasts approximately 28 hours. A forest-covered world with orange grass, dark-green foliage, fern-like undergrowth, and trees reaching 35m canopies. Has four continental landmasses, small seas, and inland lakes — no large oceans. Daily rain and frequent morning storms are common. No birds or flying species of any kind exist here. Rich in amtillian wildlife. Key surface features include the northern mountain range, an inland lake 150km southwest of the FOB, a 27km-long canyon/trench housing cave systems for Research Bases Alpha and Bravo, Sepu ruins in multiple directions, and a mining cave 1,920km northeast used as a post-Svixen attack hideout. Some crew members choose to remain here to establish a human colony and help preserve the Sepu species.",
       "unlockAfter": {
         "book": "transync",
@@ -2699,7 +2699,7 @@
       "id": "tual",
       "name": "Tual",
       "system": "Unknown",
-      "image": null,
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/worlds/tual.png",
       "description": "The homeworld of the Maaket — stealthy, feline-like warriors with advanced technology and a fierce warrior culture. Connected to the Transync Network with multiple stations. Architecture blends medieval European forms with advanced technology: polished stone arches etched with glowing glyphs, energy barrier security systems, hovering utility carts, and silent atmospheric craft. The royal palace contains a vaulted throne room, stained glass, feline-motif banners, and holding cells with active false-image barriers. Josh remains on Tual for a period after the crew departs, working alongside Maaket engineers to develop new technologies — including the Maaket Braid Device — that are delivered to the crew aboard the Ascendant. A key ally in the conflict against the Svixen, offering resources, technology, and personnel.",
       "unlockAfter": {
         "book": "ascendant",
@@ -2710,7 +2710,7 @@
       "id": "seutor",
       "name": "Seutor",
       "system": "Unknown",
-      "image": null,
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/worlds/seutor.png",
       "description": "The homeworld of the Tuaca and Natuul — an ancient, jungle and canyon-riddled world. Dense jungle with violet-tinged nights and pervasive bioluminescence: orange rhythmic flickers at ground level, teal tendrils swaying in the canopy. Plants appear to share biological signals, brightening and dimming in response to nearby activity. Multiple Transync Stations across the planet, most damaged in Natuul/Svixen attacks. Home to the Lesfer Spaceport City, built into a multi-tiered stepped canyon. It is on Seutor that the Ascendant is obtained, and where Chris wins a Skrema duel to save the world. A place of alliance, sacrifice, farewell, and hope.",
       "unlockAfter": {
         "book": "ascendant",
@@ -2743,7 +2743,7 @@
       "id": "patchave",
       "name": "Patchave",
       "system": "Unknown",
-      "image": null,
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/worlds/patchave.png",
       "description": "The homeworld of the Cruillum — lizard-like humanoids who have mastered the manipulation of technology through harmonic resonance, a practice they call 'singing to the glass.' A desert world of scorched plains and resonant stone structures. Patchave becomes a critical stop for the crew after a space battle with the Svixen leaves their ship damaged. They use the local Transync gate to travel back to Seutor for parts before continuing their mission.",
       "unlockAfter": {
         "book": "ascendant",
