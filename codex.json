@@ -1432,9 +1432,7 @@
     {
       "id": "linkenbach",
       "name": "Technology Specialist Chance Linkenbach",
-      "nicknames": [
-        "Nasty Man"
-      ],
+      "nicknames": [],
       "role": "Technology Specialist",
       "affiliation": "US Army / Team Falcon",
       "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Linkenbach.png",
@@ -1503,6 +1501,19 @@
           },
           "chapterTitle": "Hit and Run",
           "event": "Scores the direct hit on the Svixen cruiser's engine vent at the precise 7.2-second cycle interval Josh identifies. 'One shot. Right in the guts.'"
+        }
+      ],
+      "versions": [
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 8
+          },
+          "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Linkenbach.png",
+          "bio": "One of Team Falcon's three technology specialists. Focused and intense. Manages point-defense and external threats. Earns the callsign 'Nasty Man' aboard the Ascendant — the only crew member who genuinely enjoys the Maaket food.",
+          "nicknames": [
+            "Nasty Man"
+          ]
         }
       ]
     },
