@@ -775,13 +775,44 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/battlefield_report.png",
               "title": "Chapter 14 - Full Control",
               "description": "Chris absorbs the images on the holodisplays that show the overwhelming battle in the city outside. Liam helps translate."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/svixen_pack.png",
+              "title": "Chapter 14 - Full Control",
+              "description": "Chris and his team confront a pack of the invading Svixen."
             }
           ]
         },
         {
           "number": 15,
           "title": "New Toy",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_approaches.png",
+              "title": "Chapter 15 - New Toy",
+              "description": "A new Svixen commander approaches after killing one of his own warriors."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_skrema.png",
+              "title": "Chapter 15 - New Toy",
+              "description": "Warlord Tagonis Riveen prepares himself for battle and calls for his ship as a whitness."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_fight.png",
+              "title": "Chapter 15 - New Toy",
+              "description": "Chris's skrema with Warlord Riveen begins."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_sword.png",
+              "title": "Chapter 15 - New Toy",
+              "description": "Chris allows his opponent to collect his weapon."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_defeat.png",
+              "title": "Chapter 15 - New Toy",
+              "description": "Warlord Riveen admits his defeat. Liam marks the location of Chris's final strike."
+            }
+          ]
         },
         {
           "number": 16,
