@@ -483,7 +483,10 @@
       "subtitle": "The Dova Sku Series · Book 2",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/cover.png",
       "chapters": [
-        { "number": 0, "title": "Prologue", "images": [
+        {
+          "number": 0,
+          "title": "Prologue",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch00/created.png",
               "title": "Prologue",
@@ -496,7 +499,10 @@
             }
           ]
         },
-        { "number": 1, "title": "After the Fire", "images": [
+        {
+          "number": 1,
+          "title": "After the Fire",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch01/injured_morgan.png",
               "title": "Chapter 1 - After the Fire",
@@ -509,7 +515,10 @@
             }
           ]
         },
-        { "number": 2, "title": "Enhancements", "images": [
+        {
+          "number": 2,
+          "title": "Enhancements",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/crashsite.png",
               "title": "Chapter 2 - Enhancements",
@@ -527,7 +536,10 @@
             }
           ]
         },
-        { "number": 3, "title": "Rebuilding", "images": [
+        {
+          "number": 3,
+          "title": "Rebuilding",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch03/team_meeting.png",
               "title": "Chapter 3 - Rebuilding",
@@ -535,7 +547,10 @@
             }
           ]
         },
-        { "number": 4, "title": "Spacebound", "images": [
+        {
+          "number": 4,
+          "title": "Spacebound",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/lola_leaving_bravo.png",
               "title": "Chapter 4 - Spacebound",
@@ -553,7 +568,10 @@
             }
           ]
         },
-        { "number": 5, "title": "Activating the Trantions", "images": [
+        {
+          "number": 5,
+          "title": "Activating the Trantions",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/transync_lights1.png",
               "title": "Chapter 5 - Activating the Trantions",
@@ -571,7 +589,10 @@
             }
           ]
         },
-        { "number": 6, "title": "Abducted", "images": [
+        {
+          "number": 6,
+          "title": "Abducted",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch06/back_to_catora.png",
               "title": "Chapter 6 - Abducted",
@@ -584,7 +605,10 @@
             }
           ]
         },
-        { "number": 7, "title": "The Other Side", "images": [
+        {
+          "number": 7,
+          "title": "The Other Side",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/tual_station.png",
               "title": "Chapter 7 - The Other Side",
@@ -602,7 +626,10 @@
             }
           ]
         },
-        { "number": 8, "title": "Meeting Royalty", "images": [
+        {
+          "number": 8,
+          "title": "Meeting Royalty",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch08/holding_cell.png",
               "title": "Chapter 8 - Meeting Royalty",
@@ -615,7 +642,10 @@
             }
           ]
         },
-        { "number": 9, "title": "Decisions to Make", "images": [
+        {
+          "number": 9,
+          "title": "Decisions to Make",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/old_recliner.png",
               "title": "Chapter 9 - Decisions to Make",
@@ -633,7 +663,10 @@
             }
           ]
         },
-        { "number": 10, "title": "Ambushed", "images": [
+        {
+          "number": 10,
+          "title": "Ambushed",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/fenrir_stop.png",
               "title": "Chapter 10 - Ambushed",
@@ -656,7 +689,10 @@
             }
           ]
         },
-        { "number": 11, "title": "Calores Region Safehouse", "images": [
+        {
+          "number": 11,
+          "title": "Calores Region Safehouse",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/trip_to_safehouse1.png",
               "title": "Chapter 11 - Calores Region Safehouse",
@@ -674,7 +710,10 @@
             }
           ]
         },
-        { "number": 12, "title": "Seutor's Flora… and Fauna", "images": [
+        {
+          "number": 12,
+          "title": "Seutor's Flora… and Fauna",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/seutor_glows.png",
               "title": "Chapter 12 - Seutor's Flora... and Fauna",
@@ -692,7 +731,10 @@
             }
           ]
         },
-        { "number": 13, "title": "Lesfer Spaceport", "images": [
+        {
+          "number": 13,
+          "title": "Lesfer Spaceport",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/canyon_rim.png",
               "title": "Chapter 13 - Lesfer Spaceport",
@@ -710,7 +752,10 @@
             }
           ]
         },
-        { "number": 14, "title": "Full Control", "images": [
+        {
+          "number": 14,
+          "title": "Full Control",
+          "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/escape.png",
               "title": "Chapter 14 - Full Control",
@@ -725,26 +770,99 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/city_remains.png",
               "title": "Chapter 14 - Full Control",
               "description": "The aftermath of the missile strike is as devestating as the attack."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/battlefield_report.png",
+              "title": "Chapter 14 - Full Control",
+              "description": "Chris absorbs the images on the holodisplays that show the overwhelming battle in the city outside. Liam helps translate."
             }
           ]
         },
-        { "number": 15, "title": "New Toy", "images": [] },
-        { "number": 16, "title": "Politics", "images": [] },
-        { "number": 17, "title": "Round Trip", "images": [] },
-        { "number": 18, "title": "Digging In", "images": [] },
-        { "number": 19, "title": "Envoys", "images": [] },
-        { "number": 20, "title": "Semula Breven", "images": [] },
-        { "number": 21, "title": "System Checks", "images": [] },
-        { "number": 22, "title": "The Ascendant Stirs", "images": [] },
-        { "number": 23, "title": "Fire in the Void", "images": [] },
-        { "number": 24, "title": "Close Quarters Combat", "images": [] },
-        { "number": 25, "title": "Not Prey", "images": [] },
-        { "number": 26, "title": "Broken but Unbowed", "images": [] },
-        { "number": 27, "title": "Heatline", "images": [] },
-        { "number": 28, "title": "Heat Kept, Water Spent", "images": [] },
-        { "number": 29, "title": "Hit and Run", "images": [] },
-        { "number": 30, "title": "Ghosts in the Stars", "images": [] },
-        { "number": 31, "title": "Epilogue", "images": [] }
+        {
+          "number": 15,
+          "title": "New Toy",
+          "images": []
+        },
+        {
+          "number": 16,
+          "title": "Politics",
+          "images": []
+        },
+        {
+          "number": 17,
+          "title": "Round Trip",
+          "images": []
+        },
+        {
+          "number": 18,
+          "title": "Digging In",
+          "images": []
+        },
+        {
+          "number": 19,
+          "title": "Envoys",
+          "images": []
+        },
+        {
+          "number": 20,
+          "title": "Semula Breven",
+          "images": []
+        },
+        {
+          "number": 21,
+          "title": "System Checks",
+          "images": []
+        },
+        {
+          "number": 22,
+          "title": "The Ascendant Stirs",
+          "images": []
+        },
+        {
+          "number": 23,
+          "title": "Fire in the Void",
+          "images": []
+        },
+        {
+          "number": 24,
+          "title": "Close Quarters Combat",
+          "images": []
+        },
+        {
+          "number": 25,
+          "title": "Not Prey",
+          "images": []
+        },
+        {
+          "number": 26,
+          "title": "Broken but Unbowed",
+          "images": []
+        },
+        {
+          "number": 27,
+          "title": "Heatline",
+          "images": []
+        },
+        {
+          "number": 28,
+          "title": "Heat Kept, Water Spent",
+          "images": []
+        },
+        {
+          "number": 29,
+          "title": "Hit and Run",
+          "images": []
+        },
+        {
+          "number": 30,
+          "title": "Ghosts in the Stars",
+          "images": []
+        },
+        {
+          "number": 31,
+          "title": "Epilogue",
+          "images": []
+        }
       ]
     }
   ]
