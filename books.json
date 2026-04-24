@@ -817,12 +817,34 @@
         {
           "number": 16,
           "title": "Politics",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch16/angry_phostop.png",
+              "title": "Chapter 16 - Politics",
+              "description": "Phostop expresses his anger with Chris."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch16/leaving_lesfer.png",
+              "title": "Chapter 16 - Politics",
+              "description": "The team waits next to their new rides, the Tuaca Ground Runners."
+            }
+          ]
         },
         {
           "number": 17,
           "title": "Round Trip",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/introducing_tivay.png",
+              "title": "Chapter 17 - Round Trip",
+              "description": "The team leaves the Transync station to meet with the rest of the crew."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/smelly_crate.png",
+              "title": "Chapter 17 - Round Trip",
+              "description": "Fenrir marks out a suspicious crate."
+            }
+          ]
         },
         {
           "number": 18,
