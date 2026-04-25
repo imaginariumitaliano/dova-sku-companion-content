@@ -900,7 +900,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 2
+        "chapter": 4
       },
       "storyEvents": [
         {
@@ -985,7 +985,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 2
+        "chapter": 4
       },
       "storyEvents": [
         {
@@ -1076,7 +1076,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 2
+        "chapter": 4
       },
       "storyEvents": [
         {
@@ -1151,7 +1151,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 2
+        "chapter": 4
       },
       "storyEvents": [
         {
@@ -1210,7 +1210,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 2
+        "chapter": 4
       },
       "storyEvents": [
         {
@@ -1298,7 +1298,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 2
+        "chapter": 4
       },
       "storyEvents": [
         {
@@ -1365,7 +1365,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 2
+        "chapter": 1
       },
       "storyEvents": [
         {
@@ -1416,7 +1416,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 2
+        "chapter": 4
       },
       "storyEvents": [
         {
@@ -1651,7 +1651,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 4
+        "chapter": 5
       },
       "storyEvents": [
         {
@@ -1779,7 +1779,7 @@
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 4
+        "chapter": 15
       },
       "storyEvents": [
         {
