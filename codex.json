@@ -867,104 +867,19 @@
       ]
     },
     {
-      "id": "kat",
-      "name": "Kathryn Andersen",
-      "nicknames": [
-        "Kat"
-      ],
-      "role": "Lead Xenobiologist",
-      "affiliation": "Science Division",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Kat1.png",
-      "bio": "Red-headed xenobiologist whose cryo pod is adjacent to Chris's. Tough exterior with a sharp wit and firm principles about animal welfare. Coined the term 'amtillian' for Catora's combined reptile-amphibian class and gave formal scientific names to every species encountered — names the crew consistently ignores. Joined the mission's training late due to a prior assignment.",
-      "books": [
-        "Transync",
-        "Ascendant"
-      ],
-      "unlockAfter": {
-        "book": "transync",
-        "chapter": 4
-      },
-      "storyEvents": [
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 5
-          },
-          "chapterTitle": "Arrival",
-          "event": "Wakes from cryosleep in the pod next to Chris. They exchange jokes about the cryo fluid and their scars. She points out the one on his collarbone; he responds by showing the scar on his buttock. Introduces herself: 'Kathryn Andersen. My friends call me Kat.' Leaves with a wink, telling him she knows a thing or two about self-defense."
-        },
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 6
-          },
-          "chapterTitle": "Planet Fall",
-          "event": "Makes the first classification of Catoran life — discovers through genetic testing that all animals on the planet share the same biological class. Names it 'amtillian.' Provides the formal scientific name for the Laredo dragon: Polymegalania Squamata. The crew ignores it and keeps calling them Laredo dragons."
-        },
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 9
-          },
-          "chapterTitle": "Month One",
-          "event": "Leads the Skamp expedition to the inland lake. Uses the remote blood sample extractor to sample Skamps. Takes a Laredo dragon egg for sampling — is swarmed by three protective adults in response."
-        },
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 27
-          },
-          "chapterTitle": "Survivors",
-          "event": "Found alive in LOLA Two's cockpit with Josh, Rowley, Marie, and Lin. Has a bad wound on her leg, bandaged by the group during the battle."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 2
-          },
-          "chapterTitle": "Enhancements",
-          "event": "Noted as a naturally accurate marksman during Lin's weapons training sessions — hits every target on her first session. Carmelo observes with visible surprise."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 5
-          },
-          "chapterTitle": "Activating the Trantions",
-          "event": "Is among the five crew members abducted through the Transync portal by Maaket soldiers."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 8
-          },
-          "chapterTitle": "Meeting Royalty",
-          "event": "Held in the Maaket cell. When Phostop is asked about Josh's safety during the follow-up visit: 'Is he safe?' Her concern is evident and direct."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 21
-          },
-          "chapterTitle": "System Checks",
-          "event": "Announces she is choosing to stay behind on Seutor. Explains: she is a xenobiologist with access to two alien worlds and feels she can do more good here helping the Tuaca rebuild than going back to Earth. 'Just be sure you come back.' Kisses Chris's cheek at the ramp and tells him to make the Svixen regret the Dova Sku name."
-        }
-      ]
-    },
-    {
-      "id": "tohoto",
-      "name": "Biologist Shu'Lin Tohoto",
+      "id": "patel",
+      "name": "Sergeant James Patel",
       "nicknames": [],
-      "role": "Biologist",
-      "affiliation": "Light Skipper Crew",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Tohoto.png",
-      "bio": "Working alongside Xenobiologist Kathryn Andersen and Science Tech Kevin Osgood, Shu'Lin is a diligent worker and excels in fieldwork. Her sharp instincts and love for the work brought her on the New Frontier mission to Catora.",
+      "role": "Combat Specialist",
+      "affiliation": "Team Falcon",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Patel.png",
+      "bio": "One of ten British nationals aboard the Light Skipper. A decorated and effective special operator with a decade of service before signing on for the mission — his background is SAS. One of Team Falcon's core soldiers, cycling through Falcon One and other squads. Among the 234 crew members lost in the Svixen attack on Catora.",
       "books": [
         "Transync"
       ],
       "unlockAfter": {
         "book": "transync",
-        "chapter": 9
+        "chapter": 1
       },
       "versions": [],
       "storyEvents": []
@@ -1148,24 +1063,6 @@
       ]
     },
     {
-      "id": "patel",
-      "name": "Sergeant James Patel",
-      "nicknames": [],
-      "role": "Combat Specialist",
-      "affiliation": "Team Falcon",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Patel.png",
-      "bio": "One of ten British nationals aboard the Light Skipper. A decorated and effective special operator with a decade of service before signing on for the mission — his background is SAS. One of Team Falcon's core soldiers, cycling through Falcon One and other squads. Among the 234 crew members lost in the Svixen attack on Catora.",
-      "books": [
-        "Transync"
-      ],
-      "unlockAfter": {
-        "book": "transync",
-        "chapter": 1
-      },
-      "versions": [],
-      "storyEvents": []
-    },
-    {
       "id": "morgan",
       "name": "Medical Specialist Chloe Morgan",
       "nicknames": [],
@@ -1237,172 +1134,6 @@
           },
           "chapterTitle": "Broken but Unbowed",
           "event": "After the battle, wanders from station to station, hands restless. Tells Chris she should have done more for Miller. He replies: 'Then watch now. Be there when it counts. That matters more than any medpack.' She nods and moves on. Sets Miller's metal tag on the mess table during the memorial. Bows her head over his body in the med bay and lets the tears fall — the first time anyone has seen her cry."
-        }
-      ]
-    },
-    {
-      "id": "carmelo",
-      "name": "Ensign Casey Carmelo",
-      "nicknames": [],
-      "role": "Executive Officer, Light Skipper",
-      "affiliation": "US Navy",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Carmelo.png",
-      "bio": "Executive Officer and second-in-command to Captain Terzi aboard the Light Skipper. Olive-skinned, Italian descent, light brown hair and blue eyes, slender face with a short goatee. Technically the highest-ranking surviving officer after the Svixen attack, but defers ground command to Chris, acknowledging his superior battlefield judgment. Competent, fair, and measured.",
-      "books": [
-        "Transync",
-        "Ascendant"
-      ],
-      "unlockAfter": {
-        "book": "transync",
-        "chapter": 4
-      },
-      "storyEvents": [
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 23
-          },
-          "chapterTitle": "Redirected",
-          "event": "Rushes to the Command Center when the Svixen attack. Points out the Light Skipper lacks airlock access for boarding. Volunteers to fly one of the escape craft. Pilots the LOLA One during the evacuation."
-        },
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 25
-          },
-          "chapterTitle": "Skrema",
-          "event": "Runs to the crashed LOLA with Campbell and Blevins, covering extraction of survivors. Shouts directions to the crew as they emerge, pointing them toward the cave."
-        },
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 27
-          },
-          "chapterTitle": "Survivors",
-          "event": "Found buried under rubble — unconscious, suffering concussion and serious deep-tissue bruising. Davis and Linkenbach retrieve him."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 2
-          },
-          "chapterTitle": "Enhancements",
-          "event": "Explicitly defers ground command to Chris, acknowledging Chris's superior field judgment, while retaining ship authority and civilian oversight."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 21
-          },
-          "chapterTitle": "System Checks",
-          "event": "Accepts the captain's chair from Chris, who tells him 'The ship needs a captain, and you're the most qualified.' Carmelo smiles with genuine eagerness. Oversees final Lesfer preparations."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 22
-          },
-          "chapterTitle": "The Ascendant Stirs",
-          "event": "As captain, oversees the final systems check and departure. 'Marie, fire her up.' Watches the launch with quiet resolve."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 23
-          },
-          "chapterTitle": "Fire in the Void",
-          "event": "Calls battle stations. Remains in the captain's chair issuing calm and precise orders throughout the carrier engagement. 'Hold fire' after the carrier is disabled — not mercy, but calculation."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 24
-          },
-          "chapterTitle": "Close Quarters Combat",
-          "event": "Coordinates bridge operations during the boarding action. Logs the Svixen commander as a prisoner. After Miller dies and Chris executes the commander: 'Logged.' Orders the recording sent to the carrier. Does not say Miller's name in the repair briefing afterward — looks at Chris instead."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 29
-          },
-          "chapterTitle": "Hit and Run",
-          "event": "Proposes the hit-and-run strategy against the Svixen cruiser rather than a sustained fight. 'Don't give your enemy the fight they want.' Coordinates the attack sequence and jump escape."
-        }
-      ]
-    },
-    {
-      "id": "marie",
-      "name": "Second Lieutenant Brittney Marie",
-      "nicknames": [],
-      "role": "Pilot, LOLA 2 / Ascendant",
-      "affiliation": "US Air Force / Team Falcon",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Marie.png",
-      "bio": "Pilot of LOLA Two and later the Ascendant. Dry and sardonic. Calm under pressure and capable of extraordinary maneuvers. Considers herself — justifiably — the better pilot.",
-      "books": [
-        "Transync",
-        "Ascendant"
-      ],
-      "unlockAfter": {
-        "book": "transync",
-        "chapter": 4
-      },
-      "storyEvents": [
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 23
-          },
-          "chapterTitle": "Redirected",
-          "event": "Pilots the second mining vessel during the evacuation. The craft takes significant gash damage and a large hull depression during atmospheric entry. Chris witnesses it spinning wildly before she brings it under control."
-        },
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 27
-          },
-          "chapterTitle": "Survivors",
-          "event": "Found alive in LOLA Two's cockpit with Josh, Kat, Rowley, and Lin."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 4
-          },
-          "chapterTitle": "Spacebound",
-          "event": "Navigates all of LOLA One's flight path during Chris and Rowley's 35-day trantion mission, with Liam's assistance."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 21
-          },
-          "chapterTitle": "System Checks",
-          "event": "Immediately claims the pilot's seat of the Ascendant: 'Dibs.' Chris does not argue."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 23
-          },
-          "chapterTitle": "Fire in the Void",
-          "event": "Pilots the Ascendant through the carrier battle with the precision of a born combat pilot. Her maneuvers give the gunnery crews clean angles of attack. 'We've got a bigger gun. We've got a better dancer.'"
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 24
-          },
-          "chapterTitle": "Close Quarters Combat",
-          "event": "Continues combat flying during the boarding action, performing lateral maneuvers to deny a third dropship its landing clamp. 'Not today.' A tear runs down her cheek after Miller's death is announced — she does not stop flying."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 29
-          },
-          "chapterTitle": "Hit and Run",
-          "event": "Executes the cold launch from Patchave and the hit-and-run attack against the Svixen cruiser. 'I can do boring' — holds the ship on a conservative course that makes them look disabled. When the moment comes: 'Already there.'"
         }
       ]
     },
@@ -1731,6 +1462,257 @@
       ]
     },
     {
+      "id": "kat",
+      "name": "Kathryn Andersen",
+      "nicknames": [
+        "Kat"
+      ],
+      "role": "Lead Xenobiologist",
+      "affiliation": "Science Division",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Kat1.png",
+      "bio": "Red-headed xenobiologist whose cryo pod is adjacent to Chris's. Tough exterior with a sharp wit and firm principles about animal welfare. Coined the term 'amtillian' for Catora's combined reptile-amphibian class and gave formal scientific names to every species encountered — names the crew consistently ignores. Joined the mission's training late due to a prior assignment.",
+      "books": [
+        "Transync",
+        "Ascendant"
+      ],
+      "unlockAfter": {
+        "book": "transync",
+        "chapter": 4
+      },
+      "storyEvents": [
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 5
+          },
+          "chapterTitle": "Arrival",
+          "event": "Wakes from cryosleep in the pod next to Chris. They exchange jokes about the cryo fluid and their scars. She points out the one on his collarbone; he responds by showing the scar on his buttock. Introduces herself: 'Kathryn Andersen. My friends call me Kat.' Leaves with a wink, telling him she knows a thing or two about self-defense."
+        },
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 6
+          },
+          "chapterTitle": "Planet Fall",
+          "event": "Makes the first classification of Catoran life — discovers through genetic testing that all animals on the planet share the same biological class. Names it 'amtillian.' Provides the formal scientific name for the Laredo dragon: Polymegalania Squamata. The crew ignores it and keeps calling them Laredo dragons."
+        },
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 9
+          },
+          "chapterTitle": "Month One",
+          "event": "Leads the Skamp expedition to the inland lake. Uses the remote blood sample extractor to sample Skamps. Takes a Laredo dragon egg for sampling — is swarmed by three protective adults in response."
+        },
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 27
+          },
+          "chapterTitle": "Survivors",
+          "event": "Found alive in LOLA Two's cockpit with Josh, Rowley, Marie, and Lin. Has a bad wound on her leg, bandaged by the group during the battle."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 2
+          },
+          "chapterTitle": "Enhancements",
+          "event": "Noted as a naturally accurate marksman during Lin's weapons training sessions — hits every target on her first session. Carmelo observes with visible surprise."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 5
+          },
+          "chapterTitle": "Activating the Trantions",
+          "event": "Is among the five crew members abducted through the Transync portal by Maaket soldiers."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 8
+          },
+          "chapterTitle": "Meeting Royalty",
+          "event": "Held in the Maaket cell. When Phostop is asked about Josh's safety during the follow-up visit: 'Is he safe?' Her concern is evident and direct."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 21
+          },
+          "chapterTitle": "System Checks",
+          "event": "Announces she is choosing to stay behind on Seutor. Explains: she is a xenobiologist with access to two alien worlds and feels she can do more good here helping the Tuaca rebuild than going back to Earth. 'Just be sure you come back.' Kisses Chris's cheek at the ramp and tells him to make the Svixen regret the Dova Sku name."
+        }
+      ]
+    },
+    {
+      "id": "carmelo",
+      "name": "Ensign Casey Carmelo",
+      "nicknames": [],
+      "role": "Executive Officer, Light Skipper",
+      "affiliation": "US Navy",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Carmelo.png",
+      "bio": "Executive Officer and second-in-command to Captain Terzi aboard the Light Skipper. Olive-skinned, Italian descent, light brown hair and blue eyes, slender face with a short goatee. Technically the highest-ranking surviving officer after the Svixen attack, but defers ground command to Chris, acknowledging his superior battlefield judgment. Competent, fair, and measured.",
+      "books": [
+        "Transync",
+        "Ascendant"
+      ],
+      "unlockAfter": {
+        "book": "transync",
+        "chapter": 4
+      },
+      "storyEvents": [
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 23
+          },
+          "chapterTitle": "Redirected",
+          "event": "Rushes to the Command Center when the Svixen attack. Points out the Light Skipper lacks airlock access for boarding. Volunteers to fly one of the escape craft. Pilots the LOLA One during the evacuation."
+        },
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 25
+          },
+          "chapterTitle": "Skrema",
+          "event": "Runs to the crashed LOLA with Campbell and Blevins, covering extraction of survivors. Shouts directions to the crew as they emerge, pointing them toward the cave."
+        },
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 27
+          },
+          "chapterTitle": "Survivors",
+          "event": "Found buried under rubble — unconscious, suffering concussion and serious deep-tissue bruising. Davis and Linkenbach retrieve him."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 2
+          },
+          "chapterTitle": "Enhancements",
+          "event": "Explicitly defers ground command to Chris, acknowledging Chris's superior field judgment, while retaining ship authority and civilian oversight."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 21
+          },
+          "chapterTitle": "System Checks",
+          "event": "Accepts the captain's chair from Chris, who tells him 'The ship needs a captain, and you're the most qualified.' Carmelo smiles with genuine eagerness. Oversees final Lesfer preparations."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 22
+          },
+          "chapterTitle": "The Ascendant Stirs",
+          "event": "As captain, oversees the final systems check and departure. 'Marie, fire her up.' Watches the launch with quiet resolve."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 23
+          },
+          "chapterTitle": "Fire in the Void",
+          "event": "Calls battle stations. Remains in the captain's chair issuing calm and precise orders throughout the carrier engagement. 'Hold fire' after the carrier is disabled — not mercy, but calculation."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 24
+          },
+          "chapterTitle": "Close Quarters Combat",
+          "event": "Coordinates bridge operations during the boarding action. Logs the Svixen commander as a prisoner. After Miller dies and Chris executes the commander: 'Logged.' Orders the recording sent to the carrier. Does not say Miller's name in the repair briefing afterward — looks at Chris instead."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 29
+          },
+          "chapterTitle": "Hit and Run",
+          "event": "Proposes the hit-and-run strategy against the Svixen cruiser rather than a sustained fight. 'Don't give your enemy the fight they want.' Coordinates the attack sequence and jump escape."
+        }
+      ]
+    },
+    {
+      "id": "marie",
+      "name": "Second Lieutenant Brittney Marie",
+      "nicknames": [],
+      "role": "Pilot, LOLA 2 / Ascendant",
+      "affiliation": "US Air Force / Team Falcon",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Marie.png",
+      "bio": "Pilot of LOLA Two and later the Ascendant. Dry and sardonic. Calm under pressure and capable of extraordinary maneuvers. Considers herself — justifiably — the better pilot.",
+      "books": [
+        "Transync",
+        "Ascendant"
+      ],
+      "unlockAfter": {
+        "book": "transync",
+        "chapter": 4
+      },
+      "storyEvents": [
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 23
+          },
+          "chapterTitle": "Redirected",
+          "event": "Pilots the second mining vessel during the evacuation. The craft takes significant gash damage and a large hull depression during atmospheric entry. Chris witnesses it spinning wildly before she brings it under control."
+        },
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 27
+          },
+          "chapterTitle": "Survivors",
+          "event": "Found alive in LOLA Two's cockpit with Josh, Kat, Rowley, and Lin."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 4
+          },
+          "chapterTitle": "Spacebound",
+          "event": "Navigates all of LOLA One's flight path during Chris and Rowley's 35-day trantion mission, with Liam's assistance."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 21
+          },
+          "chapterTitle": "System Checks",
+          "event": "Immediately claims the pilot's seat of the Ascendant: 'Dibs.' Chris does not argue."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 23
+          },
+          "chapterTitle": "Fire in the Void",
+          "event": "Pilots the Ascendant through the carrier battle with the precision of a born combat pilot. Her maneuvers give the gunnery crews clean angles of attack. 'We've got a bigger gun. We've got a better dancer.'"
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 24
+          },
+          "chapterTitle": "Close Quarters Combat",
+          "event": "Continues combat flying during the boarding action, performing lateral maneuvers to deny a third dropship its landing clamp. 'Not today.' A tear runs down her cheek after Miller's death is announced — she does not stop flying."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 29
+          },
+          "chapterTitle": "Hit and Run",
+          "event": "Executes the cold launch from Patchave and the hit-and-run attack against the Svixen cruiser. 'I can do boring' — holds the ship on a conservative course that makes them look disabled. When the moment comes: 'Already there.'"
+        }
+      ]
+    },
+    {
       "id": "lin",
       "name": "Professor Robert Lin",
       "nicknames": [],
@@ -1982,6 +1964,24 @@
       "storyEvents": []
     },
     {
+      "id": "tohoto",
+      "name": "Biologist Shu'Lin Tohoto",
+      "nicknames": [],
+      "role": "Biologist",
+      "affiliation": "Light Skipper Crew",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Tohoto.png",
+      "bio": "Working alongside Xenobiologist Kathryn Andersen and Science Tech Kevin Osgood, Shu'Lin is a diligent worker and excels in fieldwork. Her sharp instincts and love for the work brought her on the New Frontier mission to Catora.",
+      "books": [
+        "Transync"
+      ],
+      "unlockAfter": {
+        "book": "transync",
+        "chapter": 9
+      },
+      "versions": [],
+      "storyEvents": []
+    },
+    {
       "id": "fenrir",
       "name": "Fenrir",
       "nicknames": [],
@@ -2140,32 +2140,6 @@
           },
           "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Semula_breven1.png",
           "bio": "Svixen Chapaka. Father of Semula Gatuum. A senior commander whose presence carries enormous weight among the Svixen tribes."
-        }
-      ]
-    },
-    {
-      "id": "tagonis_riveen",
-      "name": "Tagonis Riveen",
-      "nicknames": [],
-      "role": "Svixen Warlord",
-      "affiliation": "Svixen — Clan Lawtem",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Tagonis_riveen.png",
-      "bio": "Son of Tagonis Spiru, Warlord of Clan Lawtem. Accepts Chris's Skrema challenge on Seutor on behalf of Chapaka Lawtem Cavosa when the Chapaka has not yet landed planetside.",
-      "books": [
-        "Ascendant"
-      ],
-      "unlockAfter": {
-        "book": "ascendant",
-        "chapter": 15
-      },
-      "storyEvents": [
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 15
-          },
-          "chapterTitle": "New Toy",
-          "event": "Steps forward as Warlord of Clan Lawtem to accept Chris's Skrema challenge. Fights with a plasma-edged scimitar. Loses both legs to injury during the duel, both arms to disarming strikes, and is finally killed by a kopesh thrust directed by Liam's heart-location overlay. Dies standing on his stumps, calls Chris 'Dova Sku' with what appears to be genuine respect. His body is carried away by his soldiers with full honors at Chris's request."
         }
       ]
     },
@@ -2486,6 +2460,32 @@
           },
           "chapterTitle": "Heat Kept, Water Spent",
           "event": "Meets Chris's supply run team at Lesfer. Provides two crates of alloy rods (not three — the rest were used for structural reinforcement) and five pressure valves instead of the requested three: 'Inevitably, one will fail at a distance you cannot walk.'"
+        }
+      ]
+    },
+    {
+      "id": "tagonis_riveen",
+      "name": "Tagonis Riveen",
+      "nicknames": [],
+      "role": "Svixen Warlord",
+      "affiliation": "Svixen — Clan Lawtem",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Tagonis_riveen.png",
+      "bio": "Son of Tagonis Spiru, Warlord of Clan Lawtem. Accepts Chris's Skrema challenge on Seutor on behalf of Chapaka Lawtem Cavosa when the Chapaka has not yet landed planetside.",
+      "books": [
+        "Ascendant"
+      ],
+      "unlockAfter": {
+        "book": "ascendant",
+        "chapter": 15
+      },
+      "storyEvents": [
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 15
+          },
+          "chapterTitle": "New Toy",
+          "event": "Steps forward as Warlord of Clan Lawtem to accept Chris's Skrema challenge. Fights with a plasma-edged scimitar. Loses both legs to injury during the duel, both arms to disarming strikes, and is finally killed by a kopesh thrust directed by Liam's heart-location overlay. Dies standing on his stumps, calls Chris 'Dova Sku' with what appears to be genuine respect. His body is carried away by his soldiers with full honors at Chris's request."
         }
       ]
     },
