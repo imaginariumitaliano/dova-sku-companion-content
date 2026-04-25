@@ -952,6 +952,24 @@
       ]
     },
     {
+      "id": "tohoto",
+      "name": "Biologist Shu'Lin Tohoto",
+      "nicknames": [],
+      "role": "Biologist",
+      "affiliation": "Light Skipper Crew",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Tohoto.png",
+      "bio": "Working alongside Xenobiologist Kathryn Andersen and Science Tech Kevin Osgood, Shu'Lin is a diligent worker and excels in fieldwork. Her sharp instincts and love for the work brought her on the New Frontier mission to Catora.",
+      "books": [
+        "Transync"
+      ],
+      "unlockAfter": {
+        "book": "transync",
+        "chapter": 9
+      },
+      "versions": [],
+      "storyEvents": []
+    },
+    {
       "id": "campbell",
       "name": "Chief Petty Officer Tanner Campbell",
       "nicknames": [
