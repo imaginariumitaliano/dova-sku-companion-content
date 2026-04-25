@@ -1130,6 +1130,24 @@
       ]
     },
     {
+      "id": "patel",
+      "name": "Patel",
+      "nicknames": [],
+      "role": "Combat Specialist",
+      "affiliation": "Team Falcon",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Patel.png",
+      "bio": "One of ten British nationals aboard the Light Skipper. A decorated and effective special operator with a decade of service before signing on for the mission — his background is SAS. One of Team Falcon's core soldiers, cycling through Falcon One and other squads. Among the 234 crew members lost in the Svixen attack on Catora.",
+      "books": [
+        "Transync"
+      ],
+      "unlockAfter": {
+        "book": "transync",
+        "chapter": 1
+      },
+      "versions": [],
+      "storyEvents": []
+    },
+    {
       "id": "morgan",
       "name": "Medical Specialist Chloe Morgan",
       "nicknames": [],
