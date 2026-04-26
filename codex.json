@@ -885,7 +885,7 @@
       "storyEvents": [],
       "deceasedAfter": {
         "book": "transync",
-        "chapter": 26
+        "chapter": 27
       }
     },
     {
@@ -962,7 +962,7 @@
       "storyEvents": [],
       "deceasedAfter": {
         "book": "transync",
-        "chapter": 26
+        "chapter": 27
       }
     },
     {
@@ -1275,11 +1275,7 @@
           "chapterTitle": "The Ascendant Stirs",
           "event": "Says farewell. Waves his multitool at Josh: 'Don't go blowing all that new tech up before I get back.' Watches the Ascendant launch."
         }
-      ],
-      "deceasedAfter": {
-        "book": "transync",
-        "chapter": 26
-      }
+      ]
     },
     {
       "id": "linkenbach",
@@ -1434,11 +1430,7 @@
           "chapterTitle": "Ghosts in the Stars",
           "event": "When the Svixen fleet over Earth is visible: 'How many of these fights do we have to win before we see a sunrise on Earth that isn't through glass?' Chris: 'As many as it takes.' Robertson's expression becomes something sharper than a smile."
         }
-      ],
-      "deceasedAfter": {
-        "book": "transync",
-        "chapter": 26
-      }
+      ]
     },
     {
       "id": "blevins",
@@ -1497,11 +1489,7 @@
           "chapterTitle": "Hit and Run",
           "event": "His joke about Linkenbach's sister's wedding night is the first joke he has made since Miller died. Morgan's laugh at it breaks the tension that has been building across the crew for days."
         }
-      ],
-      "deceasedAfter": {
-        "book": "transync",
-        "chapter": 26
-      }
+      ]
     },
     {
       "id": "kat",
@@ -1930,7 +1918,11 @@
           "chapterTitle": "Survivors",
           "event": "Killed in the Svixen attack. Found dual-wielding M4 H2 rifles in each hand — Chris has to pry the guns from his death grip. He went down fighting. His death leaves Chris to lead the 15 survivors without a commanding officer above him."
         }
-      ]
+      ],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 27
+      }
     },
     {
       "id": "nic_anderson",
@@ -1984,7 +1976,11 @@
           "chapterTitle": "Skrema",
           "event": "Pilots LOLA One (now carrying the remaining survivors from the ruins site) back toward the old cave hideout when intercepted by a Svixen dropship. The dropship fires plasma bolts — clips the wing. Razor loses partial control but keeps flying. Liam takes over briefly to dodge one blast and returns control. LOLA crashes 200 meters from the cave mouth. 'I wouldn't exactly call that a landing' — the exact same words as before."
         }
-      ]
+      ],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 27
+      }
     },
     {
       "id": "sam_atkins",
@@ -2003,7 +1999,11 @@
         "book": "transync",
         "chapter": 5
       },
-      "storyEvents": []
+      "storyEvents": [],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 27
+      }
     },
     {
       "id": "tohoto",
@@ -2021,7 +2021,11 @@
         "chapter": 9
       },
       "versions": [],
-      "storyEvents": []
+      "storyEvents": [],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 27
+      }
     },
     {
       "id": "fenrir",
@@ -2130,7 +2134,11 @@
           "chapterTitle": "Semula Breven",
           "event": "His father would later judge him harshly: Gatuum begged for the Skrema not for victory, but for spectacle — for legacy. He wore trophies he had not yet earned, taunted, underestimated his opponent, and when he lost, broke the code of Ull entirely by grabbing a rifle to shoot an unarmed man. He was killed by Fenrir before he could fire the shot. His disgrace was considered so severe that Svixen tradition demanded his mark be scorched from the family lineage relief — as if he had never existed."
         }
-      ]
+      ],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 26
+      }
     },
     {
       "id": "semula_breven",
@@ -2529,7 +2537,11 @@
           "chapterTitle": "New Toy",
           "event": "Steps forward as Warlord of Clan Lawtem to accept Chris's Skrema challenge. Fights with a plasma-edged scimitar. Loses both legs to injury during the duel, both arms to disarming strikes, and is finally killed by a kopesh thrust directed by Liam's heart-location overlay. Dies standing on his stumps, calls Chris 'Dova Sku' with what appears to be genuine respect. His body is carried away by his soldiers with full honors at Chris's request."
         }
-      ]
+      ],
+      "deceasedAfter": {
+        "book": "ascendant",
+        "chapter": 15
+      }
     },
     {
       "id": "ithri",
