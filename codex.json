@@ -885,6 +885,75 @@
       "storyEvents": []
     },
     {
+      "id": "miller",
+      "name": "Petty Officer Brandon Miller",
+      "nicknames": [],
+      "role": "Team Falcon",
+      "affiliation": "US Navy / Team Falcon",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Miller.png",
+      "bio": "Broad-shouldered member of Team Falcon with short brown hair. Present from the mission's start. Dependable in combat and easy to be around, with a ready sense of humor.",
+      "books": [
+        "Transync",
+        "Ascendant"
+      ],
+      "unlockAfter": {
+        "book": "transync",
+        "chapter": 1
+      },
+      "storyEvents": [
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 1
+          },
+          "chapterTitle": "Training Sim",
+          "event": "Ends up lying face-first on Vasquez after both are killed in the sim, locked in place by the suit. Chris helps him to his feet and jokes about it. Miller: 'I swear I could smell Vasquez's sweaty balls through his suit.'"
+        },
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 17
+          },
+          "chapterTitle": "Round Trip",
+          "event": "Present at Research Base Bravo when Chris returns with Posis and Tivay. 'We didn't expect you'd be bringing friends, LT.'"
+        },
+        {
+          "unlockAfter": {
+            "book": "transync",
+            "chapter": 26
+          },
+          "chapterTitle": "To the Death",
+          "event": "One of the seven standing with Chris at the cave mouth after the Skrema stops the battle."
+        },
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 24
+          },
+          "chapterTitle": "Close Quarters Combat",
+          "event": "When a fast, heavily armored Svixen tackles Blevins and pins him down, Miller charges it from the side — shoulder first — driving it off Blevins. Fires three rounds point-blank into the seams of its chest plate. The Svixen throws Miller headfirst into the wall. His helmet folds against his suit. He is mortally wounded. Morgan works on him while Liam pushes nanites. His last words: 'You… got me, Boss?' He dies before help arrives. Morgan announces his death across the comms."
+        }
+      ]
+    },
+    {
+      "id": "zavani",
+      "name": "Raqib Farah Zavani",
+      "nicknames": [],
+      "role": "Raqib (Naval Petty Officer)",
+      "affiliation": "Light Skipper Crew",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Zavani.png",
+      "bio": "Egyptian national. Her rank is Raqib — the Naval equivalent of a Petty Officer. One of the multinational soldiers assembled for the mission. Zavani is composed, sharp, and quietly fearless — the kind of soldier who keeps her voice level even when she admits she was trembling in her boots. She is direct and witty in conversation, holds her own in banter. She is also self-aware and honest about fear without being shaken by it. Among the crew members lost at the end of the Transync mission.",
+      "books": [
+        "Transync"
+      ],
+      "unlockAfter": {
+        "book": "transync",
+        "chapter": 1
+      },
+      "versions": [],
+      "storyEvents": []
+    },
+    {
       "id": "campbell",
       "name": "Chief Petty Officer Tanner Campbell",
       "nicknames": [
@@ -1348,57 +1417,6 @@
           },
           "chapterTitle": "Ghosts in the Stars",
           "event": "When the Svixen fleet over Earth is visible: 'How many of these fights do we have to win before we see a sunrise on Earth that isn't through glass?' Chris: 'As many as it takes.' Robertson's expression becomes something sharper than a smile."
-        }
-      ]
-    },
-    {
-      "id": "miller",
-      "name": "Petty Officer Brandon Miller",
-      "nicknames": [],
-      "role": "Team Falcon",
-      "affiliation": "US Navy / Team Falcon",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Miller.png",
-      "bio": "Broad-shouldered member of Team Falcon with short brown hair. Present from the mission's start. Dependable in combat and easy to be around, with a ready sense of humor.",
-      "books": [
-        "Transync",
-        "Ascendant"
-      ],
-      "unlockAfter": {
-        "book": "transync",
-        "chapter": 1
-      },
-      "storyEvents": [
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 1
-          },
-          "chapterTitle": "Training Sim",
-          "event": "Ends up lying face-first on Vasquez after both are killed in the sim, locked in place by the suit. Chris helps him to his feet and jokes about it. Miller: 'I swear I could smell Vasquez's sweaty balls through his suit.'"
-        },
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 17
-          },
-          "chapterTitle": "Round Trip",
-          "event": "Present at Research Base Bravo when Chris returns with Posis and Tivay. 'We didn't expect you'd be bringing friends, LT.'"
-        },
-        {
-          "unlockAfter": {
-            "book": "transync",
-            "chapter": 26
-          },
-          "chapterTitle": "To the Death",
-          "event": "One of the seven standing with Chris at the cave mouth after the Skrema stops the battle."
-        },
-        {
-          "unlockAfter": {
-            "book": "ascendant",
-            "chapter": 24
-          },
-          "chapterTitle": "Close Quarters Combat",
-          "event": "When a fast, heavily armored Svixen tackles Blevins and pins him down, Miller charges it from the side — shoulder first — driving it off Blevins. Fires three rounds point-blank into the seams of its chest plate. The Svixen throws Miller headfirst into the wall. His helmet folds against his suit. He is mortally wounded. Morgan works on him while Liam pushes nanites. His last words: 'You… got me, Boss?' He dies before help arrives. Morgan announces his death across the comms."
         }
       ]
     },
