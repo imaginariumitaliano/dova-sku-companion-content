@@ -882,7 +882,11 @@
         "chapter": 1
       },
       "versions": [],
-      "storyEvents": []
+      "storyEvents": [],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 26
+      }
     },
     {
       "id": "miller",
@@ -933,7 +937,11 @@
           "chapterTitle": "Close Quarters Combat",
           "event": "When a fast, heavily armored Svixen tackles Blevins and pins him down, Miller charges it from the side — shoulder first — driving it off Blevins. Fires three rounds point-blank into the seams of its chest plate. The Svixen throws Miller headfirst into the wall. His helmet folds against his suit. He is mortally wounded. Morgan works on him while Liam pushes nanites. His last words: 'You… got me, Boss?' He dies before help arrives. Morgan announces his death across the comms."
         }
-      ]
+      ],
+      "deceasedAfter": {
+        "book": "ascendant",
+        "chapter": 24
+      }
     },
     {
       "id": "zavani",
@@ -951,7 +959,11 @@
         "chapter": 1
       },
       "versions": [],
-      "storyEvents": []
+      "storyEvents": [],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 26
+      }
     },
     {
       "id": "campbell",
@@ -1263,7 +1275,11 @@
           "chapterTitle": "The Ascendant Stirs",
           "event": "Says farewell. Waves his multitool at Josh: 'Don't go blowing all that new tech up before I get back.' Watches the Ascendant launch."
         }
-      ]
+      ],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 26
+      }
     },
     {
       "id": "linkenbach",
@@ -1418,7 +1434,11 @@
           "chapterTitle": "Ghosts in the Stars",
           "event": "When the Svixen fleet over Earth is visible: 'How many of these fights do we have to win before we see a sunrise on Earth that isn't through glass?' Chris: 'As many as it takes.' Robertson's expression becomes something sharper than a smile."
         }
-      ]
+      ],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 26
+      }
     },
     {
       "id": "blevins",
@@ -1477,7 +1497,11 @@
           "chapterTitle": "Hit and Run",
           "event": "His joke about Linkenbach's sister's wedding night is the first joke he has made since Miller died. Morgan's laugh at it breaks the tension that has been building across the crew for days."
         }
-      ]
+      ],
+      "deceasedAfter": {
+        "book": "transync",
+        "chapter": 26
+      }
     },
     {
       "id": "kat",
