@@ -874,7 +874,18 @@
         {
           "number": 18,
           "title": "Digging In",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch18/clearing_rubble.png",
+              "title": "Chapter 18 - Digging In",
+              "description": "The humans dig in with helping to clear the rubble in the hangar."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch18/airborn_morgan.png",
+              "title": "Chapter 18 - Digging In",
+              "description": "Chris pulls Morgan clear from falling debris right at the last second."
+            }
+          ]
         },
         {
           "number": 19,
