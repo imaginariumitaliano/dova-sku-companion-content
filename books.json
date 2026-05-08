@@ -937,7 +937,23 @@
         {
           "number": 21,
           "title": "System Checks",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/happy_greetings.png",
+              "title": "Chapter 21 - System Checks",
+              "description": "The envoy group returns to Lesfer."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/hangar_hangout.png",
+              "title": "Chapter 21 - System Checks",
+              "description": "Some of the crew relax after a long day of hard labor."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/opening_hangar.png",
+              "title": "Chapter 21 - System Checks",
+              "description": "Enough repairs have been completed to finally open the overhead hangar doors."
+            }
+          ]
         },
         {
           "number": 22,
