@@ -895,7 +895,23 @@
         {
           "number": 19,
           "title": "Envoys",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/seutors_capitol.png",
+              "title": "Chapter 19 - Envoys",
+              "description": "The group of envoys walk through the crowded city streets of the Maaket Capital."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/maaket_lab.png",
+              "title": "Chapter 19 - Envoys",
+              "description": "Chris finds Josh and Lemmon surrounded by Maaket scientists and Ankir dressed in a new Drake Scale prototype."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/ankirs_pledge.png",
+              "title": "Chapter 19 - Envoys",
+              "description": "Ankir tells Princess Cashy he wants to help the humans."
+            }
+          ]
         },
         {
           "number": 20,
