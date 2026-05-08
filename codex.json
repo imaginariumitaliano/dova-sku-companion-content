@@ -2199,7 +2199,7 @@
       "nicknames": [],
       "role": "Heir Apparent, Tual",
       "affiliation": "Maaket",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Princess_cashy.png",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Princess_cashy1.png",
       "bio": "Princess of Tual and heir apparent to the Maaket throne, gained her seat after the assassination of her parents (King Vergun and the Queen) by an unknown assailant who fled via Transync Station. White-furred, gold-adorned, slender and calculating. Wears a white dress and black cloak with gold embroidery. Sharp golden eyes that never stop calculating. Sister to Princess Nessa.",
       "books": [
         "Ascendant"
@@ -2225,6 +2225,16 @@
           "chapterTitle": "Envoys",
           "event": "When Chris's team returns to Tual to retrieve Josh, grants them an audience. Notes that merchants on Tual are already whispering Chris's name — some call him a desperate survivor, others a warbringer. Grants Ankir's request to join Chris's crew as a volunteer fighter. Bids farewell: 'Best of luck in your travels.'"
         }
+      ],
+      "versions": [
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 19
+          },
+          "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Princess_cashy.png",
+          "bio": "Princess of Tual and heir apparent to the Maaket throne, gained her seat after the assassination of her parents (King Vergun and the Queen) by an unknown assailant who fled via Transync Station. White-furred, gold-adorned, slender and calculating. Wears a white dress and black cloak with gold embroidery. Sharp golden eyes that never stop calculating. Sister to Princess Nessa."
+        }
       ]
     },
     {
@@ -2233,7 +2243,7 @@
       "nicknames": [],
       "role": "Princess, Tual",
       "affiliation": "Maaket",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Princess_nessa.png",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Princess_nessa1.png",
       "bio": "Younger sister to Princess Cashy of the Maaket species on Tual. Blue-grey furred, slightly smaller than her sister. Serves as companion and advisor to Cashy.",
       "books": [
         "Ascendant"
@@ -2250,6 +2260,16 @@
           },
           "chapterTitle": "Meeting Royalty",
           "event": "Present during Cashy's audience with the rescued crew. Serves as companion and advisor to her sister throughout the proceedings."
+        }
+      ],
+      "versions": [
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 19
+          },
+          "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Princess_nessa.png",
+          "bio": "Younger sister to Princess Cashy of the Maaket species on Tual. Blue-grey furred, slightly smaller than her sister. Serves as companion and advisor to Cashy."
         }
       ]
     },
