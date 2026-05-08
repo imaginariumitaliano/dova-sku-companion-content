@@ -916,7 +916,23 @@
         {
           "number": 20,
           "title": "Semula Breven",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/breven_on_bridge.png",
+              "title": "Chapter 20 - Semula Breven",
+              "description": "Breven receives a report on the failed conquest of Seutor."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/breven_gathering_fodder.png",
+              "title": "Chapter 20 - Semula Breven",
+              "description": "Breven diverts to gather additional Sveri Sku for fodder at Earth."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/discraced.png",
+              "title": "Chapter 20 - Semula Breven",
+              "description": "Semula Breven revisits his clan's discrace."
+            }
+          ]
         },
         {
           "number": 21,
