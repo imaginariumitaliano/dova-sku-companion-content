@@ -2259,7 +2259,7 @@
       "nicknames": [],
       "role": "Royal Guard / Warrior",
       "affiliation": "Maaket",
-      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Ankir.png",
+      "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Ankir1.png",
       "bio": "Black-furred Maaket warrior and Princess Cashy's head of military and court. Wears black and gold armor — sleeker than standard plate — with a red cloak and a blue cloth wrap at the waist, gold embellishment throughout. Lethal, stoic, and noble. His blade has grown dull with peace.",
       "books": [
         "Ascendant"
@@ -2324,6 +2324,16 @@
           },
           "chapterTitle": "Broken but Unbowed",
           "event": "Stands in the cargo hold, quiet and watchful. Fenrir presses his head against Ankir's gauntlet. Ankir goes still, then scratches Fenrir behind the ear with gentleness. Fenrir leans into it. Chris notes: Fenrir doesn't trust easily — that he trusts Ankir matters."
+        }
+      ],
+      "versions": [
+        {
+          "unlockAfter": {
+            "book": "ascendant",
+            "chapter": 19
+          },
+          "image": "https://raw.githubusercontent.com/imaginariumitaliano/dova-sku-companion-content/main/images/characters/Ankir.png",
+          "bio": "Black-furred Maaket warrior and Princess Cashy's head of military and court. Wears black and gold armor — sleeker than standard plate — with a red cloak and a blue cloth wrap at the waist, gold embellishment throughout. Lethal, stoic, and noble. His blade has grown dull with peace."
         }
       ]
     },
