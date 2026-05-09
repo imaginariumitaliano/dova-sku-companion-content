@@ -963,7 +963,23 @@
         {
           "number": 22,
           "title": "The Ascendant Stirs",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/full_reveal.png",
+              "title": "Chapter 22 - The Ascendant Stirs",
+              "description": "The hangar doors open to reveal the Ascendant in daylight."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/farewell.png",
+              "title": "Chapter 22 - The Ascendant Stirs",
+              "description": "The crew staying behind says their goodbyes."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/ascending.png",
+              "title": "Chapter 22 - The Ascendant Stirs",
+              "description": "The Ascendant lifts off from the spaceport."
+            }
+          ]
         },
         {
           "number": 23,
