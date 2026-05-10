@@ -967,7 +967,7 @@
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/full_reveal.png",
               "title": "Chapter 22 - The Ascendant Stirs",
-              "description": "The hangar doors open to reveal the Ascendant in daylight."
+              "description": "The hangar doors open to reveal the rear of the Ascendant in daylight."
             },
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/farewell.png",
@@ -988,7 +988,7 @@
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/into_the_black.png",
               "title": "Chapter 23 - Fire in the Void",
-              "description": "The crew breaks free from Seutor's gravits and finally heads toward Earth."
+              "description": "The crew breaks free from Seutor's gravity and finally heads toward Earth."
             },
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/introducing_liam.png",
@@ -1040,12 +1040,12 @@
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/injured_miller.png",
               "title": "Chapter 25 - Not Prey",
-              "description": "Fenrir guards the injured Miller as the battle in the corridors rages on, and Morgan hurries to set up the Maaket shield emmitter."
+              "description": "Fenrir guards the injured Miller as the battle in the corridor rages on. Morgan hurries to set up the Maaket shield emmitter so she can help."
             },
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/execution.png",
               "title": "Chapter 25 - Not Prey",
-              "description": "As Morgan in the medbay confirms Miller's death, Chris executes the Svixen commander on the bridge."
+              "description": "When Morgan in the medbay confirms Miller's death over comms, Chris executes the Svixen commander on the bridge."
             }
           ]
         },
