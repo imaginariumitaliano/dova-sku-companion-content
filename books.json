@@ -1073,7 +1073,28 @@
         {
           "number": 27,
           "title": "Heatline",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/approaching_patchave.png",
+              "title": "Chapter 27 - Heatline",
+              "description": "Looking for a place to receive repairs, the Ascendant approaches a planet designated: Patchave."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/cruillum_intros.png",
+              "title": "Chapter 27 - Heatline",
+              "description": "Kess, local leader of the Cruillum people in Heatline, prepares to greet the new arrivals."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/ithri_sings.png",
+              "title": "Chapter 27 - Heatline",
+              "description": "Ithri and the White Hands sing to the Ascendant's harmonic resonator."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/heatline.png",
+              "title": "Chapter 27 - Heatline",
+              "description": "In the setting sun of the first day on Patchave, Kess of the Cruillum tells of life in Heatline."
+            }
+          ]
         },
         {
           "number": 28,
