@@ -1031,7 +1031,23 @@
         {
           "number": 25,
           "title": "Not Prey",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/breach_shield.png",
+              "title": "Chapter 25 - Not Prey",
+              "description": "Fenrir lunges toward the breach shield the Svixen are pushing through the corridor."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/injured_miller.png",
+              "title": "Chapter 25 - Not Prey",
+              "description": "Fenrir guards the injured Miller as the battle in the corridors rages on, and Morgan checks his injuries."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/execution.png",
+              "title": "Chapter 25 - Not Prey",
+              "description": "As Morgan in the medbay confirms Miller's death, Chris executes the Svixen commander on the bridge."
+            }
+          ]
         },
         {
           "number": 26,
