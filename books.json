@@ -984,7 +984,28 @@
         {
           "number": 23,
           "title": "Fire in the Void",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/into_the_black.png",
+              "title": "Chapter 23 - Fire in the Void",
+              "description": "The crew breaks free from Seutor's gravits and finally heads toward Earth."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/introducing_liam.png",
+              "title": "Chapter 23 - Fire in the Void",
+              "description": "Chris reveals the secret of Liam to Ankir, Tivay, and Posis."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/svixen_contact.png",
+              "title": "Chapter 23 - Fire in the Void",
+              "description": "A Svixen carrier appears out of nowhere and prepares to fire on the Ascendant."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/dispersed.png",
+              "title": "Chapter 23 - Fire in the Void",
+              "description": "The first shot from the enemy is dispersed by the new Maaket inverter."
+            }
+          ]
         },
         {
           "number": 24,
