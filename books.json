@@ -1052,7 +1052,23 @@
         {
           "number": 26,
           "title": "Broken but Unbowed",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/remorse.png",
+              "title": "Chapter 26 - Broken but Unbowed",
+              "description": "After the jump, Chris stands at the center of the damaged bridge, Fenrir at his feet, as the crew begins emergency repairs around him."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/memorial.png",
+              "title": "Chapter 26 - Broken but Unbowed",
+              "description": "One by one the crew leave something for Miller's memorial."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/sendoff.png",
+              "title": "Chapter 26 - Broken but Unbowed",
+              "description": "Chris releases Miller's body into the void."
+            }
+          ]
         },
         {
           "number": 27,
