@@ -1010,7 +1010,23 @@
         {
           "number": 24,
           "title": "Close Quarters Combat",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/boarding_party.png",
+              "title": "Chapter 24 - Close Quarters Combat",
+              "description": "The first group of Svixen break through, but are countered immediately."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/hidden_ankir.png",
+              "title": "Chapter 24 - Close Quarters Combat",
+              "description": "Ankir displays his proficiency with the Drake Scale's cloaking feature, saving Morgan in the process."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/cats_and_dogs.png",
+              "title": "Chapter 24 - Close Quarters Combat",
+              "description": "Ankir and Fenrir share a moment after the skirmish."
+            }
+          ]
         },
         {
           "number": 25,
