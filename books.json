@@ -1099,7 +1099,28 @@
         {
           "number": 28,
           "title": "Heat Kept, Water Spent",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/coolhouse.png",
+              "title": "Chapter 28 - Heat Kept, Water Spent",
+              "description": "Ithri continues to work tirelessly on the harmonic resonator."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/drink_up.png",
+              "title": "Chapter 28 - Heat Kept, Water Spent",
+              "description": "Morgan hands out water, regardless of whether you want it or not."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/supply_run.png",
+              "title": "Chapter 28 - Heat Kept, Water Spent",
+              "description": "A small team prepares to make a supply run through the Transync portal back to Seutor."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/leaving_heatline.png",
+              "title": "Chapter 28 - Heat Kept, Water Spent",
+              "description": "Kess and Ithri see off the Ascendant."
+            }
+          ]
         },
         {
           "number": 29,
