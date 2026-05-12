@@ -1125,7 +1125,23 @@
         {
           "number": 29,
           "title": "Hit and Run",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/another_contact.png",
+              "title": "Chapter 29 - Hit and Run",
+              "description": "The Svixen cruiser had been following them the whole time."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/bite_backl.png",
+              "title": "Chapter 29 - Hit and Run",
+              "description": "Linkenbach lands the perfect shot. Time to leave."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/jumping_away.png",
+              "title": "Chapter 29 - Hit and Run",
+              "description": "The Ascendant and its crew jump away while they have an opening."
+            }
+          ]
         },
         {
           "number": 30,
