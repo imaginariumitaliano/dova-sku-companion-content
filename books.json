@@ -1151,7 +1151,28 @@
         {
           "number": 30,
           "title": "Ghosts in the Stars",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/seeing_earth.png",
+              "title": "Chapter 30 - Ghosts in the Stars",
+              "description": "The crew is ecstatic to see Earth again, distant as it may be."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/invasion.png",
+              "title": "Chapter 30 - Ghosts in the Stars",
+              "description": "When they use the ship's sensors to zoom in on Earth, the result is devastating."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/body_reveal.png",
+              "title": "Chapter 30 - Ghosts in the Stars",
+              "description": "Josh reveals the project he's been working on, and suggests it could be the advantage they need."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/we_wait.png",
+              "title": "Chapter 30 - Ghosts in the Stars",
+              "description": "The crew decides not to rush into action, they need to go into the next battle as prepared as can be."
+            }
+          ]
         },
         {
           "number": 31,
