@@ -1177,7 +1177,18 @@
         {
           "number": 31,
           "title": "Epilogue",
-          "images": []
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch31/lescian_watches.png",
+              "title": "Chapter 31 - Epilogue",
+              "description": "Praetor Lescian Kamantu consideres his first move as he watches the Svixen invasion of Earth and the surprise that he didn't expect."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch31/watchful_eye.png",
+              "title": "Chapter 31 - Epilogue",
+              "description": "The Aku'Ra vessel The Watchful Eye moves through deep space toward the Sol System."
+            }
+          ]
         }
       ]
     }
