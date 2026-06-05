@@ -1222,7 +1222,7 @@
       "title": "Unity",
       "subtitle": "The Dova Sku Series · Book 3",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/cover.png",
-      "locked": false,
+      "locked": true,
       "chapters": [
         {
           "number": 0,
