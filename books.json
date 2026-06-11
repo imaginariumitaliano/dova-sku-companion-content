@@ -3,7 +3,7 @@
     {
       "id": "transync",
       "title": "Transync",
-      "subtitle": "The Dova Sku Series · Book 1",
+      "subtitle": "The Dova Sku Series \u00b7 Book 1",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/cover.png",
       "chapters": [
         {
@@ -56,7 +56,7 @@
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch03/catora_discovery.png",
               "title": "Chapter 3 - Discovery",
-              "description": "The first visual confirmation of the habitable world Catora — humanity's long-awaited discovery of a new home beyond Earth."
+              "description": "The first visual confirmation of the habitable world Catora \u2014 humanity's long-awaited discovery of a new home beyond Earth."
             }
           ]
         },
@@ -510,7 +510,7 @@
     {
       "id": "ascendant",
       "title": "Ascendant",
-      "subtitle": "The Dova Sku Series · Book 2",
+      "subtitle": "The Dova Sku Series \u00b7 Book 2",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/cover.png",
       "chapters": [
         {
@@ -747,7 +747,7 @@
         },
         {
           "number": 12,
-          "title": "Seutor's Flora… and Fauna",
+          "title": "Seutor's Flora\u2026 and Fauna",
           "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/seutor_glows.png",
@@ -846,7 +846,7 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/sword_clash.png",
               "title": "Chapter 15 - New Toy",
               "description": "Chris and Riveen clash."
-            }, 
+            },
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_defeat.png",
               "title": "Chapter 15 - New Toy",
@@ -1220,7 +1220,7 @@
     {
       "id": "Unity",
       "title": "Unity",
-      "subtitle": "The Dova Sku Series · Book 3",
+      "subtitle": "The Dova Sku Series \u00b7 Book 3",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/cover.png",
       "locked": true,
       "chapters": [
@@ -1331,36 +1331,170 @@
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch04/training_liam.png",
               "title": "Chapter 4 - The Transfer",
               "description": "Liam tests, and shows off, what his new body can do."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch04/escape_pods.png",
+              "title": "Chapter 4 - The Transfer",
+              "description": "Looking out from the escape pod bay at the broken Earth below."
             }
           ]
         },
-        { "number": 5,  "title": "Chapter 5",  "images": [] },
-        { "number": 6,  "title": "Chapter 6",  "images": [] },
-        { "number": 7,  "title": "Chapter 7",  "images": [] },
-        { "number": 8,  "title": "Chapter 8",  "images": [] },
-        { "number": 9,  "title": "Chapter 9",  "images": [] },
-        { "number": 10, "title": "Chapter 10", "images": [] },
-        { "number": 11, "title": "Chapter 11", "images": [] },
-        { "number": 12, "title": "Chapter 12", "images": [] },
-        { "number": 13, "title": "Chapter 13", "images": [] },
-        { "number": 14, "title": "Chapter 14", "images": [] },
-        { "number": 15, "title": "Chapter 15", "images": [] },
-        { "number": 16, "title": "Chapter 16", "images": [] },
-        { "number": 17, "title": "Chapter 17", "images": [] },
-        { "number": 18, "title": "Chapter 18", "images": [] },
-        { "number": 19, "title": "Chapter 19", "images": [] },
-        { "number": 20, "title": "Chapter 20", "images": [] },
-        { "number": 21, "title": "Chapter 21", "images": [] },
-        { "number": 22, "title": "Chapter 22", "images": [] },
-        { "number": 23, "title": "Chapter 23", "images": [] },
-        { "number": 24, "title": "Chapter 24", "images": [] },
-        { "number": 25, "title": "Chapter 25", "images": [] },
-        { "number": 26, "title": "Chapter 26", "images": [] },
-        { "number": 27, "title": "Chapter 27", "images": [] },
-        { "number": 28, "title": "Chapter 28", "images": [] },
-        { "number": 29, "title": "Chapter 29", "images": [] },
-        { "number": 30, "title": "Chapter 30", "images": [] },
-        { "number": 31, "title": "Epilogue",   "images": [] }
+        {
+          "number": 5,
+          "title": "The Descent",
+          "images": [
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/dropping_pods.png",
+              "title": "Chapter 5 - The Descent",
+              "description": "The team drops in through a enemy filled orbit. Hoping to avoid detection."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/pods_burning_atmo.png",
+              "title": "Chapter 5 - The Descent",
+              "description": "The escape pods hit turbulance in the atmosphere."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/exiting_pods.png",
+              "title": "Chapter 5 - The Descent",
+              "description": "The team steps out onto the ground of Earth for the first time since leaving."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/stream_pause.png",
+              "title": "Chapter 5 - The Descent",
+              "description": "Taking a break on the ling hike to Gbbbbbbeklitepe."
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Chapter 6",
+          "images": []
+        },
+        {
+          "number": 7,
+          "title": "Chapter 7",
+          "images": []
+        },
+        {
+          "number": 8,
+          "title": "Chapter 8",
+          "images": []
+        },
+        {
+          "number": 9,
+          "title": "Chapter 9",
+          "images": []
+        },
+        {
+          "number": 10,
+          "title": "Chapter 10",
+          "images": []
+        },
+        {
+          "number": 11,
+          "title": "Chapter 11",
+          "images": []
+        },
+        {
+          "number": 12,
+          "title": "Chapter 12",
+          "images": []
+        },
+        {
+          "number": 13,
+          "title": "Chapter 13",
+          "images": []
+        },
+        {
+          "number": 14,
+          "title": "Chapter 14",
+          "images": []
+        },
+        {
+          "number": 15,
+          "title": "Chapter 15",
+          "images": []
+        },
+        {
+          "number": 16,
+          "title": "Chapter 16",
+          "images": []
+        },
+        {
+          "number": 17,
+          "title": "Chapter 17",
+          "images": []
+        },
+        {
+          "number": 18,
+          "title": "Chapter 18",
+          "images": []
+        },
+        {
+          "number": 19,
+          "title": "Chapter 19",
+          "images": []
+        },
+        {
+          "number": 20,
+          "title": "Chapter 20",
+          "images": []
+        },
+        {
+          "number": 21,
+          "title": "Chapter 21",
+          "images": []
+        },
+        {
+          "number": 22,
+          "title": "Chapter 22",
+          "images": []
+        },
+        {
+          "number": 23,
+          "title": "Chapter 23",
+          "images": []
+        },
+        {
+          "number": 24,
+          "title": "Chapter 24",
+          "images": []
+        },
+        {
+          "number": 25,
+          "title": "Chapter 25",
+          "images": []
+        },
+        {
+          "number": 26,
+          "title": "Chapter 26",
+          "images": []
+        },
+        {
+          "number": 27,
+          "title": "Chapter 27",
+          "images": []
+        },
+        {
+          "number": 28,
+          "title": "Chapter 28",
+          "images": []
+        },
+        {
+          "number": 29,
+          "title": "Chapter 29",
+          "images": []
+        },
+        {
+          "number": 30,
+          "title": "Chapter 30",
+          "images": []
+        },
+        {
+          "number": 31,
+          "title": "Epilogue",
+          "images": []
+        }
       ]
     }
   ]
