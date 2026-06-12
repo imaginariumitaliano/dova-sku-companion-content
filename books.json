@@ -3,7 +3,7 @@
     {
       "id": "transync",
       "title": "Transync",
-      "subtitle": "The Dova Sku Series \u00b7 Book 1",
+      "subtitle": "The Dova Sku Series · Book 1",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/cover.png",
       "chapters": [
         {
@@ -56,7 +56,7 @@
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch03/catora_discovery.png",
               "title": "Chapter 3 - Discovery",
-              "description": "The first visual confirmation of the habitable world Catora \u2014 humanity's long-awaited discovery of a new home beyond Earth."
+              "description": "The first visual confirmation of the habitable world Catora — humanity's long-awaited discovery of a new home beyond Earth."
             }
           ]
         },
@@ -510,7 +510,7 @@
     {
       "id": "ascendant",
       "title": "Ascendant",
-      "subtitle": "The Dova Sku Series \u00b7 Book 2",
+      "subtitle": "The Dova Sku Series · Book 2",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/cover.png",
       "chapters": [
         {
@@ -747,7 +747,7 @@
         },
         {
           "number": 12,
-          "title": "Seutor's Flora\u2026 and Fauna",
+          "title": "Seutor's Flora… and Fauna",
           "images": [
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/seutor_glows.png",
@@ -1220,7 +1220,7 @@
     {
       "id": "Unity",
       "title": "Unity",
-      "subtitle": "The Dova Sku Series \u00b7 Book 3",
+      "subtitle": "The Dova Sku Series · Book 3",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/cover.png",
       "chapters": [
         {
@@ -1360,12 +1360,12 @@
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/stream_pause.png",
               "title": "Chapter 5 - The Descent",
-              "description": "Taking a break on the long hike to Gbbbbbbeklitepe."
+              "description": "Taking a break on the long hike to Göbeklitepe."
             },
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/meeting_locals.png",
               "title": "Chapter 5 - The Descent",
-              "description": "The team meets up with a group of survivors at the lower Gbbbbbbeklitepe dig site."
+              "description": "The team meets up with a group of survivors at the lower Göbeklitepe dig site."
             }
           ]
         },
