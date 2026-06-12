@@ -1222,7 +1222,6 @@
       "title": "Unity",
       "subtitle": "The Dova Sku Series \u00b7 Book 3",
       "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/cover.png",
-      "locked": true,
       "chapters": [
         {
           "number": 0,
@@ -1361,7 +1360,12 @@
             {
               "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/stream_pause.png",
               "title": "Chapter 5 - The Descent",
-              "description": "Taking a break on the ling hike to Gbbbbbbeklitepe."
+              "description": "Taking a break on the long hike to Gbbbbbbeklitepe."
+            },
+            {
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/meeting_locals.png",
+              "title": "Chapter 5 - The Descent",
+              "description": "The team meets up with a group of survivors at the lower Gbbbbbbeklitepe dig site."
             }
           ]
         },
