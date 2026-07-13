@@ -1218,10 +1218,10 @@
       ]
     },
     {
-      "id": "Unity",
-      "title": "Unity",
+      "id": "skrema",
+      "title": "Skrema",
       "subtitle": "The Dova Sku Series · Book 3",
-      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/cover.png",
+      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/cover.png",
       "locked": true,
       "chapters": [
         {
@@ -1229,12 +1229,12 @@
           "title": "Prologue",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch00/breven_battle_display.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch00/breven_battle_display.png",
               "title": "Prologue",
               "description": "Breven looks over his forces surrounding Earth."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch00/brevens_overwatch.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch00/brevens_overwatch.png",
               "title": "Prologue",
               "description": "Breven's ship, the Ull'Kareth controls the battlespace."
             }
@@ -1245,17 +1245,17 @@
           "title": "The Waiting",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch01/earths_destruction.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/earths_destruction.png",
               "title": "Chapter 1 - The Waiting",
               "description": "The crew of the Ascendant watch Earth burn, and can only wait."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch01/prepping_body.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/prepping_body.png",
               "title": "Chapter 1 - The Waiting",
               "description": "Josh prepares Liam's body for the transfer."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch01/strange_message.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/strange_message.png",
               "title": "Chapter 1 - The Waiting",
               "description": "Liam picks up a signal that carries a hidden message."
             }
@@ -1266,17 +1266,17 @@
           "title": "Echoes in the Dark",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch02/waiting_to_meet.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/waiting_to_meet.png",
               "title": "Chapter 2 - Echoes in the Dark",
               "description": "Chris and Liam discuss moving forward while they wait for the first meeting of a new species."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch02/meeting_akura.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/meeting_akura.png",
               "title": "Chapter 2 - Echoes in the Dark",
               "description": "The Ascendant is greeted by a sleek-hulled Aku'Ra ship."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch02/meeting_kamantu.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/meeting_kamantu.png",
               "title": "Chapter 2 - Echoes in the Dark",
               "description": "Praetor Lescian Kamantu steps onto the Ascendant to a waiting Chris and Josh."
             }
@@ -1287,22 +1287,22 @@
           "title": "The Watchful Eye",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch03/checking_escape_pods.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/checking_escape_pods.png",
               "title": "Chapter 3 - The Watchful Eye",
               "description": "Chris checks out the escape pods accompanied by Fenrir."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch03/walking_watchful_eye.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/walking_watchful_eye.png",
               "title": "Chapter 3 - The Watchful Eye",
               "description": "Chris and Liam get a tour of the Aku'Ra ship, The Watchful Eye."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch03/waking_akura.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/waking_akura.png",
               "title": "Chapter 3 - The Watchful Eye",
               "description": "Kamantu begins to wake his crew."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch03/josh_prepares_body.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/josh_prepares_body.png",
               "title": "Chapter 3 - The Watchful Eye",
               "description": "Josh prepares Liam's body for the transfer."
             }
@@ -1313,27 +1313,27 @@
           "title": "The Transfer",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch04/liams_transfer.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/liams_transfer.png",
               "title": "Chapter 4 - The Transfer",
               "description": "Chris is prepared for the transfer while Liam's new body awaits."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch04/first_handshake.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/first_handshake.png",
               "title": "Chapter 4 - The Transfer",
               "description": "Chris and Liam share their first handshake."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch04/fenrir_approves.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/fenrir_approves.png",
               "title": "Chapter 4 - The Transfer",
               "description": "Liam introduces himself to Fenrir, and the tarlon approves."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch04/training_liam.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/training_liam.png",
               "title": "Chapter 4 - The Transfer",
               "description": "Liam tests, and shows off, what his new body can do."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch04/escape_pods.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/escape_pods.png",
               "title": "Chapter 4 - The Transfer",
               "description": "Looking out from the escape pod bay at the broken Earth below."
             }
@@ -1344,27 +1344,27 @@
           "title": "The Descent",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/dropping_pods.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/dropping_pods.png",
               "title": "Chapter 5 - The Descent",
               "description": "The team drops in through a enemy filled orbit. Hoping to avoid detection."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/pods_burning_atmo.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/pods_burning_atmo.png",
               "title": "Chapter 5 - The Descent",
               "description": "The escape pods hit turbulance in the atmosphere."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/exiting_pods.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/exiting_pods.png",
               "title": "Chapter 5 - The Descent",
               "description": "The team steps out onto the ground of Earth for the first time since leaving."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/stream_pause.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/stream_pause.png",
               "title": "Chapter 5 - The Descent",
               "description": "Taking a break on the long hike to Göbeklitepe."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/unity/ch05/meeting_locals.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/meeting_locals.png",
               "title": "Chapter 5 - The Descent",
               "description": "The team meets up with a group of survivors at the lower Göbeklitepe dig site."
             }
