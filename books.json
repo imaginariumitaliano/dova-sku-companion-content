@@ -3,17 +3,18 @@
     {
       "id": "transync",
       "title": "Transync",
-      "subtitle": "The Dova Sku Series · Book 1",
-      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/cover.png",
+      "subtitle": "The Dova Sku Series \u00b7 Book 1",
+      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/cover.jpg",
       "chapters": [
         {
           "number": 0,
           "title": "Prologue",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch00/prologue_destroyed_fob.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch00/prologue_destroyed_fob.jpg",
               "title": "Prologue",
-              "description": "Remnants of what remains. How did this happen?"
+              "description": "Remnants of what remains. How did this happen?",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch00/prologue_destroyed_fob_thumb.jpg"
             }
           ]
         },
@@ -22,12 +23,13 @@
           "title": "Blitz",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch01/chris-in-training-camp.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch01/chris-in-training-camp.jpg",
               "title": "Chapter 1 - Blitz",
-              "description": "Chris engaged in simulated battle scenarios during the military training for the Light Skipper's crew."
+              "description": "Chris engaged in simulated battle scenarios during the military training for the Light Skipper's crew.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch01/chris-in-training-camp_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch01/locked_up.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch01/locked_up.jpg",
               "title": "Chapter 1 - Blitz",
               "description": "Chris has a good laugh at Miller and Vasquez's expense."
             }
@@ -38,12 +40,13 @@
           "title": "Family",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch02/chris-josh-at-table.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch02/chris-josh-at-table.jpg",
               "title": "Chapter 2 - Family",
-              "description": "Chris and his brother Josh enjoying time together after Chris returns from a long deployment."
+              "description": "Chris and his brother Josh enjoying time together after Chris returns from a long deployment.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch02/chris-josh-at-table_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch02/josh_tinkers.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch02/josh_tinkers.jpg",
               "title": "Chapter 2 - Family",
               "description": "Chris's twin brother, Josh, tinkers with a project in the garage."
             }
@@ -54,9 +57,10 @@
           "title": "Discovery",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch03/catora_discovery.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch03/catora_discovery.jpg",
               "title": "Chapter 3 - Discovery",
-              "description": "The first visual confirmation of the habitable world Catora — humanity's long-awaited discovery of a new home beyond Earth."
+              "description": "The first visual confirmation of the habitable world Catora \u2014 humanity's long-awaited discovery of a new home beyond Earth.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch03/catora_discovery_thumb.jpg"
             }
           ]
         },
@@ -65,12 +69,13 @@
           "title": "The Long Sleep",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch04/light_skipper_deployment.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch04/light_skipper_deployment.jpg",
               "title": "Chapter 4 - The Long Sleep",
-              "description": "The Light Skipper being prepared for deployment."
+              "description": "The Light Skipper being prepared for deployment.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch04/light_skipper_deployment_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch04/cryo_pods.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch04/cryo_pods.jpg",
               "title": "Chapter 4 - The Long Sleep",
               "description": "The trip would be spent in cryogenic sleep pods for 2 years."
             }
@@ -81,12 +86,13 @@
           "title": "Arrival",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch05/chris_in_hall.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch05/chris_in_hall.jpg",
               "title": "Chapter 5 - Arrival",
-              "description": "It would take a while for Chris to get used to these new uniforms."
+              "description": "It would take a while for Chris to get used to these new uniforms.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch05/chris_in_hall_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch05/catora_from_bridge.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch05/catora_from_bridge.jpg",
               "title": "Chapter 5 - Arrival",
               "description": "The view reminded Chris of Earth, but not quite."
             }
@@ -97,12 +103,13 @@
           "title": "Planetfall",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/lola_planetfall.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/lola_planetfall.jpg",
               "title": "Chapter 6 - Planetfall",
-              "description": "Weightless for the first time."
+              "description": "Weightless for the first time.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/lola_planetfall_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/hitting_atmo.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/hitting_atmo.jpg",
               "title": "Chapter 6 - Planetfall",
               "description": "The dropship hits atmosphere and the ride gets bumpy."
             },
@@ -112,7 +119,7 @@
               "description": "First steps onto an alien world."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/mud_frog.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch06/mud_frog.jpg",
               "title": "Chapter 6 - Planetfall",
               "description": "Your first alien creature, a Mud Frog!"
             }
@@ -123,12 +130,13 @@
           "title": "New Frontier",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch07/debriefing.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch07/debriefing.jpg",
               "title": "Chapter 7 - New Frontier",
-              "description": "Mission debriefing after first planetfall."
+              "description": "Mission debriefing after first planetfall.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch07/debriefing_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch07/utv_fun.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch07/utv_fun.jpg",
               "title": "Chapter 7 - New Frontier",
               "description": "Nunez gets a little too familiar with the UTV."
             }
@@ -139,12 +147,13 @@
           "title": "Forward Operating Base",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch08/surprise_attack.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch08/surprise_attack.jpg",
               "title": "Chapter 8 - Forward Operating Base",
-              "description": "Chung is surprised by one of the native animals."
+              "description": "Chung is surprised by one of the native animals.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch08/surprise_attack_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch08/landed_lightskipper.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch08/landed_lightskipper.jpg",
               "title": "Chapter 8 - Forward Operating Base",
               "description": "The Light Skipper transitions to the surface."
             }
@@ -155,17 +164,18 @@
           "title": "First Month Down",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch09/lunch_conversation1.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch09/lunch_conversation1.jpg",
               "title": "Chapter 9 - First Month Down",
-              "description": "Kat interrupts Chris and Josh's lunch."
+              "description": "Kat interrupts Chris and Josh's lunch.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch09/lunch_conversation1_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch09/skamp.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch09/skamp.jpg",
               "title": "Chapter 9 - First Month Down",
               "description": "Ah, the Skamp. Not so scary after all."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch09/lakeside_defense.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch09/lakeside_defense.jpg",
               "title": "Chapter 9 - First Month Down",
               "description": "A small pack of Laredo Dragons corner the Falcon Team."
             }
@@ -176,12 +186,13 @@
           "title": "Not The First",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch10/rock_pile.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch10/rock_pile.jpg",
               "title": "Chapter 10 - Not The First",
-              "description": "The source of the anomaly."
+              "description": "The source of the anomaly.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch10/rock_pile_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch10/cuneiform.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch10/cuneiform.jpg",
               "title": "Chapter 10 - Not The First",
               "description": "Analysing the familiar script etched into the obelisk."
             }
@@ -192,12 +203,13 @@
           "title": "Research Base Alpha",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch11/cave_obelisk.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch11/cave_obelisk.jpg",
               "title": "Chapter 11 - Research Base Alpha",
-              "description": "Everything looks more incredible in the light."
+              "description": "Everything looks more incredible in the light.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch11/cave_obelisk_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch11/debrief.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch11/debrief.jpg",
               "title": "Chapter 11 - Research Base Alpha",
               "description": "Chris debriefs the captain and the department leads about the obelisk discovery."
             }
@@ -208,12 +220,13 @@
           "title": "Even Bigger",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch12/forest_obelisk.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch12/forest_obelisk.jpg",
               "title": "Chapter 12 - Even Bigger",
-              "description": "The second anomaly turns out to be more than they imagined."
+              "description": "The second anomaly turns out to be more than they imagined.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch12/forest_obelisk_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch12/first_garello.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch12/first_garello.jpg",
               "title": "Chapter 12 - Even Bigger",
               "description": "The monstrosity was more akin to the great dinosaurs of Earth than to anything else he had ever seen."
             }
@@ -224,12 +237,13 @@
           "title": "Recovery",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch13/injured_chris.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch13/injured_chris.jpg",
               "title": "Chapter 13 - Recovery",
-              "description": "Chris's subconscious mind flashed to an image of the broken soldier bleeding out inside the obelisk."
+              "description": "Chris's subconscious mind flashed to an image of the broken soldier bleeding out inside the obelisk.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch13/injured_chris_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch13/chris_medbay.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch13/chris_medbay.jpg",
               "title": "Chapter 13 - Recovery",
               "description": "Walking up in the medbay."
             }
@@ -240,12 +254,13 @@
           "title": "Back At It",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch14/cybernetic_chris1.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch14/cybernetic_chris1.jpg",
               "title": "Chapter 14 - Back At It",
-              "description": "Chris tries to move forward with his recovery."
+              "description": "Chris tries to move forward with his recovery.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch14/cybernetic_chris1_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch14/drake_reveal.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch14/drake_reveal.jpg",
               "title": "Chapter 14 - Back At It",
               "description": "Josh reveals his surprise."
             }
@@ -256,17 +271,18 @@
           "title": "Liam's Knowledge",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/alpha_base.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/alpha_base.jpg",
               "title": "Chapter 15 - Liam's Knowledge",
-              "description": "Overlooking the changes to Research Base Alpha."
+              "description": "Overlooking the changes to Research Base Alpha.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/alpha_base_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/bravo_base.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/bravo_base.jpg",
               "title": "Chapter 15 - Liam's Knowledge",
               "description": "Checking in on the changes to Research Base Bravo."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/tarlon_encounter.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch15/tarlon_encounter.jpg",
               "title": "Chapter 15 - Liam's Knowledge",
               "description": "A lone Tarlon corners a group of crew members."
             }
@@ -277,17 +293,18 @@
           "title": "The Millennium War",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch16/akura_first.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch16/akura_first.jpg",
               "title": "Chapter 16 - The Millennium War",
-              "description": "The Aku'Ra species' first contact with outsiders."
+              "description": "The Aku'Ra species' first contact with outsiders.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch16/akura_first_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch16/akura_runner.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch16/akura_runner.jpg",
               "title": "Chapter 16 - The Millennium War",
               "description": "Optio Turas sprinting through the city park. 459th Annual of the war."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch16/praetor_turfish.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch16/praetor_turfish.jpg",
               "title": "Chapter 16 - The Millennium War",
               "description": "Praetor Turfish is prepared for his final battle. One way or another, this war ends today."
             }
@@ -298,12 +315,13 @@
           "title": "Ruins",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch17/loading_lola.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch17/loading_lola.jpg",
               "title": "Chapter 17 - Ruins",
-              "description": "Chris and his team prepare for another expedition."
+              "description": "Chris and his team prepare for another expedition.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch17/loading_lola_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch17/cave_ruins.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch17/cave_ruins.jpg",
               "title": "Chapter 17 - Ruins",
               "description": "Schumacher finds a relic from the past Sepu civilization."
             }
@@ -314,12 +332,13 @@
           "title": "Conspiracy Theory",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch18/uplifting_humans.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch18/uplifting_humans.jpg",
               "title": "Chapter 18 - Conspiracy Theory",
-              "description": "Liam explains Earth's forgotten past."
+              "description": "Liam explains Earth's forgotten past.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch18/uplifting_humans_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch18/designing_liams_avatar.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch18/designing_liams_avatar.jpg",
               "title": "Chapter 18 - Conspiracy Theory",
               "description": "Chris and Liam design Liam's new avatar."
             }
@@ -330,12 +349,13 @@
           "title": "Captured Energy",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch19/initiating_rba.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch19/initiating_rba.jpg",
               "title": "Chapter 19 - Captured Energy",
-              "description": "Preparing to activate the Sepu power station."
+              "description": "Preparing to activate the Sepu power station.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch19/initiating_rba_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch19/fapu_fight.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch19/fapu_fight.jpg",
               "title": "Chapter 19 - Captured Energy",
               "description": "Chris and his team encounter a Tarlon hunt for a baby Fapu."
             }
@@ -346,12 +366,13 @@
           "title": "Unwanted Surprise",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch20/regulas_appearance.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch20/regulas_appearance.jpg",
               "title": "Chapter 20 - Unwanted Surprise",
-              "description": "The appearance of the enemy."
+              "description": "The appearance of the enemy.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch20/regulas_appearance_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch20/svixen_soldier.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch20/svixen_soldier.jpg",
               "title": "Chapter 20 - Unwanted Surprise",
               "description": "That's a Svixen?"
             }
@@ -362,12 +383,13 @@
           "title": "Unexpected Friendship",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch21/cavebound.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch21/cavebound.jpg",
               "title": "Chapter 21 - Unexpected Friendship",
-              "description": "Hiding out from the Svixen in a cave at an abandoned mine."
+              "description": "Hiding out from the Svixen in a cave at an abandoned mine.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch21/cavebound_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch21/new_friends.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch21/new_friends.jpg",
               "title": "Chapter 21 - Unexpected Friendship",
               "description": "Chris is approached by an unexpected visitor."
             }
@@ -378,17 +400,18 @@
           "title": "Timing is Everything",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/incoming_call.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/incoming_call.jpg",
               "title": "Chapter 22 - Timing is Everything",
-              "description": "Finally, contact from the Light Skipper."
+              "description": "Finally, contact from the Light Skipper.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/incoming_call_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/leaving_cave.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/leaving_cave.jpg",
               "title": "Chapter 22 - Timing is Everything",
               "description": "The cavebound team leaves to meet up with the Light Skipper."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/bridge_view.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch22/bridge_view.jpg",
               "title": "Chapter 22 - Timing is Everything",
               "description": "Now that the crew is back together, they prepare to leave the Galus system."
             }
@@ -399,12 +422,13 @@
           "title": "Redirected",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch23/space_encounter.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch23/space_encounter.jpg",
               "title": "Chapter 23 - Redirected",
-              "description": "The Light Skipper is struck and the Svixen Regulas Class ship appears out of nowhere."
+              "description": "The Light Skipper is struck and the Svixen Regulas Class ship appears out of nowhere.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch23/space_encounter_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch23/team_prep.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch23/team_prep.jpg",
               "title": "Chapter 23 - Redirected",
               "description": "The Falcon's prepare for battle and to flee the Light Skipper."
             }
@@ -415,17 +439,18 @@
           "title": "Retreat",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/falling_lightskipper.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/falling_lightskipper.jpg",
               "title": "Chapter 24 - Retreat",
-              "description": "The Light Skipper is out of control and falling back to Catora."
+              "description": "The Light Skipper is out of control and falling back to Catora.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/falling_lightskipper_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/crashed_miner.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/crashed_miner.jpg",
               "title": "Chapter 24 - Retreat",
               "description": "The mining vessel Chris was on is now a crash site in the forest."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/ambush.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch24/ambush.jpg",
               "title": "Chapter 24 - Retreat",
               "description": "Davis's team is ambushed in the forest by a small pack of Sveri Sku."
             }
@@ -436,17 +461,18 @@
           "title": "Skrema",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/crashed_lola.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/crashed_lola.jpg",
               "title": "Chapter 25 - Skrema",
-              "description": "Our second vehicle crash in as many hours."
+              "description": "Our second vehicle crash in as many hours.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/crashed_lola_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/sverisku_attack.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/sverisku_attack.jpg",
               "title": "Chapter 25 - Skrema",
               "description": "The Svixen are no longer holding back. They send in their Sveri Sku. Chris recognizes them as devolved Sepu."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/cave_battle.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch25/cave_battle.jpg",
               "title": "Chapter 25 - Skrema",
               "description": "The explosion destroyed the wall and the Sveri Sku begin to overwhelm the crew."
             }
@@ -457,17 +483,18 @@
           "title": "To the Death",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch26/skrema.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch26/skrema.jpg",
               "title": "Chapter 26 - To the Death",
-              "description": "Chris confronts the group of Svixen that approach."
+              "description": "Chris confronts the group of Svixen that approach.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch26/skrema_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch26/skrema_battle.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch26/skrema_battle.jpg",
               "title": "Chapter 26 - To the Death",
               "description": "Chris and Gatuum fight to the death."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch26/breven.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch26/breven.jpg",
               "title": "Chapter 26 - To the Death",
               "description": "Semula Breven declares Chris's victory, and Earth's future loss."
             }
@@ -478,12 +505,13 @@
           "title": "Survivors",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch27/buried_soldier.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch27/buried_soldier.jpg",
               "title": "Chapter 27 - Survivors",
-              "description": "Carmelo is found covered in the rubble of the destroyed LSPD wall."
+              "description": "Carmelo is found covered in the rubble of the destroyed LSPD wall.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch27/buried_soldier_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch27/survivors.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch27/survivors.jpg",
               "title": "Chapter 27 - Survivors",
               "description": "Chris opens the door to the pilot's cabin in the LOLA and finds the survivors."
             }
@@ -494,12 +522,13 @@
           "title": "Epilogue",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch28/overlooking_destruction.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch28/overlooking_destruction.jpg",
               "title": "Epilogue",
-              "description": "Chris and Fenrir make it to the FOB in search for medical supplies."
+              "description": "Chris and Fenrir make it to the FOB in search for medical supplies.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch28/overlooking_destruction_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch28/get_in.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/transync/ch28/get_in.jpg",
               "title": "Epilogue",
               "description": "Chris tries to coax Fenrir into riding in the back of the UTV."
             }
@@ -510,20 +539,21 @@
     {
       "id": "ascendant",
       "title": "Ascendant",
-      "subtitle": "The Dova Sku Series · Book 2",
-      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/cover.png",
+      "subtitle": "The Dova Sku Series \u00b7 Book 2",
+      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/cover.jpg",
       "chapters": [
         {
           "number": 0,
           "title": "Prologue",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch00/created.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch00/created.jpg",
               "title": "Prologue",
-              "description": "I was not born. I was created."
+              "description": "I was not born. I was created.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch00/created_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch00/returning.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch00/returning.jpg",
               "title": "Prologue",
               "description": "Chris, Liam, and Fenrir rush to return to the cave with medical supplies."
             }
@@ -534,12 +564,13 @@
           "title": "After the Fire",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch01/injured_morgan.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch01/injured_morgan.jpg",
               "title": "Chapter 1 - After the Fire",
-              "description": "Chris makes it back to the cave hideout with supplies for Morgan's wounds."
+              "description": "Chris makes it back to the cave hideout with supplies for Morgan's wounds.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch01/injured_morgan_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch01/chris_hank_chance.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch01/chris_hank_chance.jpg",
               "title": "Chapter 1 - After the Fire",
               "description": "Chris sits around the fire with Combat Specialist Davis and Tech Specialist Linkenbach."
             }
@@ -550,17 +581,18 @@
           "title": "Enhancements",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/crashsite.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/crashsite.jpg",
               "title": "Chapter 2 - Enhancements",
-              "description": "Overlooking the crashsite of the Light Skipper."
+              "description": "Overlooking the crashsite of the Light Skipper.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/crashsite_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/nanite_dust.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/nanite_dust.jpg",
               "title": "Chapter 2 - Enhancements",
               "description": "Chris collects more nanites from the podium at Research Base Bravo."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/trapped_fapu.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch02/trapped_fapu.jpg",
               "title": "Chapter 2 - Enhancements",
               "description": "The crew finds a surprise while searching the crashed Light Skipper for supplies."
             }
@@ -571,9 +603,10 @@
           "title": "Rebuilding",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch03/team_meeting.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch03/team_meeting.jpg",
               "title": "Chapter 3 - Rebuilding",
-              "description": "Liam and Chris explain their plans moving forward."
+              "description": "Liam and Chris explain their plans moving forward.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch03/team_meeting_thumb.jpg"
             }
           ]
         },
@@ -582,17 +615,18 @@
           "title": "Spacebound",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/lola_leaving_bravo.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/lola_leaving_bravo.jpg",
               "title": "Chapter 4 - Spacebound",
-              "description": "Chris and Liam, along with Rowley, leave Catora for the first trantion."
+              "description": "Chris and Liam, along with Rowley, leave Catora for the first trantion.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/lola_leaving_bravo_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/space_contact.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/space_contact.jpg",
               "title": "Chapter 4 - Spacebound",
               "description": "A radar contact is picked up by Liam."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/destroyed_scout.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch04/destroyed_scout.jpg",
               "title": "Chapter 4 - Spacebound",
               "description": "Liam shows Rowley and Chris an up-close-view of the destruction of the scout ship."
             }
@@ -603,17 +637,18 @@
           "title": "Activating the Trantions",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/transync_lights1.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/transync_lights1.jpg",
               "title": "Chapter 5 - Activating the Trantions",
-              "description": "Josh and Carmelo notice a change in the lighting of the Transync Station."
+              "description": "Josh and Carmelo notice a change in the lighting of the Transync Station.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/transync_lights1_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/trantion.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/trantion.jpg",
               "title": "Chapter 5 - Activating the Trantions",
               "description": "Connecting to the Aku'Ra Trantions."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/maaket_arrival.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch05/maaket_arrival.jpg",
               "title": "Chapter 5 - Activating the Trantions",
               "description": "The Transync portal opens with unexpected visitors."
             }
@@ -624,12 +659,13 @@
           "title": "Abducted",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch06/back_to_catora.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch06/back_to_catora.jpg",
               "title": "Chapter 6 - Abducted",
-              "description": "Chris and Rowley return to Catora safely."
+              "description": "Chris and Rowley return to Catora safely.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch06/back_to_catora_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch06/abducted.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch06/abducted.jpg",
               "title": "Chapter 6 - Abducted",
               "description": "Liam shows everyone the video of the Maaket arriving through the Transync portal."
             }
@@ -640,17 +676,18 @@
           "title": "The Other Side",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/tual_station.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/tual_station.jpg",
               "title": "Chapter 7 - The Other Side",
-              "description": "Chris and his team step into the Tual Transync Station and surprise the Maaket on duty."
+              "description": "Chris and his team step into the Tual Transync Station and surprise the Maaket on duty.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/tual_station_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/maaket_hostage.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/maaket_hostage.jpg",
               "title": "Chapter 7 - The Other Side",
               "description": "Chris surprises a Maaket while testing his suit's new capabilities."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/surrender.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch07/surrender.jpg",
               "title": "Chapter 7 - The Other Side",
               "description": "Chris and his team surrender to the Maaket guards."
             }
@@ -661,12 +698,13 @@
           "title": "Meeting Royalty",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch08/holding_cell.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch08/holding_cell.jpg",
               "title": "Chapter 8 - Meeting Royalty",
-              "description": "Chris, Morgan, Lemmon and Robertson wait in the Maaket holding cell in the palace."
+              "description": "Chris, Morgan, Lemmon and Robertson wait in the Maaket holding cell in the palace.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch08/holding_cell_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch08/meeting_princess.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch08/meeting_princess.jpg",
               "title": "Chapter 8 - Meeting Royalty",
               "description": "The team is taken to the throne room to meet Princess Cashy and her entourage."
             }
@@ -677,17 +715,18 @@
           "title": "Decisions to Make",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/old_recliner.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/old_recliner.jpg",
               "title": "Chapter 9 - Decisions to Make",
-              "description": "Liam shows off his emerging personality quirks."
+              "description": "Liam shows off his emerging personality quirks.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/old_recliner_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/seutor_intro.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/seutor_intro.jpg",
               "title": "Chapter 9 - Decisions to Make",
               "description": "The team review their options for Transync connections."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/seutors_inhabitants.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch09/seutors_inhabitants.jpg",
               "title": "Chapter 9 - Decisions to Make",
               "description": "Liam reveals the species that await them on the planet Seutor."
             }
@@ -698,27 +737,28 @@
           "title": "Ambushed",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/fenrir_stop.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/fenrir_stop.jpg",
               "title": "Chapter 10 - Ambushed",
-              "description": "Miller tries to catch Fenrir as he barrels toward Chris."
+              "description": "Miller tries to catch Fenrir as he barrels toward Chris.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/fenrir_stop_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/seutor_jungle_gate.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/seutor_jungle_gate.jpg",
               "title": "Chapter 10 - Ambushed",
               "description": "Chris looks back in surprise at the gate he expected to be inside a Transync Station."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/seutor_ambush.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/seutor_ambush.jpg",
               "title": "Chapter 10 - Ambushed",
               "description": "The team is ambushed in the Seutor jungle by a group of Natuul."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/calores_transync.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/calores_transync.jpg",
               "title": "Chapter 10 - Ambushed",
               "description": "The team arrives to the Calores region Transync station and finds it in disarray."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/tivay_communicator.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch10/tivay_communicator.jpg",
               "title": "Chapter 10 - Ambushed",
               "description": "Chris sneaks up on the first Tuaca hiding out in the dilapidated building."
             }
@@ -729,17 +769,18 @@
           "title": "Calores Region Safehouse",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/trip_to_safehouse1.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/trip_to_safehouse1.jpg",
               "title": "Chapter 11 - Calores Region Safehouse",
-              "description": "The team travels to the Tuaca safehouse with Tivay and Posis."
+              "description": "The team travels to the Tuaca safehouse with Tivay and Posis.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/trip_to_safehouse1_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/seutor_safehouse.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/seutor_safehouse.jpg",
               "title": "Chapter 11 - Calores Region Safehouse",
               "description": "The steampunk-looking safehouse is not what the humans expected."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/meeting_patron_rohga.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch11/meeting_patron_rohga.jpg",
               "title": "Chapter 11 - Calores Region Safehouse",
               "description": "The team is taking a quick break as Patron Rohga enters the small waiting room."
             }
@@ -747,20 +788,21 @@
         },
         {
           "number": 12,
-          "title": "Seutor's Flora… and Fauna",
+          "title": "Seutor's Flora\u2026 and Fauna",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/seutor_glows.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/seutor_glows.jpg",
               "title": "Chapter 12 - Seutor's Flora... and Fauna",
-              "description": "The jungle flora comes to life when the sun goes down."
+              "description": "The jungle flora comes to life when the sun goes down.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/seutor_glows_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/jungle_crater.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/jungle_crater.jpg",
               "title": "Chapter 12 - Seutor's Flora... and Fauna",
               "description": "The group comes across signs of the Svixen attacks in the jungle on their way to Lesfer Spaceport."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/vyasin_attack.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch12/vyasin_attack.jpg",
               "title": "Chapter 12 - Seutor's Flora... and Fauna",
               "description": "Tivay is attacked by a local creature called a Vyasin."
             }
@@ -771,17 +813,18 @@
           "title": "Lesfer Spaceport",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/canyon_rim.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/canyon_rim.jpg",
               "title": "Chapter 13 - Lesfer Spaceport",
-              "description": "The jungle ahead opens up to reveal a massive canyon."
+              "description": "The jungle ahead opens up to reveal a massive canyon.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/canyon_rim_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/Lesfer-spaceport.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/Lesfer-spaceport.jpg",
               "title": "Chapter 13 - Lesfer Spaceport",
               "description": "Guardian Phostop and his guards greet the group of travelers just inside the city gates."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/a_negotiations.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch13/a_negotiations.jpg",
               "title": "Chapter 13 - Lesfer Spaceport",
               "description": "Guardian Phostop discusses the recent attack, and the state of the damaged spaceport."
             }
@@ -792,27 +835,28 @@
           "title": "Full Control",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/escape.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/escape.jpg",
               "title": "Chapter 14 - Full Control",
-              "description": "Liam uses Chris as a battering ram to punch through a nearby wall."
+              "description": "Liam uses Chris as a battering ram to punch through a nearby wall.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/escape_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/after_impact.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/after_impact.jpg",
               "title": "Chapter 14 - Full Control",
               "description": "The group assesses the situation once Liam relinquishes control."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/city_remains.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/city_remains.jpg",
               "title": "Chapter 14 - Full Control",
               "description": "The aftermath of the missile strike is as devestating as the attack."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/battlefield_report.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/battlefield_report.jpg",
               "title": "Chapter 14 - Full Control",
               "description": "Chris absorbs the images on the holodisplays that show the overwhelming battle in the city outside. Liam helps translate."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/svixen_pack.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch14/svixen_pack.jpg",
               "title": "Chapter 14 - Full Control",
               "description": "Chris and his team confront a pack of the invading Svixen."
             }
@@ -823,32 +867,33 @@
           "title": "New Toy",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_approaches.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_approaches.jpg",
               "title": "Chapter 15 - New Toy",
-              "description": "A new Svixen commander approaches after killing one of his own warriors."
+              "description": "A new Svixen commander approaches after killing one of his own warriors.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_approaches_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_skrema.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_skrema.jpg",
               "title": "Chapter 15 - New Toy",
               "description": "Warlord Tagonis Riveen prepares himself for battle and calls for his ship as a whitness."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_fight.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_fight.jpg",
               "title": "Chapter 15 - New Toy",
               "description": "Chris's skrema with Warlord Riveen begins."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_sword.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_sword.jpg",
               "title": "Chapter 15 - New Toy",
               "description": "Chris allows his opponent to collect his weapon."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/sword_clash.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/sword_clash.jpg",
               "title": "Chapter 15 - New Toy",
               "description": "Chris and Riveen clash."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_defeat.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch15/tagonis_defeat.jpg",
               "title": "Chapter 15 - New Toy",
               "description": "Warlord Riveen admits his defeat. Liam marks the location of Chris's final strike."
             }
@@ -859,12 +904,13 @@
           "title": "Politics",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch16/angry_phostop.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch16/angry_phostop.jpg",
               "title": "Chapter 16 - Politics",
-              "description": "Phostop expresses his anger with Chris."
+              "description": "Phostop expresses his anger with Chris.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch16/angry_phostop_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch16/leaving_lesfer.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch16/leaving_lesfer.jpg",
               "title": "Chapter 16 - Politics",
               "description": "The team waits next to their new rides, the Tuaca Ground Runners."
             }
@@ -875,27 +921,28 @@
           "title": "Round Trip",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/introducing_tivay.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/introducing_tivay.jpg",
               "title": "Chapter 17 - Round Trip",
-              "description": "The team leaves the Transync station to meet with the rest of the crew."
+              "description": "The team leaves the Transync station to meet with the rest of the crew.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/introducing_tivay_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/smelly_crate.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/smelly_crate.jpg",
               "title": "Chapter 17 - Round Trip",
               "description": "Fenrir marks out a suspicious crate."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/piloting_runner.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/piloting_runner.jpg",
               "title": "Chapter 17 - Round Trip",
               "description": "Liam helps Chris navigate the winding canyon road to Lesfer."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/tunnel_destruction.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/tunnel_destruction.jpg",
               "title": "Chapter 17 - Round Trip",
               "description": "The crew get their first glimpse into the destroyed tunnels of the spaceport hangars."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/spotted_ascendant.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch17/spotted_ascendant.jpg",
               "title": "Chapter 17 - Round Trip",
               "description": "Chris spots their ride home through the rubble as the tunnel opens into the underground hangar."
             }
@@ -906,17 +953,18 @@
           "title": "Digging In",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch18/clearing_rubble.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch18/clearing_rubble.jpg",
               "title": "Chapter 18 - Digging In",
-              "description": "The humans dig in with helping to clear the rubble in the hangar."
+              "description": "The humans dig in with helping to clear the rubble in the hangar.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch18/clearing_rubble_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch18/airborn_morgan.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch18/airborn_morgan.jpg",
               "title": "Chapter 18 - Digging In",
               "description": "Chris pulls Morgan clear from falling debris right at the last second."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch18/back_to_tual.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch18/back_to_tual.jpg",
               "title": "Chapter 18 - Digging In",
               "description": "Chris puts together a small team to head to Tual to retrieve Lemmon and Josh."
             }
@@ -927,17 +975,18 @@
           "title": "Envoys",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/seutors_capitol.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/seutors_capitol.jpg",
               "title": "Chapter 19 - Envoys",
-              "description": "The group of envoys walk through the crowded city streets of the Maaket Capital."
+              "description": "The group of envoys walk through the crowded city streets of the Maaket Capital.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/seutors_capitol_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/maaket_lab.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/maaket_lab.jpg",
               "title": "Chapter 19 - Envoys",
               "description": "Chris finds Josh and Lemmon surrounded by Maaket scientists and Ankir dressed in a new Drake Scale prototype."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/ankirs_pledge.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch19/ankirs_pledge.jpg",
               "title": "Chapter 19 - Envoys",
               "description": "Ankir tells Princess Cashy he wants to help the humans."
             }
@@ -948,17 +997,18 @@
           "title": "Semula Breven",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/breven_on_bridge.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/breven_on_bridge.jpg",
               "title": "Chapter 20 - Semula Breven",
-              "description": "Breven receives a report on the failed conquest of Seutor."
+              "description": "Breven receives a report on the failed conquest of Seutor.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/breven_on_bridge_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/breven_gathering_fodder.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/breven_gathering_fodder.jpg",
               "title": "Chapter 20 - Semula Breven",
               "description": "Breven diverts to gather additional Sveri Sku for fodder at Earth."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/discraced.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch20/discraced.jpg",
               "title": "Chapter 20 - Semula Breven",
               "description": "Semula Breven revisits his clan's discrace."
             }
@@ -969,22 +1019,23 @@
           "title": "System Checks",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/happy_greetings.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/happy_greetings.jpg",
               "title": "Chapter 21 - System Checks",
-              "description": "The envoy group returns to Lesfer."
+              "description": "The envoy group returns to Lesfer.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/happy_greetings_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/hangar_hangout.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/hangar_hangout.jpg",
               "title": "Chapter 21 - System Checks",
               "description": "Some of the crew relax after a long day of hard labor."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/opening_hangar.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/opening_hangar.jpg",
               "title": "Chapter 21 - System Checks",
               "description": "Enough repairs have been completed to finally open the overhead hangar doors."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/ascendants_bridge_first.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch21/ascendants_bridge_first.jpg",
               "title": "Chapter 21 - System Checks",
               "description": "Chris checks out the bridge of the Ascendant."
             }
@@ -995,17 +1046,18 @@
           "title": "The Ascendant Stirs",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/full_reveal.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/full_reveal.jpg",
               "title": "Chapter 22 - The Ascendant Stirs",
-              "description": "The hangar doors open to reveal the rear of the Ascendant in daylight."
+              "description": "The hangar doors open to reveal the rear of the Ascendant in daylight.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/full_reveal_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/farewell.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/farewell.jpg",
               "title": "Chapter 22 - The Ascendant Stirs",
               "description": "The crew staying behind says their goodbyes."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/ascending.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch22/ascending.jpg",
               "title": "Chapter 22 - The Ascendant Stirs",
               "description": "The Ascendant lifts off from the spaceport."
             }
@@ -1016,22 +1068,23 @@
           "title": "Fire in the Void",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/into_the_black.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/into_the_black.jpg",
               "title": "Chapter 23 - Fire in the Void",
-              "description": "The crew breaks free from Seutor's gravity and finally heads toward Earth."
+              "description": "The crew breaks free from Seutor's gravity and finally heads toward Earth.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/into_the_black_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/introducing_liam.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/introducing_liam.jpg",
               "title": "Chapter 23 - Fire in the Void",
               "description": "Chris reveals the secret of Liam to Ankir, Tivay, and Posis."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/svixen_contact.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/svixen_contact.jpg",
               "title": "Chapter 23 - Fire in the Void",
               "description": "A Svixen carrier appears out of nowhere and prepares to fire on the Ascendant."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/dispersed.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch23/dispersed.jpg",
               "title": "Chapter 23 - Fire in the Void",
               "description": "The first shot from the enemy is dispersed by the new Maaket inverter."
             }
@@ -1042,17 +1095,18 @@
           "title": "Close Quarters Combat",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/boarding_party.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/boarding_party.jpg",
               "title": "Chapter 24 - Close Quarters Combat",
-              "description": "The first group of Svixen break through, but are countered immediately."
+              "description": "The first group of Svixen break through, but are countered immediately.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/boarding_party_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/hidden_ankir.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/hidden_ankir.jpg",
               "title": "Chapter 24 - Close Quarters Combat",
               "description": "Ankir displays his proficiency with the Drake Scale's cloaking feature, saving Morgan in the process."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/cats_and_dogs.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch24/cats_and_dogs.jpg",
               "title": "Chapter 24 - Close Quarters Combat",
               "description": "Ankir and Fenrir share a moment after the skirmish."
             }
@@ -1063,17 +1117,18 @@
           "title": "Not Prey",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/breach_shield.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/breach_shield.jpg",
               "title": "Chapter 25 - Not Prey",
-              "description": "Fenrir lunges toward the breach shield the Svixen are pushing through the corridor."
+              "description": "Fenrir lunges toward the breach shield the Svixen are pushing through the corridor.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/breach_shield_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/injured_miller.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/injured_miller.jpg",
               "title": "Chapter 25 - Not Prey",
               "description": "Fenrir guards the injured Miller as the battle in the corridor rages on. Morgan hurries to set up the Maaket shield emmitter so she can help."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/execution.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch25/execution.jpg",
               "title": "Chapter 25 - Not Prey",
               "description": "When Morgan in the medbay confirms Miller's death over comms, Chris executes the Svixen commander on the bridge."
             }
@@ -1084,17 +1139,18 @@
           "title": "Broken but Unbowed",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/remorse.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/remorse.jpg",
               "title": "Chapter 26 - Broken but Unbowed",
-              "description": "After the jump, Chris stands at the center of the damaged bridge, Fenrir at his feet, as the crew begins emergency repairs around him."
+              "description": "After the jump, Chris stands at the center of the damaged bridge, Fenrir at his feet, as the crew begins emergency repairs around him.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/remorse_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/memorial.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/memorial.jpg",
               "title": "Chapter 26 - Broken but Unbowed",
               "description": "One by one the crew leave something for Miller's memorial."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/sendoff.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch26/sendoff.jpg",
               "title": "Chapter 26 - Broken but Unbowed",
               "description": "Chris releases Miller's body into the void."
             }
@@ -1105,22 +1161,23 @@
           "title": "Heatline",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/approaching_patchave.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/approaching_patchave.jpg",
               "title": "Chapter 27 - Heatline",
-              "description": "Looking for a place to receive repairs, the Ascendant approaches a planet designated: Patchave."
+              "description": "Looking for a place to receive repairs, the Ascendant approaches a planet designated: Patchave.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/approaching_patchave_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/cruillum_intros.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/cruillum_intros.jpg",
               "title": "Chapter 27 - Heatline",
               "description": "Kess, local leader of the Cruillum people in Heatline, prepares to greet the new arrivals."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/ithri_sings.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/ithri_sings.jpg",
               "title": "Chapter 27 - Heatline",
               "description": "Ithri and the White Hands sing to the Ascendant's harmonic resonator."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/heatline.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch27/heatline.jpg",
               "title": "Chapter 27 - Heatline",
               "description": "In the setting sun of the first day on Patchave, Kess of the Cruillum tells of life in Heatline."
             }
@@ -1131,22 +1188,23 @@
           "title": "Heat Kept, Water Spent",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/coolhouse.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/coolhouse.jpg",
               "title": "Chapter 28 - Heat Kept, Water Spent",
-              "description": "Ithri continues to work tirelessly on the harmonic resonator."
+              "description": "Ithri continues to work tirelessly on the harmonic resonator.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/coolhouse_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/drink_up.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/drink_up.jpg",
               "title": "Chapter 28 - Heat Kept, Water Spent",
               "description": "Morgan hands out water, regardless of whether you want it or not."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/supply_run.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/supply_run.jpg",
               "title": "Chapter 28 - Heat Kept, Water Spent",
               "description": "A small team prepares to make a supply run through the Transync portal back to Seutor."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/leaving_heatline.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch28/leaving_heatline.jpg",
               "title": "Chapter 28 - Heat Kept, Water Spent",
               "description": "Kess and Ithri see off the Ascendant."
             }
@@ -1157,17 +1215,18 @@
           "title": "Hit and Run",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/another_contact.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/another_contact.jpg",
               "title": "Chapter 29 - Hit and Run",
-              "description": "The Svixen cruiser had been following them the whole time."
+              "description": "The Svixen cruiser had been following them the whole time.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/another_contact_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/bite_backl.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/bite_back.jpg",
               "title": "Chapter 29 - Hit and Run",
               "description": "Linkenbach lands the perfect shot. Time to leave."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/jumping_away.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch29/jumping_away.jpg",
               "title": "Chapter 29 - Hit and Run",
               "description": "The Ascendant and its crew jump away while they have an opening."
             }
@@ -1178,22 +1237,23 @@
           "title": "Ghosts in the Stars",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/seeing_earth.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/seeing_earth.jpg",
               "title": "Chapter 30 - Ghosts in the Stars",
-              "description": "The crew is ecstatic to see Earth again, distant as it may be."
+              "description": "The crew is ecstatic to see Earth again, distant as it may be.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/seeing_earth_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/invasion.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/invasion.jpg",
               "title": "Chapter 30 - Ghosts in the Stars",
               "description": "When they use the ship's sensors to zoom in on Earth, the result is devastating."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/body_reveal.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/body_reveal.jpg",
               "title": "Chapter 30 - Ghosts in the Stars",
               "description": "Josh reveals the project he's been working on, and suggests it could be the advantage they need."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/we_wait.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch30/we_wait.jpg",
               "title": "Chapter 30 - Ghosts in the Stars",
               "description": "The crew decides not to rush into action, they need to go into the next battle as prepared as can be."
             }
@@ -1204,12 +1264,13 @@
           "title": "Epilogue",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch31/lescian_watches.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch31/lescian_watches.jpg",
               "title": "Chapter 31 - Epilogue",
-              "description": "Praetor Lescian Kamantu consideres his first move as he watches the Svixen invasion of Earth and the surprise that he didn't expect."
+              "description": "Praetor Lescian Kamantu consideres his first move as he watches the Svixen invasion of Earth and the surprise that he didn't expect.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch31/lescian_watches_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch31/watchful_eye.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/ascendant/ch31/watchful_eye.jpg",
               "title": "Chapter 31 - Epilogue",
               "description": "The Aku'Ra vessel The Watchful Eye moves through deep space toward the Sol System."
             }
@@ -1220,8 +1281,8 @@
     {
       "id": "skrema",
       "title": "Skrema",
-      "subtitle": "The Dova Sku Series · Book 3",
-      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/cover.png",
+      "subtitle": "The Dova Sku Series \u00b7 Book 3",
+      "coverImage": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/cover.jpg",
       "locked": true,
       "chapters": [
         {
@@ -1229,12 +1290,13 @@
           "title": "Prologue",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch00/breven_battle_display.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch00/breven_battle_display.jpg",
               "title": "Prologue",
-              "description": "Breven looks over his forces surrounding Earth."
+              "description": "Breven looks over his forces surrounding Earth.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch00/breven_battle_display_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch00/brevens_overwatch.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch00/brevens_overwatch.jpg",
               "title": "Prologue",
               "description": "Breven's ship, the Ull'Kareth controls the battlespace."
             }
@@ -1245,17 +1307,18 @@
           "title": "The Waiting",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/earths_destruction.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/earths_destruction.jpg",
               "title": "Chapter 1 - The Waiting",
-              "description": "The crew of the Ascendant watch Earth burn, and can only wait."
+              "description": "The crew of the Ascendant watch Earth burn, and can only wait.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/earths_destruction_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/prepping_body.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/prepping_body.jpg",
               "title": "Chapter 1 - The Waiting",
               "description": "Josh prepares Liam's body for the transfer."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/strange_message.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch01/strange_message.jpg",
               "title": "Chapter 1 - The Waiting",
               "description": "Liam picks up a signal that carries a hidden message."
             }
@@ -1266,17 +1329,18 @@
           "title": "Echoes in the Dark",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/waiting_to_meet.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/waiting_to_meet.jpg",
               "title": "Chapter 2 - Echoes in the Dark",
-              "description": "Chris and Liam discuss moving forward while they wait for the first meeting of a new species."
+              "description": "Chris and Liam discuss moving forward while they wait for the first meeting of a new species.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/waiting_to_meet_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/meeting_akura.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/meeting_akura.jpg",
               "title": "Chapter 2 - Echoes in the Dark",
               "description": "The Ascendant is greeted by a sleek-hulled Aku'Ra ship."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/meeting_kamantu.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch02/meeting_kamantu.jpg",
               "title": "Chapter 2 - Echoes in the Dark",
               "description": "Praetor Lescian Kamantu steps onto the Ascendant to a waiting Chris and Josh."
             }
@@ -1287,22 +1351,23 @@
           "title": "The Watchful Eye",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/checking_escape_pods.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/checking_escape_pods.jpg",
               "title": "Chapter 3 - The Watchful Eye",
-              "description": "Chris checks out the escape pods accompanied by Fenrir."
+              "description": "Chris checks out the escape pods accompanied by Fenrir.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/checking_escape_pods_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/walking_watchful_eye.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/walking_watchful_eye.jpg",
               "title": "Chapter 3 - The Watchful Eye",
               "description": "Chris and Liam get a tour of the Aku'Ra ship, The Watchful Eye."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/waking_akura.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/waking_akura.jpg",
               "title": "Chapter 3 - The Watchful Eye",
               "description": "Kamantu begins to wake his crew."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/josh_prepares_body.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch03/josh_prepares_body.jpg",
               "title": "Chapter 3 - The Watchful Eye",
               "description": "Josh prepares Liam's body for the transfer."
             }
@@ -1313,27 +1378,28 @@
           "title": "The Transfer",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/liams_transfer.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/liams_transfer.jpg",
               "title": "Chapter 4 - The Transfer",
-              "description": "Chris is prepared for the transfer while Liam's new body awaits."
+              "description": "Chris is prepared for the transfer while Liam's new body awaits.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/liams_transfer_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/first_handshake.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/first_handshake.jpg",
               "title": "Chapter 4 - The Transfer",
               "description": "Chris and Liam share their first handshake."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/fenrir_approves.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/fenrir_approves.jpg",
               "title": "Chapter 4 - The Transfer",
               "description": "Liam introduces himself to Fenrir, and the tarlon approves."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/training_liam.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/training_liam.jpg",
               "title": "Chapter 4 - The Transfer",
               "description": "Liam tests, and shows off, what his new body can do."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/escape_pods.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch04/escape_pods.jpg",
               "title": "Chapter 4 - The Transfer",
               "description": "Looking out from the escape pod bay at the broken Earth below."
             }
@@ -1344,29 +1410,30 @@
           "title": "The Descent",
           "images": [
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/dropping_pods.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/dropping_pods.jpg",
               "title": "Chapter 5 - The Descent",
-              "description": "The team drops in through a enemy filled orbit. Hoping to avoid detection."
+              "description": "The team drops in through a enemy filled orbit. Hoping to avoid detection.",
+              "thumbnailUrl": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/dropping_pods_thumb.jpg"
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/pods_burning_atmo.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/pods_burning_atmo.jpg",
               "title": "Chapter 5 - The Descent",
               "description": "The escape pods hit turbulance in the atmosphere."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/exiting_pods.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/exiting_pods.jpg",
               "title": "Chapter 5 - The Descent",
               "description": "The team steps out onto the ground of Earth for the first time since leaving."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/stream_pause.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/stream_pause.jpg",
               "title": "Chapter 5 - The Descent",
-              "description": "Taking a break on the long hike to Göbeklitepe."
+              "description": "Taking a break on the long hike to G\u00f6beklitepe."
             },
             {
-              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/meeting_locals.png",
+              "url": "https://cdn.jsdelivr.net/gh/imaginariumitaliano/dova-sku-companion-content@main/images/skrema/ch05/meeting_locals.jpg",
               "title": "Chapter 5 - The Descent",
-              "description": "The team meets up with a group of survivors at the lower Göbeklitepe dig site."
+              "description": "The team meets up with a group of survivors at the lower G\u00f6beklitepe dig site."
             }
           ]
         },
